@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546181958980.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC35EF22",
+    "lastKnownWriteTime" : 8246223293474941986,
+    "last_content_update" : 1546181958980,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "24CBBFD",
+        "caption" : "DGComp_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=DGComp_data&cache_key=24CBBFD",
+        "displayedObservations" : 801,
+        "environment" : "",
+        "expression" : "DGComp_data",
+        "object" : "DGComp_data",
+        "preview" : 0,
+        "totalObservations" : 801,
+        "variables" : 13
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
