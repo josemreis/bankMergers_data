@@ -1,0 +1,461 @@
+                        COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 23.11.2009
+                                                                 SG-Greffe(2009) D/9402-9403
+  In the published version of this decision, some
+                                                                 C(2009)9392
+  information has been omitted pursuant to Article
+  17(2) of Council Regulation (EC) No 139/2004
+  concerning non-disclosure of business secrets and                       PUBLIC VERSION
+  other confidential information. The omissions are
+  shown thus […]. Where possible the information
+  omitted has been replaced by ranges of figures or a                  MERGER PROCEDURE
+  general description.                                              ARTICLE 6(1)(b) DECISION
+To the notifying parties:
+Dear Sir/Madam,
+Subject:       Case No COMP/M.5495 - UNICREDIT/ BANCA IMI/ EUROTLX SIM
+               JV
+               Notification of 16 October 2009 pursuant to Article 4 of Council
+               Regulation No 139/20041
+1. On 16 October 2009, the Commission received a notification of a proposed
+     concentration pursuant to Article 4 of Council Regulation (EC) No 139/2004 by
+     which the undertakings Unicredit S.p.A ("UniCredit", Italy) and Banca IMI S.p.A.
+     ("Banca IMI", Italy) intend to transform the existing joint venture TLX S.p.A.
+     ("TLX") into a full-function joint venture, EuroTLX Società di Intermediazione
+     S.p.A. ("EuroTLX SIM"), within the meaning of Article 3(4) of the Council
+     Regulation.
+I.     THE PARTIES AND THE OPERATION
+2. UniCredit is an international financial institution with registered office in Rome and
+     listed on the Milan Stock Exchange. It offers a wide range of banking and financial
+     services in several European countries, including retail and corporate banking services
+     as well as investment banking and asset management.
+3. Banca IMI, a company of the Intesa Sanpaolo Group, is an Italian investment bank
+     that operates on domestic and international markets.
+4. The operation under review consists in the creation of EuroTLX SIM as a for-profit
+     commercial entity resulting from the transformation of the pre-existing joint venture
+1         OJ L 24, 29.1.2004 p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+    TLX into a full function joint venture, which will operate as an investment firm in
+    charge of the management of a trading platform named EuroTLX.
+II.   CONCENTRATION
+5. The share capital of TLX is currently held for 50% by UniCredit and for 50% by Banca
+    IMI, who jointly control the joint venture. This shareholding and control structure will
+    continue to apply following the transaction. TLX currently manages two platforms for
+    the trading of financial instruments named TLX and EuroTLX,
+6. Once created, EuroTLX SIM will have sufficient resources to operate independently on
+    the market, applying a revenue based model for trading and other services, operate on a
+    commercial basis vis-à-vis its parents, be open to all market operators which wish to
+    become members and operate on a lasting basis.
+7. The operation therefore constitutes a concentration in the sense of Article 3(4) of the
+    Merger Regulation and paragraph 109 of the Consolidated Jurisdictional Notice.
+III. COMMUNITY DIMENSION
+8. The undertakings concerned have a combined aggregate world-wide turnover of more
+    than EUR 5 billion2 (UniCredit EUR 66,298 million, Banca IMI EUR 35,793 million).
+    Each of them has a Community-wide turnover in excess of EUR 250 million
+    (UniCredit, EUR […] million, Banca IMI EUR […] million), but they do not achieve
+    more than two-thirds of their aggregate Community-wide turnover within one and the
+    same Member State. The notified operation therefore has a Community dimension.
+IV.     RELEVANT MARKETS
+9. As indicated, TLX currently manages two platforms for the trading of financial
+    instruments: (i) a "regulated market" named TLX, and; (ii) a "Multilateral Trading
+    Facility" ("MTF") named Euro TLX, both of which notions are defined in Directive
+    2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets
+    in financial instruments ("MiFID"). Upon completion TLX will change its name to
+    EuroTLX SIM and will manage exclusively the MTF named Euro TLX.
+10. UniCredit and Banca IMI, the parent companies of TLX, provide trading services in
+    financial instruments as well as post-trading services. Such activities are vertically
+    related to those of the joint venture.
+11. Therefore, the assessment of the operation needs to be carried out in respect of the
+    activity of TLX, broadly speaking the management of a platform for the trading of
+    financial instruments, as well as in respect of the vertically related trading and post-
+    trading services.
+2   Turnover calculated in accordance with Article 5(1) of the Merger Regulation.
+                                                        2
+
+IV.1. Multilateral platforms for the trading of financial instruments between qualified
+counterparties
+Relevant product market
+Regulatory framework and views of the Parties
+12. Upon completion of the operation, EuroTLX will operate exclusively in secondary
+    inter-dealer (B2B) trading as an MTF retail platform focusing on government, corporate
+    and "branded" bonds, that is debt instruments issued by commercial financial
+    institutions. It currently has market share essentially in Italian securities but also trades
+    non-Italian instruments and has the ambition to expand its range of offerings.
+13. The relevant economic activity raised by this case takes place after the admission of
+    issued financial instruments to secondary trading by the platform concerned3. In this
+    phase the various providers of market infrastructure allow trading to take place on third
+    party account between qualified purchasers and sellers ("members"), according to the
+    set of rules which they have defined.
+14. The Parties in the notification defended a wide market definition, consisting of all
+    companies which organize and manage venues where financial instruments are traded
+    and explicitly covering both regulated markets and MTFs. They acknowledged the
+    possibility of segmenting the market between platforms which trade equities and those
+    which trade bonds.
+15. The Parties also put forward an alternative, wider market definition which would
+    encompass also bilateral trading via so-called "systematic internalisers"4 and "over the
+    counter trading" ("OTC"), concepts equally defined under MiFID. In such instances,
+    investment firms enter into every trade on their own account and not as a riskless
+    counterparty interposed between the buyer and the seller. Transactions carried out on
+    an OTC basis are normally ad-hoc, irregular and carried out with wholesale
+    counterparties as part of a business relationship which is itself characterised by
+    dealings above standard market size5.
+16. Under MiFID, both "regulated markets" and "MTFs" are multilateral systems bringing
+    together or facilitating the bringing together of multiple third-party buying and selling
+    interests in financial instruments in the system according to non discretionary rules.
+    Regulated markets are, however, subject to a wider array of rules and management
+    requirements and, therefore higher costs, than MTFs. In addition, MTFs can be operated
+    by both investment firms and market operators (concepts defined by MiFID), whereas
+    regulated markets can only be operated by market operators.
+3   Secondary trading takes place after the initial issuance of securities and consists in investors
+    purchasing financial instruments from other investors who already hold these instruments and wish to
+    sell them.
+4   MiFID., article 4
+5   ibid., recital 53
+                                                       3
+
+17. According to recital 6 of MiFID, "definitions of regulated market and MTF should be
+    introduced and closely aligned with each other to reflect the fact that they represent
+    the same organised trading functionality. The definitions should exclude bilateral
+    systems where an investment firm enters into every trade on own account and not as
+    a riskless counterparty interposed between the buyer and seller."
+18. Finally, as indicated by the Parties, trading venues may have an interest in limiting
+    access to some typologies of investors. These restrictions can be explicit (e.g. by
+    indicating the kind of operator admitted) and/or implicit (e.g. by imposing a
+    minimum volume for transaction). On this basis, trading platforms could be further
+    segmented into retail platforms or venues where small size orders placed by
+    investment firms operating for retail clients are admitted (which should not be
+    confused with the bilateral systems open to retail investors themselves) and wholesale
+    platforms which are only accessible to financial institutions placing large size orders.
+    According to the Parties the average retail trading size in bonds is usually lower than
+    € 50,000 whereas at wholesale level the average size of the orders is more than € 1
+    million. Under Italian legislation, wholesale markets are those venues where the
+    operators are trading on own account or on the account of third parties admitted to the
+    same venue. The minimum tradable size is €500 000. MTS is currently the most
+    important wholesale market for multilateral rule-based trading in Italian and foreign
+    bonds. TLX and EuroTLX, as well as Borsa Italiana's MOT system are retail markets
+    for bonds.
+Results of the market investigation
+19. The Commission has not previously decided on the relevant market in a case
+    involving stock exchanges or alternative trading platforms. However, in case
+    M.35116, the market investigation favoured a division of the market between equities
+    and bonds and further favoured the exclusion of bilateral trading from the definition
+    of the relevant market. The market investigation in the present case confirmed the
+    relevance of both of these distinctions.
+20. Concerning the question of whether or not multilateral trading of bonds in regulated
+    markets and in MTFs constitute one single segment, as the parties suggest, or two
+    separate segments, most respondents to the market investigation confirmed that this
+    distinction is not of primary importance and that therefore a single market comprising
+    regulated markets and MTFs could in the circumstances of the present case be
+    assumed.
+21. In defining the market for the operation of trading platforms it should be borne in
+    mind that, as the market investigation has shown, platforms only actually compete at
+    any given time for order flow in those individual instruments which are admitted to
+    trading on the platform in question. Since the demand to sell a particular instrument
+    is specific to the instrument concerned (assuming it is already held and therefore
+    excluding short-selling) and at least a part of the demand to buy is similarly specific,
+    buyers and sellers can only meet on a platform actually offering trading in that
+    instrument. On this basis, markets could be defined narrowly on the basis of
+    individual instruments traded.
+6   COMP M.3511 Wiener Böerse et al./Budapest Stock Exchange/Budapest Commodity Exchange/Keler/JV
+                                                     4
+
+22. However, for reasons of scope and scale individual platforms tend to offer services
+    across a large range of similar instruments. From a supply perspective, as indicated in
+    the notification, the obstacle to offer trading in instruments not currently traded but
+    which share many characteristics with those that are may be very low. The more
+    dissimilar the instruments are, however, the greater this obstacle becomes. For this
+    reason platforms tend to offer trading in a cluster of instruments which share similar
+    properties such as, in this instance, bonds issued by Italian institutions. Supply side
+    considerations may therefore be taken to imply markets broader than the specific
+    instruments actually traded, the precise limits of which nonetheless need to be
+    ascertained on a case-by-case basis.
+23. The market investigation in the present case confirmed, however, that the nature of the
+    instruments traded was not the sole criterion relevant to the market definition, since in
+    the case of government bonds some platforms such as MTS are specialized in trading
+    very large sizes on a wholesale basis between entities which also participate in the
+    primary market, whereas TLX trades retail size trades which are on average over 100
+    times smaller. Respondents to the market investigation confirmed that MTS and TLX
+    should be seen as not competing with each other but rather operating in separate
+    relevant markets.
+24. On this basis, three segments could be identified within which the activity of TLX is
+    presently concentrated, namely multilateral trading platforms (comprising both
+    regulated markets and MTFs) for (i) Italian government bonds traded in retail size;
+    (ii) Italian corporate bonds and (iii) Italian branded debt.
+25. The market investigation indicated that competition needed to be assessed based on
+    the actual range of instruments traded and therefore the competitive interaction
+    between different trading platforms competing for trading in the same instrument. On
+    the supply side, account needed to be taken of the ease with which a platform could
+    offer trading in new instruments but also of the probability that it would capture
+    sufficient liquidity in that instrument for price formation to be efficient and therefore
+    for traders to have an incentive to use the platform for the instrument in question.
+26. Supply side considerations would broaden the relevant product market in particular
+    where many of the entities potentially wanting to trade the new instrument were
+    already members of the platform wishing to offer such trading. Where a significant
+    segment of demand was not already present on the platform, the incentive to offer
+    new instruments in isolation was likely to be small.
+27. Since TLX and its competitors typically offer trading services in a similar set of
+    instruments, supply side considerations can be held in this case indeed to result in
+    wider markets than would result from consideration of the demand side alone. In
+    particular, TLX offers trading services in retail-size demand for Italian government
+    securities, in Italian corporate debt and in Italian branded debt. On all of these
+    segments it also competes with MOT and Hi-MTF, these being the only entities cited
+    by respondents to the market investigation as being in actual competition with TLX.
+28. On this basis, a single overall market could be identified for multilateral trading
+    platform services in Italian debt securities, comprising retail-sized trade in
+    government securities and all trade in corporate and branded debt securities, to the
+    exclusion therefore of wholesale trade in Italian government debt. The view of the
+    Parties that the relevant market might comprise a wider set of platforms, including
+                                                    5
+
+    those which do not currently offer trading in the same range of instruments as TLX,
+    found no support in the market investigation and therefore can be excluded.
+29. The precise market definition can, however, be left open as the transaction does not
+    raise serious doubts as to its compatibility with the Common Market even on the
+    basis of the narrowest possible market segments.
+30. Although TLX is active also on other market segments namely in the trading of non-
+    Italian debt securities, affected markets in such segments do not arise due to its
+    market share which is […].
+Geographic market
+31. As regards the geographic scope of the relevant market, the Parties note the existence of
+    national regulatory authorities, precedents established by the Italian competition
+    authority before the entry into force of MiFID and the fact that domestic members of
+    trading venues still generate more volume in such infrastructures than foreign members
+    as factors that could lead to the conclusion that competition in the management of
+    platforms for the trade of financial instruments takes place, at least as regards Italy and
+    with the possible exception of wholesale trading in Italian government bonds, mainly at
+    a national scale.
+32. However, on the other side, the Parties consider that EuroTLX has all the legal and
+    regulatory requisites to become European in scope. It is already the case that investment
+    firms from other member States are members of TLX and make use of it for trading. In
+    particular large trading firms consider the main European trading venues as
+    interchangeable in respect of the instruments which can be traded on them. Likewise
+    Italian firms may accede to foreign trading venues for trading both foreign and Italian
+    instruments. In addition, trading firms frequently offer their services on a delocalized
+    basis so that clients from all over Europe have no technological obstacles to access any
+    trading platform they may wish to use.
+33. The results of the market investigation show that retail-sized fixed income trading in
+    Italian debt securities is mostly carried out by domestic trading members on domestic
+    platforms, although there are no legal or technical barriers limiting cross border
+    competition but only the barrier that results from the fact that liquidity and retail demand
+    for Italian bonds is mainly located in Italy. Thus, in practice, trade of Italian bonds
+    outside Italy is limited – although, according to some market participants, it may be
+    increasing and it would appear that entities located abroad who wish to trade Italian debt
+    instruments in general do not in general have access to economically equivalent
+    alternative ways of doing so in other jurisdictions but are constrained to make use of the
+    same platforms offering such trading as do Italian investment firms, namely TLX, MOT
+    and Hi-MTF.
+34. In this sense, therefore, retail-sized multilateral trading services in Italian bonds may be
+    provided in a market which is notionally wider in scope than Italy (as there are no other
+    national markets outside of Italy for the same service but with differing conditions of
+    competition) even if in practice the essential part of demand is national.
+35. There is, however, no need to conclude on the relevant geographic market in this case,
+    as the proposed transaction does not result in serious doubts as to its compatibility with
+    the common market on the basis of any of the possible product market segmentations
+                                                    6
+
+    outlined above, whether at national, EU/EEA or indeed worldwide level. In addition, as
+    regards platforms for the trading of Italian bonds for which the demand is presently
+    mainly located in Italy, the geographic scope of this activity is neutral to the competitive
+    assessment as the joint venture's position and that of its main competitors would be
+    essentially the same at national, EU/EEA and worldwide level.
+IV.2. Trading services
+Product market
+36. In case M.3511, trading services were defined as intermediary activities consisting of
+    the services the banks and other investment service providers offer to their customers
+    with regard to trading in securities. The parties submitted that despite the difference in
+    respect of the legal form of the transaction, trading in securities on customers' account
+    and trading in securities on own account are the same activity. Furthermore they
+    submitted that intermediary services with regard to trading on a regulated trading
+    platform and OTC are interchangeable. The market definition was left open.
+37. Both UniCredit and Intesa Sanpaolo carry out trading activities in equities and bonds on
+    their own and their customers' account. However only the provision of trading services
+    on customers' account is an activity upstream to EuroTLX SIM's activity, particularly as
+    regards retail or small ticket size trading in bonds.
+38. The assessment will therefore focus on this narrower segment, leaving open the question
+    of whether wider markets can be defined.
+Geographic market
+39. In case M.3511 the geographic market definition was left open. In the case at hand,
+    although the parties admit that under a conservative approach the market for the
+    provision of trading services could be still considered national in scope, they favour an
+    European-wide market definition based on the cross border nature of this economic
+    activity as well as on the fact that the services provided by trading firms are accessible
+    by clients from all over Europe. In fact both Unicredit and Intesa Sanpolo offer their
+    services through internet to clients resident in different countries.
+40. It can nonetheless be noted that the relevant upstream market relates to trading in Italian
+    bonds, the essential part of the demand for which is, in practice, and as already noted,
+    national in scope, and not to trading more generally, that is including services provided
+    in respect of instruments which are not, or only minimally, traded or potentially tradable
+    on TLX. It would therefore seem inconsistent to determine a wider geographic market
+    for these upstream services than exists for the services provided by TLX itself.
+41. In the present case, however, the market definition can again be left open as the
+    operation does not raise serious doubts as to its compatibility with the common market,
+    regardless of the geographic scope of the upstream market in question.
+                                                    7
+
+IV.3 Post-trading services
+Product market
+42. According to the Parties, the post-trading sector encompasses the different functions that
+    intervene between the stage of agreeing to a trade, at which moment the parties to it are
+    legally obligated to consummate the trade, and the moment at which the securities and
+    cash accounts of the buyer and seller are debited or credited respectively.
+43. More precisely, as indicated in the notification, the post-trading process is usually split
+    into the following phases:
+        -        Trade matching
+        Trade matching is the activity consisting in assessing the consistency of the terms
+        of trade of the buyer with those of the seller, thus preventing unintentional errors.
+        Trades executed on electronic order books are typically pre-matched by the same
+        trading system and then automatically forwarded to the Securities Settlement
+        System ("SSS"), with the exception of OTC trading which may require "manual"
+        checks.
+         -       Clearing and settlement
+        Clearing can be defined as the process of calculating the mutual obligations for the
+        exchange of securities and cash, whereas settlement refers to the final transfer of
+        securities from the seller to the buyer and of funds from the buyer to the seller.
+        Although in certain instances trading platforms make use of the services of a central
+        counterparty for clearing, this is not the case on TLX. Nonetheless the Parties may
+        intervene as clearing members on behalf of entities which trade in their own name
+        but have elected to have recourse to a third party for the purposes of clearing.
+        Positions in registered securities are normally ultimately settled at a Central
+        Securities Depositary (CSD). Nonetheless, members of a trading platform can also
+        elect to have their positions settled by an agent which holds their securities account
+        and conducts operations in the CSD only on an omnibus (i.e. net) basis.
+        -        Custody services
+        Custody services comprise a number of services performed in relation to
+        outstanding positions in securities on an ongoing basis rather than in relation to
+        specific transactions, including such items as payment of dividends and coupons,
+        stock splits, rights issues, voting (for equity securities with voting rights) and so on.
+44. In the case at hand, the vertically related services are provided exclusively on an agency
+    basis by the Parties acting as a general clearing agent, settlement agency, and/or
+    custodian. In case 38.096 under Article 82, the Commission distinguished agency (or
+    "secondary") settlement from so-called primary settlement which is carried out in the
+                                                    8
+
+    CSD7. In precedents under the Merger Regulation the market definition has been left
+    open.
+45. The Unicredit Group […] with the sole exception of its subsidiary […].
+46. Once again it needs to be observed that the vertically related activities in clearing,
+    settlement and custody relate in principle only to the instruments traded on TLX and
+    that similar arguments as to market definition apply as already considered in respect of
+    trading services, with markets definable at the level of single instruments from the
+    demand perspective, but wider on the basis of supply-side considerations.
+47. The parties refer to the different activities included in the post-trading process as a
+    single economic segment and do not discuss possible segmentations. Although this
+    approach appears questionable, the market definition in this case can be left open as
+    serious doubts as to the compatibility of the operation with the common market do not
+    arise, regardless of the precise market definition adopted.
+Geographic market
+48. The parties propose a national market definition for the relevant post-trading services in
+    this case on the basis that in order to carry out their activity, custodians and clearing
+    members which act as agents for clearing and settlement have to become members of
+    the national Central Securities Depository(ies) and, where relevant, also of the relevant
+    Central Counterparties.
+49. On the other side, however, they note that MiFID has liberalised the market for post-
+    trading services allowing investment firms, market operators operating in MTFs and
+    regulated markets to have access to clearing and settlement systems of other Member
+    States. They also note that even non-EEA market operators do not face
+    economic/regulatory barriers when trying to enter national post-trading markets.
+50. In the Commission's view, analogous arguments apply as to the geographic scope of the
+    market as already discussed above insofar as demand for these services in respect of the
+    specific types of security at issue may presently be primarily national in scope, but
+    market participants based in third countries are likely to require access to the same
+    providers as do participants based in Italy.
+51. In case M.3511 the market definition was left open. In this case the market definition
+    can similarly be left open, as the proposed operation does not raise serious doubts as to
+    its compatibility with the common market, regardless of the geographic scope of the
+    market considered.
+VI.      COMPETITIVE ASSESSMENT
+Horizontal overlaps – multilateral platforms for trading in financial instruments
+52. Unicredit and Intesa Sanpaolo Group are active in the management of multilateral
+    platforms for the trade of financial instruments only through TLX.
+7 See Judgment of the Court of First Instance of 9 September 2009 in case T-301/04, Clearstream Banking
+    AG and Clearstream International SA v. Commission
+                                                        9
+
+53. The table below illustrates, according to the Parties, TLX's current position and that of
+    its main competitors as regards trading in Italian bonds on retail multilateral trading
+    venues in 2008, both in terms of volumes traded and in terms of number of deals.
+                  TLX and its competitors’ market shares – bonds segment
+         (transactions taking place only on trading venues, excluding wholesale
+                                    government bond trading)
+                                                           2008
+  Competitor             number of            Market share      Turn-over (€      Market
+                         deals                                  bln)              shares
+  TLX                          […]                [40-50]%           […]            [30-40]%
+  Borsa Italiana
+                               […]                [50-60]%           […]            [60-70]%
+  (MOT)
+  Hi-Mtf                       […]                 [0-5]%            […]              [0-5]%
+  Total Market              5,464,808               100%             260               100%
+    Source: notification, Commission calculations
+54. As regards possible separate relevant markets for multilateral trading services in retail
+    sized government bonds, corporate bonds and "branded" bonds, the market investigation
+    has suggested market shares for TLX in the region of 35-50%.
+55. There is no horizontal overlap or potential overlap between the Parents and the joint
+    venture, and therefore no horizontal concerns arise.
+56. The market data show a strengthening in the relative position of TLX vis-à-vis Borsa
+    Italiana which is market leader on most segments. The market investigation confirmed
+    this tendency but also that the operation was unlikely to lead to any impediment to
+    competition.
+57. According to the results of the market investigation, the effect on competition of the
+    proposed operation can be considered, if anything, beneficial rather than detrimental.
+58. In view of the above, it can be excluded that serious doubts arise as regards the
+    compatibility of the operation with the common market in the field of management of
+    multilateral platforms for trading Italian-issued debt securities in retail size.
+                                                       10
+
+Vertical effects
+59. The market shares of the parent companies of Euro TLX SIM in the vertically related
+    markets of trading in bonds on third party account in retail venues are illustrated in the
+    tables below.
+                        UNICREDIT AND INTESA SAN PAOLO MARKET SHARES
+                             MARKET FOR TRADING ITALIAN BONDS -2008
+                                (TRADING ON THIRD PARTY ACCOUNT)
+                      (TRANSACTIONS THAT TAKE PLACE ON RETAIL TRADING
+                                            VENUES)
+                                          Volume (bln €)    Market shares
+                          Unicredit           […]             [10-20]%
+                       Intesa Sanpaolo        […]             [20-30]%
+                     Unicredit + Intesa       […]             [40-50]%
+                          Sanpaolo
+                        Total market           260              100%
+60. From these figures it appears that the Parties have a combined share of around [40-50]%
+    in the overall relevant upstream market and a downstream share of around [20-40]%
+    depending on how it is measured (number or value of trades).
+61. The market investigation looked closely at the question of whether, as a result of the
+    operation, there was any risk that the Parties would be able to leverage these market
+    shares in either the upstream or downstream market in order to significantly reinforce
+    their position in the other market resulting in a significant impediment to effective
+    competition in that market. This risk was considered, however, by the vast majority of
+    respondents to be negligible.
+62. In addition to the relatively limited market shares and attendant probability that such a
+    strategy would not be profitable, it was also confirmed, as suggested by the Parties, that
+    the requirements of best execution to which they were subject under MiFID in addition
+    to their commitment to "dynamic best execution" would require them to choose the
+    execution venue best suited to the needs of each individual client, regardless of whether
+    this was TLX or a competitor. It would therefore not be possible for them systematically
+    to direct order flow to TLX if the conditions of trading offered at any given moment
+    were not optimal for the needs of the client. Indeed, as business following the operation
+    would be conducted at an arms-length basis and TLX would be remunerated by the
+    parent companies on a […], its competitive advantage in respect of the order flow
+    generated by its parents would arguably be weakened rather than strengthened as a
+    result of the operation.
+63. Similarly, wider access to TLX as an alternative to, in particular, Borsa Italiana would
+    allow investment firms competing with the parents access to more competitive terms of
+                                                    11
+
+    trade than prior to the operation, suggesting that also competition in the upstream
+    market would be strengthened rather than weakened.
+64. As indicated, in the post-trading field the activities of TLX's parent companies do not
+    overlap as only […].
+65. On this basis it can be excluded that possible vertical concerns would lead to serious
+    doubts as to the compatibility of the operation with the common market.
+VII.    CONCLUSION
+66. For the above reasons, the Commission has decided not to oppose the notified operation
+    and to declare it compatible with the common market and with the EEA Agreement.
+    This decision is adopted in application of Article 6(1)(b) of Council Regulation (EC) No
+    139/2004.
+                                                         For the Commission
+                                                         (signed)
+                                                         Neelie KROES
+                                                         Member of the Commission
+                                                  12

@@ -1,0 +1,914 @@
+EN
+Case No C 0MPM 6812 - SFPI/DEXIA
+Only the English text is available and authentic.
+REGULATION (EC) No 139/2004
+MERGER PROCEDURE
+Article 6(1)(b) NON—OPPOSITION
+Date: 21/02/2013
+In electronicform 0n the E UR-Lex website under
+document number 32013M6812
+Of<U+FB01>ce for Publications of the European Union
+L-2985 Luxembourg
+
+
+EUROPEAN COMMISSION
+Brussels, 21.02.2013
+C(2013) 1107
+In the published version of this decision, some
+information has been omitted pursuant to Article PUBLIC VERSION
+17(2) of Council Regulation (EC) No 139/2004
+concerning non-disclosure of business secrets and
+other con<U+FB01>dential information. The emissions are MERGER PROCEDURE
+shown thus [...]. Where possible the information
+omitted has been replaced by ranges of <U+FB01>gures or a
+general description.
+T0 the notifying party:
+Dear Sir/Madam,
+Subject: Case No COMP/M.6812 - SFPI/ DEXIA
+Commission decision pursuant to Article 6(1)(b) of Council Regulation
+No 139/20041
+1. On 18 January 2013, the European Commission received noti<U+FB01>cation of a proposed
+concentration pursuant to Article 4 of Council Regulation (EC) No 139/20042 by Which
+the Société Fédérale de Participations et d'Investissement / Federale Participatie- e11
+Investeringsmaatschappij ("SFPI/FPIM") acquires sole control over DeXia SA/NV
+("Dexia").3 SFPI/FPIM and DeXia are designated hereinafter as the "Parties" and
+SFPI/FPIM as the "Notifying Party".
+(1) THE PARTIES
+2. SFPI/FPIM is an investment company fully owned by the Belgian State. The investment
+portfolio of SFPI/FPIM consists of stakes in public and private enterprises of strategic
+interest to the Belgian State. SFPI/FPIM has three core activities: participation in public
+1 OJ L 24, 29.1.2004, p. 1 ("the Merger Regulation"). With effect from 1 December 2009, the Treaty on
+the Functioning of the European Union ("TFEU") has introduced certain changes, such as the
+replacement of "Community" by "Union" and "common market" by "internal market". The
+terminology of the TFEU Will be used throughout this decision.
+2 OJ L 24, 29.1.2004, p. 1 (the "Merger Regulation").
+3 Publication in the Of<U+FB01>cial J ournal 0f the European Union No C 28, 30/01/2013, p. 13.
+Commission européenne, 1049 Bruxelles, BELGIQUE / Europese Commissie, 1049 Brussel, BELGIE. Tel.: +32 229-91111.
+
+
+and private enterprises, investment in enterprises with an important social value in one
+of the priority sectors selected by SFPI/FPIM, and contribution to policies of the Belgian
+federal government and implementation of proj ects on its behalf.
+
+3. DeXia is a <U+FB01>nancial institution with its registered seat in Belgium, which offers <U+FB01>nancial
+services in several countries, mainly in France through DeXia Credit Local ("DCL"), as
+well as elsewhere in Europe through a number of subsidiaries. DeXia is a limited liability
+company under Belgian law with its shares listed on Euronext Brussels and Paris as well
+as on the Luxembourg Stock Exchange. DeXia focuses its activities on public <U+FB01>nance,
+including project <U+FB01>nance. As a result of the <U+FB01>nancial crisis, and its ensuing <U+FB01>nancial
+dif<U+FB01>culties which resulted in the need for signi<U+FB01>cant State support, DeXia has been
+selling off all of its strategic operational entities since October 2011. This included a sale
+of its subsidiary DeXia Banque Belgique (DBB) which has been divested t0 the
+SFPI/FPIM who subsequently rebranded these assets under the commercial name Bel<U+FB01>us
+Banque et Assurances ("Bel<U+FB01>us"). As a result, DeXia has no longer signi<U+FB01>cant presence
+in retail banking and more generally, its actiVities in Belgium are minimal.
+
+(2) THE OPERATION AND THE PROCEDURE
+
+4. The DeXia group has faced severe <U+FB01>nancial challenges since the <U+FB01>nancial crisis that
+started around 2008. After failed restructuring attempts and due to a deteriorating
+<U+FB01>nancial situation of DeXia early 2012 the Belgian, French and Luxembourg States
+decided to prepare an orderly resolution plan for the DeXia group (the "Orderly
+Resolution Plan"). On 7 November 2012, DeXia's board of directors (the "B0ard")
+acknowledged that, following the losses incurred predominantly as a result of the
+impairment of DeXia's stake in DCL, DeXia's net assets had been reduced to EUR -2.685
+billion. Given that this amount was lower than one of the thresholds set out in Article
+633 of the Belgian Company Code, the Board was obliged to convene an extraordinary
+general meeting of the shareholders in order for them to vote on the continuation of
+DeXia's activities or, alternatively, its dissolution. At this extraordinary general meeting
+held on 21 December 2012, the shareholders approved the Board's proposal for a
+continuation of DeXia's actiVities along with the recapitalization 0f DeXia through a
+capital increase reserved to the Belgian and French States.
+
+5. On 12 December 2012, pursuant to Article 7(3) of the Merger Regulation the Notifying
+Party applied for a derogation from the suspension obligation provided for in Article
+7(1) of the Merger Regulation with regard to the proposed acquisition by "SFPI/FPIM"
+0f sole control over DeXia. By decision of 17 December 20124 the Commission
+concluded that whilst the suspension obligation could seriously affect the <U+FB01>nancial
+situation of the DeXia group along with the wider <U+FB01>nancial community, no threat to
+competition caused by the operation could be identi<U+FB01>ed. The Commission, thus,
+considered that a derogation from the standstill obligation did not appear to have adverse
+effects on one or more of the parties or on any third party and granted the derogation
+from the suspension obligation.
+
+6. As a result, on 31 December 2012, following the Extraordinary General Meeting of 21
+December 2012 and the Commission's Article 7(3) Decision of 17 December 2012, a
+capital increase of DeXia took place for a total amount of EUR 5.5 billion. The Belgian
+
+4 See Commission Decision C(2012) 9836.
+
+2
+
+
+State, acting through SFPI/FPIM, subscribed to the capital increase for an amount of
+EUR 2.915 billion while the French State subscribed to the capital increase for an
+amount of EUR 2.585 billion. This capital increase was intended to allow DeXia to
+continue the implementation of its orderly resolution, in accordance with the terms of the
+Revised Orderly Resolution Plan approved by the Commission 011 28 December 2012 in
+the context of the State aid proceedingss, as well as to allow for the run off of assets until
+their maturity.
+
+7. Prior to the capital increase, DeXia's capital was divided between various shareholders
+("the existing shareholders") with 110 single shareholder having control over DeXia
+within the meaning of the Merger Regulati0n6. The recapitalization has resulted in the
+dilution of the shares of other shareholders and in the Belgian State, through SFPI/FPIM,
+holding a 50.02% share in DeXia and France holding a 44.4% share, with the remainder
+(5.58%) being held by the previous shareholders (excluding the Belgian and French
+States).
+
+8. In accordance with the Orderly Resolution Plan7 and the agreement between the two
+States, the French State, participating in the recapitalization with an amount of EUR
+2.585 billion and acquiring a stake of 44.40% does not control, directly or indirectly,
+DeXia. Indeed, the shareholding 0f the Belgian State entitles SFPI/FPIM to appoint <U+FB01>ve
+out of nine members of the Board. All decisions, including strategic decisions such as
+the internal re-organization 0f the bank, are taken by a simple majority. As a result, all
+strategic decisions may be adopted by SFPI/FPIM alone and the French State has 110 veto
+rights over these decisions. The French State possesses normal minority shareholding
+protection rights, but it has 110 veto rights over important strategic business decisions.
+
+9. It follows that the recapitalization 0f DeXia results in the Belgian State, through
+SFPI/FPIM, acquiring sole control over DeXia.
+
+(3) THE CONCENTRATION
+
+10. Similarly to cases where control is acquired by private undertakings, in situations where
+private companies are reeapitalized by the State it has to be <U+FB01>rst established, on a case-
+by-case basis, whether a transaction gives rise to the acquisition of control and therefore
+constitutes a concentration within the meaning of Article 3 0f the Merger Regulation,
+and if so, whether such concentration meets the turnover thresholds set out in Article 5
+0f the Merger Regulation.
+
+11. The Commission has previously assessed under the Merger Regulation a number of
+reeapitalizations of banks by States resulting in acquisition by the State concerned of
+control over the bank in question, notably in the ease of the recapitalization 0f the German
+
+5 See Commission Decision C (2012) 9962 <U+FB01>nal of 28 December 2012, not yet published.
+
+6 Before the capital increase, the shares of DeXia were held as follow: Caisse des Dépéts et
+Consignations (17.61%); Holding Communal (14.26%); Arco Group (10.19%); Belgian State Via
+SFPI/FPIM (5.73%); French State (5.73%); Ethias Group (5.04%); CNP Assurances (2.96%);
+Flemish Region Via the Vlaams Toekomstfonds (2.87%); Walloon Region (2.01%); Brussels Region
+(0.86%); Employees (0.57%); Other institutional and individual shareholders — free <U+FB02>oat (32.17%).
+
+7 Annex 1 t0 the Principes Essentiels d'Accord en vue du Plan de Resolution Dé<U+FB01>nitif de DeXia, dated 8
+November 2012.
+
+3
+
+
+bank Hypo Real Estate (HRE) by the German Federal State Via the Financial Market
+Stabilisation Fund SoFFinS, as well as in the ease of the recapitalization by Austria of the
+bank Hypo Group Alpe Adria9.
+
+12. In order to establish the Commission's jurisdiction in cases when private undertakings
+are reoapitalized by the State, a two-step approach is followed. In a first step, it is
+analysed whether there is acquisition of control over the target conferring to the
+acquiring party the possibility of exercising decisive in<U+FB02>uence over it. If it is concluded
+that the transaction would give rise to the acquisition of control and the loss of
+independent power of decision, then, in a second step, in order to establish the
+undertakings to be taken into account for the purpose of the calculation of the turnover,
+it is analysed at which level of the state entity the independent power of decision would
+lie.
+
+13. Consequently, in order to establish whether or not the acquisition of by the Belgian State
+Via SFPI/FPIM constitutes a concentration noti<U+FB01>able under the Merger Regulation the
+Commission <U+FB01>rst needs to establish whether SFPI/FPIM (or an entity above it) will have
+the possibility to exercise decisive in<U+FB02>uence over DeXia or whether DeXia will, post-
+transaotion, constitute an economic unit that retains an independent power of decision. If
+the latter is not clearly the case, it will be considered that the transaction gives rise to an
+acquisition of control over DeXia and therefore, as a second step, it needs to be
+established which is the ultimate acquiring entity (SFPI/FPIM or an entity ultimately
+controlling SFPI/FPIM if the latter cannot be considered having an independent power of
+decision) in order to determine which undertakings need to be considered for the purpose
+of calculating relevant turnover.
+
+Assessment ofindependentpower ofdecision ofDexia post-transaction
+
+14. SFPI/FPIM has acquired a controlling stake in DeXia and there is no holding arrangement,
+special provisions or other safeguards in place that would ensure that DeXia retains an
+independent power of decision post—transaotion. Indeed, there are no provisions that would
+indicate that post—transaotion the strategy, business plan and budget of DeXia would be
+decided autonomously, neither are there any provisions that would result in <U+FB01>Jture separate
+management of SFPI/FPIM. Consequently, it cannot be excluded that, post—transaotion,
+DeXia will be subj eot to coordination of its commercial conduct with other entities
+controlled by the Belgian State or by SFPI/FPIM such as in particular Bel<U+FB01>us.
+
+15. As a result, in the case at hand, it cannot be considered that DeXia, post-transaotion would
+remain an economic unit with an independent power of decision. It is therefore concluded
+for the purpose of the present decision that SFPI/FPIM acquired control over DeXia in the
+sense of Article 3 of the Merger Regulation.
+
+Assessment of undertakings to be taken into account for the purpose of calculation of
+
+turnover
+
+16. To establish which undertakings, amongst all those controlled by the State, should be
+considered for the establishment of jurisdiction under the EC Merger Regulation, recital
+
+8 See Case No COMP/M.5508 — SOFFIN/ Hypo Real Estate, OJ C 147 of 27.06.2009, p. 8.
+
+9 See Case No COMP/M.5 861 - REPUBLIC OF AUSTRIA/ HYPO GROUP ALPE ADRIA
+
+4
+
+
+22 sets out that "[Ijn the public sector, calculation of the turnover of an undertaking
+concerned in a concentration needs, therefore, to take account of undertakings making
+up an economic unit with independent power of decision, irrespective of the way in
+which their capital is held 0r 0f the rules of administrative supervision applicable to
+them".
+
+17. Therefore, the Commission needs to identify the ultimate acquiring entity and analyse
+Whether there are other undertakings controlled (directly or indirectly, solely or jointly)
+by this entity Which should be taken into account for the purpose of the calculation of
+turnover in the sense of article 5 of the Merger Regulation. This is because other
+undertakings controlled by the same ultimate acquiring entity Within the meaning of the
+Merger Regulation may be subject to coordination With DeXia in the sense that they
+jointly constitute one centre of deoision-making and Will therefore need to be considered
+for the purpose of calculating relevant turnover.
+
+18. In the public sector, as regards the allocation of turnover for State-owned undertakings,
+separate entities may be identi<U+FB01>ed as autonomous entities having independent decision-
+making powers, not subj eot to coordination of their commercial behaviour or strategies
+With other State-owned holdings“). Such separate entities should be treated as
+independent and their turnover is not added together for the purposes of the application
+of Article 5 of the EC Merger Regulation“.
+
+19. Thus, in the case of the acquisition of an undertaking by a State, or by a State-owned
+undertaking, in order to calculate the turnover for the purposes of Article 1 of the Merger
+Regulation With regard to the buyer, account must be taken only of the turnover of those
+State-owned undertakings Which are under the same independent power of commercial
+deoision-making12.
+
+20. In the case at hand, since SFPI/FPIM already controls at least one undertaking, namely
+Bel<U+FB01>us, regarding which there are no special holding arrangements in place that would
+ensure independent power of decision, SFPI/FPIM will be considered as the economic unit
+which is the starting point for the assessment. The Commission needs to assess Whether
+SFPI/FPIM constitutes an economic unit With independent power of decision or Whether
+decisions are made at a higher level than SFPI/FPIM, namely by the Belgian State itself in
+Which case the turnover of other undertakings than those controlled by SFPI/FPIM would
+need to be added for the purpose of calculating the turnover to be taken into account to
+establish jurisdiction in this case.
+
+21. However, given that, for the purpose of establishing the EU dimension of this transaction it
+is suf<U+FB01>cient to include the turnover of SFPI/FPIM (which includes Bel<U+FB01>us), the question of
+Who is the ultimate controlling entity above SFPI/FPIM can be left open for the purpose of
+the present case.
+
+10 Recitals 192 and 193 of the Jurisdictional Notice, OJ C 95 of 16.04.2008, p.1.
+
+11 Jurisdictional Notice, recital 194, OJ C 95 of 16.04.2008, p.1.
+
+12 Jurisdictional Notice, recital 194, OJ C 95 of 16.04.2008, p.1.
+
+5
+
+
+(4) EU DIMENSION
+
+22. The undertakings concerned have a combined aggregate world-Wide turnover of more
+than EUR 5 000 million” (SFPI/FPIM: EUR [. . .]; DeXia: EUR [. . .]). Each 0fthem has
+a EU-Wide turnover in excess of EUR 250 million (SFPI/FPIM: EUR [. . .]; DeXia : [. . .]
+), but they do not achieve more than twc-thirds of their aggregate EU-Wide turnover
+Within one and the same Member State.
+
+23. The noti<U+FB01>ed operation therefore has an EU dimension pursuant to Article 1(2) of the
+Merger Regulation.
+
+(5) COMPETITIVE ASSESSMENT
+
+A. Relevant product and geographic markets
+
+24. SFPI/FPIM, through its controlling stake in Bel<U+FB01>us, is mainly active in Belgium,
+primarily in retail and corporate banking, and to a more limited extent, in public <U+FB01>nance
+and insurance. As submitted by the Notifying Party, neither SFPI/FPIM nor the Belgian
+state holds any controlling interests in any other <U+FB01>nancial institution or in any vertically
+related businesses.
+
+25. DeXia's main actiVities relate to <U+FB01>nancial services for the public sector (e.g. the offering
+of credit to local actiVities and project <U+FB01>nance) and asset management. Therefore, the
+proposed transaction gives rise to a very limited horizontal overlap in the area of public
+<U+FB01>nance in Belgium and to a vertical overlap between the distribution and the
+management of investment products in the asset management market in Belgium.
+
+Public <U+FB01>nance
+
+26. In the past, the Commission considered that <U+FB01>nancial services to public authorities are a
+separate product market given that both the customers and the market conditions differ
+from these existing for corporate bankingM. In previous decisions, the Commission has
+considered that a distinction should be made between the different products (e.g. prcj ect
+<U+FB01>nance) as well as the different types of public authorities (local, regional, national,
+federal etc)”. In particular, credit to local authorities has been considered a product in
+its own right, given that customers and conditions of loans differ from normal bank
+loans”.
+
+27. While the bulk of DeXia's remaining actiVity is indeed in this product market, it is
+envisaged that the majority of its subsidiaries Will be wound down or divested in the very
+near <U+FB01>Jture. In fact, in line With its orderly resolution plan, DeXia has a cap on the total new
+
+13 Turnover calculated in accordance With Article 5(1) of the Merger Regulation and the Commission
+
+Consolidated Jurisdictional Notice (OJ C95, 16.04.2008, p.1).
+14 See Cases No COMP/M.873 - Bank Austria / Creditanstalt (OJ C 160, 27.05.1997, p.4) and N0
+COMP/M.5 861 — Republik Osterreich/Hypo Group Alpe Adria (OJ C 236, 1.09.2010, p.1).
+15 See Case No COMP/M.2400 - DeXia / Artesia, recital 20 (OJ C325, 21.11.2001, p.11).
+16 Case No COMP/M.2400 - DeXia / Artesia, recital 8 (OJ C325, 21.11.2001, p.11).
+6
+
+
+production of EUR 600 million for the years 2013 and 2014, and is not allowed any new
+production afterwards. So as of 2015 it will have no market presence in France and
+Belgium in terms of <U+FB02>ows (new production) and will be sealing down market presence in
+terms of stock”.
+
+28. As regards the geographic scope of the market, the Commission has previously found that
+the market for credit to local authorities is nationallg. The Notifying Party agrees with
+this de<U+FB01>nition.
+
+29. For the purpose of the current case, it is, however, not necessary to de<U+FB01>ne the exact
+scope of the product and geographic market as the transaction does not raise serious
+doubts as to its compatibility with the internal market in the public <U+FB01>nance sector,
+irrespective of the precise market de<U+FB01>nition.
+
+Asset management
+
+30. Asset management oonoems the provision of investment advice and often also the
+implementation of this advice. Asset management may also include creation and managing
+of mutual <U+FB01>l<U+FB02>dS which are then marketed on an "off—the-shelf' basis, including to retail
+customers, and the provision of portfolio management services for institutional investors
+(pension <U+FB01>ands, institutions, international organisations). In the latter case, the de<U+FB01>nition of
+the investment strategy will, as a rule, be based on the individual requirements of the
+customer. In most Member States, mutual <U+FB01>l<U+FB02>dS are constituted under either the law of
+contract or under trust law and, thus, do not have legal personality. Asset management may
+also include the provision of custody services related to assetmanagement19.
+
+31. In previous cases, the Commission considered that one may distinguish a relevant product
+market for asset management, including the creation and managing of mutual <U+FB01>l<U+FB02>dS for
+retail clients and the tailor-made <U+FB01>l<U+FB02>dS for corporate and institutional customers, as well as
+portfolio management for private investors, pension <U+FB01>l<U+FB02>dS and institutions”. The
+Commission has, however left open the question whether these individual products
+constitute separate relevant product markets, with the exception of asset management
+services for private individuals which has been considered to constitute a separate
+market”.
+
+32. As regards the geographic scope of the market, the Notifying Party submits that the
+relevant market should be regarded as national, as asset management is, in its View, a
+segment of the retail banking sector. In previous decisions, the Commission has also found
+that the relevant geographic market for the production of asset management products may
+
+17 In line with its resolution plan, Dexia in principle cannot have any new production. In addition to the
+
+exceptionally allowed above mentioned cap of EUR 600 million related to existing clients, there is a
+limited possibility of new production in DeXia Crediop, an Italian subsidiary of DeXia (EUR 200
+million in 2013) and no cap for DeXia Israel.
+
+18 See Case No COMP/M.2400 - DeXia/Artesia, OJ C325, 21.11.2001, p.11, recital 12.
+
+19 See Case No COMP/M.3894 — Unicredito/ HVB, recital 35 (OJ C278, 11.11.2005, p.17).
+
+20 See Case No COMP/M.3894 — Unicredito/ HVB, recital 35 (OJ C278, 11.11.2005, p.17).
+
+21 See Cases No COMP M4844 ABN AMRO/Fortis, recitals 36 and 39 (OJ C 265, 7.11.2007, p2) and
+
+No COMP/M.3894 — Unicredito/ HVB (OJ C278, 11.11.2005, p.17), recitals 35-36.
+7
+
+
+be national and is at most EEA wide in scope depending on the speci<U+FB01>cities of the case at
+hand. Owing to the importance of national distribution channels, distribution of asset
+management products to private individuals was considered to inherit the geographic scope
+of the retail banking market and therefore to be national in scope”.
+
+33. For the purpose of the current case, it is, however, not necessary to de<U+FB01>ne the exact scope
+of the product and geographic market as the transaction does not raise serious doubts as to
+its compatibility with the internal market in the asset management sector, irrespective of
+the precise market de<U+FB01>nition.
+
+B. Assessment
+
+34. The Parties' actiVities in the banking sector are largely complementary. SFPI/FPIM is
+active in retail banking in Belgium through its 100% controlling stake in Bel<U+FB01>us, whereas
+DeXia no longer has any presence in retail or corporate banking in Belgium. The main
+actiVities of DeXia relate to <U+FB01>nancial services to the public sector outside of Belgium, e.g.
+public bonds and project <U+FB01>nance, principally in France, and asset management. Neither
+SPFI/FPIM nor DeXia has a substantial presence outside Belgium and France. SFPI/FPIM
+generates [0-5%] of its turnover outside Belgium (in Luxembourg and the Netherlands)
+and DeXia generates nearly [50-60%]% of its turnover in France, with the remainder
+divided between Austria, Germany, Italy, Spain, Portugal and the UK. There is only one
+vertical relationship between the Parties in Belgium as regards the asset management
+actiVity (between production and distribution).
+
+35. In addition, it is noted that, as a bank in run-off, DeXia is either divesting or winding
+down its subsidiaries and reducing its actiVities to management of existing portfolios.
+Indeed, DeXia's asset management subsidiary (DAM) is in the process of being divested.
+On 12 December 2012, DeXia signed an SPA with GCS Capital for the sale of DAM,
+which is expected to close in the <U+FB01>rst months of 2013. Once this sale is complete, DeXia
+will eXit the asset management market completely. Similarly, as concerns DeXia's public
+<U+FB01>nance arm, following the sale of DeXia's French public <U+FB01>nance subsidiary (DMA) to the
+French State, completed on 31 J anuary 2013, DeXia will no longer active in the public
+<U+FB01>nance sector, at the very least in Belgium.
+
+Public <U+FB01>nance
+
+36. SFPI/FPIM, through Bel<U+FB01>us, is active in the public <U+FB01>nance sector only in Belgium with
+market shares estimated between [50-60%]23 .
+
+37. DeXia is active mainly in France (where it achieved approximately [50-60%] of its total
+turnover in 2011) with an estimated market share of [10-20%] in terms of new loans at the
+end of 2011 and [0-5%] as of June 2012. DeXia is also active in Germany, Italy, Portugal,
+Spain and UK, with market shares below [5-10%] in each of those countries. However,
+
+22 See Case No COMP/M.3894 — Unicredito/ HVB (OJ C278, 11.11.2005, p.17) and Case No
+
+COMP/M.5728 -CREDIT AGRICOLE/SOCIETE GENERALE ASSET MANAGEMENT, recital 84
+(OJ C 107, 27.04.2010, p.l).
+23 Bel<U+FB01>us used to be directly active in France through several subsidiaries. Bel<U+FB01>us has divested or
+terminated all of these activities, as a result of which its market share in France has diminished to the
+point of being negligible (less than 1%).
+8
+
+
+following the sale of DeXia's French public <U+FB01>nance subsidiary (DMA) to the French State
+Which took place on 31 J anuary 2013, DeXia is active in the public <U+FB01>nance sector in France
+only to a very limited extent, having to respect the cap on new production of EUR 600
+million to be used in strictly de<U+FB01>ned cases With relation to existing loans.
+
+38. As regards the Belgian market, the Notifying Party submits that it cannot be entirely
+excluded at this stage that DeXia (through its subsidiary DCL) may be a party to some very
+limited public <U+FB01>nance proj ects deals in Belgium. However, due to the very small
+involvement of DeXia in the Belgian market and the eXit of DCL from this market
+following the sale of DMA24 on 31 J anuary 2013, this overlap is de minimis.
+
+39. In light of the above, it can be concluded that the transaction does not raise serious doubts
+as to its compatibility With the internal market in relation to the public <U+FB01>nance market, and
+this irrespective of the precise product and geographic market de<U+FB01>nition.
+
+Asset management
+
+40. SFPI/FPIM, through Bel<U+FB01>us, is active in the asset management sector only in Belgium,
+With market shares estimated [0-5%] at both the production and distribution level.
+
+41. DeXia, through its subsidiary DeXia Asset Management (DAM), provides asset
+management services to retail clients through the bank distribution channels of banking
+entities formerly part of the DeXia group, including Bel<U+FB01>us, as well as to institutional
+clients, With a market share of [5-10%] in Belgium. However, pursuant to the SPA signed
+between DeXia and GCS Capital on 12 December 2012, the closing of the DAM
+transaction is due to take place in the <U+FB01>rst quarter of 2013, following Which DeXia will no
+longer be active on this market.
+
+42. Bel<U+FB01>us still continues to distribute some investment products (e.g. mutual <U+FB01>l<U+FB02>dS and
+pension <U+FB01>nds) that are managed by DAM. The products distributed by Bel<U+FB01>us represent a
+substantial part of the products managed by DAM25 . However, With a market share of [0-
+5%] for Bel<U+FB01>us and [5-10%] for DeXia, the vertical relationship between Bel<U+FB01>us and DAM
+is unlikely to give rise to any foreclosure effects.
+
+43. In light of the above, it can be concluded that the transaction does not raise serious doubts
+as to its compatibility With the internal market in relation to the asset management market,
+and this irrespective of the precise product and geographic market de<U+FB01>nition.
+
+24 Following the sale of DMA, DCL Will in principle no longer engage in new production. The sole
+
+exception allows for a limited amount of production (EUR 600 million in total for 2013 and 2014)
+intended to enable the restructuring of existing public structured loans.
+
+25 [. . .] of DAM's total assets under management ("AUM") may be attributed to Belgium. This
+
+corresponds to DAM holding a [5-10%] market share in Belgium. Of this [. . .], [. . .] is distributed by
+Bel<U+FB01>us. This corresponds to Bel<U+FB01>us accounting for approximately [. . .] of DAM's AUM in Belgium.
+The distribution of the remaining [...] may be attributed as follows: [...] distributed by DAM itself
+and [. . .]distributed by a number of other banks.
+
+9
+
+
+(6) CONCLUSION
+44. For the above reasons, the European Commission has decided not to oppose the noti<U+FB01>ed
+operation and to declare it compatible With the internal market and with the EEA
+Agreement. This decision is adopted in application of Article 6(1)(b) 0f the Merger
+Regulation.
+F or the Commission
+(Signed)
+Joaquin ALMUNIA
+Vice-President
+10
+
+
+EN
+Case No C 0MP/M 6812 - SFPI/DEXIA
+Only the English text is available and authentic.
+REGULATION (EC) No 139/2004
+MERGER PROCEDURE
+Article 7(3)
+Date: 17/12/2012
+
+
+EUROPEAN COMMISSION
+Brussels, 17/12/2012
+C(2012) 9836
+In the published version of this decision, some
+information has been omitted pursuant to Article
+17(2) of Council Regulation (EC) No 139/2004 PUBLIC VERSION
+concerning non-disclosure of business secrets and
+other con<U+FB01>dential information. The omissions are
+shown thus [...]. Where possible the information MERGER PROCEDURE
+omitted has been replaced by ranges of <U+FB01>gures or a . . . .
+general description. Artlcle 7(3) derogatlon de01s1on
+
+To the notifying party:
+
+Dear Madam, Dear Sir,
+
+Subject : Case No COMP/M.6812- SFPI/ DEXIA
+
+Commission decision pursuant to Article 7(3) of Council Regulation
+N0 139/20041 - Request for derogation
+1. We refer to your application for a derogation from the suspension obligation provided
+for in Article 7(1) of Council Regulation (EC) No 139/2004 ("the Merger
+Regulation") With regard to the proposed acquisition by Sooiété Fédérale de
+Participations et d'Investissement / Federale Participatie-en Investeringsmaatschappij
+("SFPI/FPIM") of sole control over DeXia SA/NV ("DeXia"), submitted pursuant to
+Article 7(3) of the Merger Regulation on 12 December 2012.
+I. THE PARTIES AND THE TRANSACTION
+2. SFPI/FPIM is an investment company fully owned by the Belgian State. The
+investment portfolio of SFPI/FPIM consists of stakes in public and private enterprises
+of strategic interest to the Belgian State. SFPI/FPIM has three core activities:
+participation in public and private enterprises, investment in enterprises With an
+important social value in one of the priority sectors selected by SFPI/FPIM, and
+contribution to policies of the Belgian federal government and implementation of
+proj ects on its behalf.
+
+1 OJ L 24, 29.1.2004, p. 1 ("the Merger Regulation"). With effect from 1 December 2009, the
+Treaty on the Functioning of the European Union ("TFEU") has introduced certain changes, such
+as the replacement of "Community" by "Union" and "common market" by "internal market". The
+terminology of the TFEU Will be used throughout this decision.
+
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+
+3. DeXia is a financial institution With its registered seat in Belgium, Which offers
+<U+FB01>nancial services in several countries, mainly in France through DeXia Credit Local
+("DCL"), and in Europe, through a number of subsidiaries. DeXia focuses its activities
+in public finance, including project <U+FB01>nance. It has no signi<U+FB01>cant presence in retail
+banking and its activities in Belgium are minimal, since almost all of the Belgian
+activities previously exercised under the DeXia brand have already been divested t0
+the SPFI, Which has rebranded these assets under the commercial name Bel<U+FB01>us
+Banque et Assurances ("Bel<U+FB01>us"). DeXia is a limited liability company under Belgian
+law With its shares listed on Euronext Brussels and Paris as well as on the
+Luxembourg Stock Exchange.
+
+Background
+
+4. The DeXia group2 has faced severe financial challenges since the <U+FB01>nancial crisis that
+started around 2008. The financial crisis (and consequently, the effects on DeXia)
+deepened in 2011 following the worsening of the sovereign debt crisis and, more
+generally, the decline of the macroeconomic environment. In that context, and in
+order to avoid a rapid deterioration of DeXia’s liquidity situation and the snowball
+effect of a systemic risk, the Belgian, French and Luxembourg States supported the
+DeXia group and its restructuring plan by granting a guarantee on certain funding
+raised by DeXia and DCL.
+
+5. On October 2011, the DeXia group began to set in motion profound changes to its
+structure. This involves, in particular, the sale of all its strategic operational entities,
+including DeXia Banque Belgique ("DBB", now Bel<U+FB01>us), Which was sold to the
+SFPI/FPIM, DeXia Banque Internationale a Luxembourg (now Banque Internationale
+a Luxembourg, "BIL") and Deniz Bank (its Turkish subsidiary). The sale of Bel<U+FB01>us t0
+the Belgian State was cleared from a merger control perspective by decision of the
+Belgian competition authority on 2 December 2011.
+
+6. As a consequence, in accordance With undertakings given in the context of the
+approval of the temporary guarantee by the Commission and in order to obtain a
+de<U+FB01>nitive approval of the guarantee, on 21 and 22 March 2012 the Belgian, French
+and Luxembourg States <U+FB01>led an orderly resolution plan for the DeXia group With the
+Commission (the “Orderly Resolution Plan”). This plan included the DeXia group's
+strategy, a business plan and a presentation of the future outlook of the group, taking
+into account in particular the sale of the operational entities.
+
+7. During the third quarter of 2012, the Belgian, French and Luxembourg States and the
+Commission actively continued discussions With a View to submitting a Revised
+Orderly Resolution Plan for DeXia in keeping With State Aid rules. These discussions,
+combined With the evolution of the market conditions, led to amendments to a
+number of the principles and assumptions underlying the business plan upon Which
+the Orderly Resolution Plan had been based.
+
+8. On 7 November 2012, DeXia's board of directors (the "B0ard") acknowledged that,
+following the losses incurred predominantly as a result of the impairment 0n DeXia’s
+
+2 DeXia SA/NV is the parent company of DeXia group Which is an European banking group Which in
+2011, carried out its activities principally in Belgium, Luxembourg, France and Turkey in the <U+FB01>elds of
+retail and commercial banking, public and Wholesale banking, asset management and investor services.
+
+2
+
+
+stake in DCL, DeXia’s net assets had been reduced to EUR -2.685 billion. Given that
+this amount was lower than one of the thresholds set out in Article 633 of the Belgian
+Company Code ("BCC"), the Board was obliged to convene an extraordinary general
+meeting of the shareholders in order for them to vote 011 the continuation of DeXia’s
+activities or, alternatively, its dissolution. This general meeting of the shareholders is
+scheduled to take place 011 21 December 2012.
+
+9. The Board has proposed to the shareholders to continue DeXia's activities and has
+proposed a reeapitalisation 0f DeXia through a capital increase reserved to the Belgian
+and French States — in compliance With the minimum price rule set forth in Article
+598 of the BCC — to restore DeXia's net assets.
+
+Current operation
+
+10. According to SFPI/FPIM, this capital increase Will amount to a total of EUR 5.5
+billion3 in order to (i) restore DeXia’s net assets to a level above half the share capital,
+(ii) satisfy all its contractual obligations Vis-a-Vis DCL and its subsidiaries and (iii)
+enable it to proceed With a capital increase in DCL for an amount of EUR 2 billion.
+The latter two transactions are considered by SFPI/FPIM as imperative in order to
+allow DCL to continue to comply With its net stand-alone asset ratios.
+
+11. The capital increase is intended also to allow DeXia to continue the implementation of
+the orderly resolution of DeXia, in accordance With the terms of the Revised Orderly
+Resolution Plan submitted to the Commission 011 10 December 2012, as well as to
+allow for the run off of assets until their maturity.
+
+12. The Belgian and French States expect that the share capital increase Will take place 011
+31 December 2012 at the latest. This operation is conditional upon obtaining (i) all
+legislative authorisations required for the subscription of the shares by both the
+Belgian State (acting through SFPI/FPIM) and the French State, and (ii) the
+authorisation by the European Commission pursuant to EU State aid rules.
+
+13. As a result of the capital increase, Belgium's stake in DeXia Will increase to 50.02%
+and France's stake Will increase to 44.40%4.
+
+14. According to SFPI/FPIM, the 50.02% share in DeXia acquired by the Belgian State
+Via SPFI/FPIM Will give the Belgian State sole control over DeXia. As the preference
+shares to be subscribed to by the Belgian and French States Will entitle them to the
+same voting rights as the existing shares, <U+FB01>ve out of nine members of the Board Will
+be appointed by the Belgian State. As DeXia's decisions (including strategic
+decisions) Will be taken by a simple majority, the Parties argue that post
+reeapitalisation DeXia Will be solely controlled by SFPI/FPIMin the sense of the
+Merger Regulation.
+
+3 The Belgian State (acting directly through SFPI/FPIM, pursuant to a delegated mission) Will subscribe
+to the capital increase for an amount of EUR 2.915 billion. The French State Will subscribe to the
+capital increase for an amount of EUR 2.585 billion.
+
+4 Currently, the stakes of Belgian and French States are both of 5.73% of the DeXia's capital. N0 existing
+shareholders have a controlling stake. The proposed share capital increase would reduce the stake of
+existing shareholders (excluding the Belgian and French States) from 100% to 5.58%,
+
+3
+
+
+11. EU DIMENSION
+
+15. According to the information furnished by SFPI, the undertakings concerned have a
+combined aggregate world-wide turnover of more than EUR 5 000 million. Each of
+them has an EU-wide turnover in excess of EUR 250 million, and they do not both
+achieve more than two-thirds of their aggregate EU-wide turnover within one and the
+same Member State, since DeXia achieves well in excess of two-thirds of its turnover
+in France. The proposed Transaction therefore has an EU dimension within the
+meaning of Article 1(2) of the Merger Regulation.
+
+16. For the avoidance of doubt, it should be speci<U+FB01>ed that the relevant turnover
+thresholds are considered to be met based exclusively on the turnover of DeXia and
+Bel<U+FB01>us as reported by SFPI/FPIM. This decision is therefore without prejudice to the
+question of whether or not the SFPI enj oys an independent power of decision relative
+to the Belgian State in the sense of recital 22 of the EUMR, as well as of the question
+as to whether or not all of the undertakings in which the SFPI holds a controlling
+stake are part of a single economic unit in the sense of that recital5.
+
+III. THE APPLICATION FOR DEROGATION
+
+17. SFPI/FPIM submits that it is essential that the recapitalisation of DeXia occurs by 31
+December 2012. The reason for this urgency is that DeXia will need the funds to
+recapitalise DCL, whose net assets will otherwise be insuf<U+FB01>cient at the end of the
+<U+FB01>nancial year ending 31 December 2012. Such insuf<U+FB01>ciency could lead to the
+downgrading of DCL's rating and trigger certain (cross-) default provisions in its
+<U+FB01>nance documentation, which would in turn lead to DCL's bankruptcy. DCL's
+bankruptcy would in turn trigger calls under the States' guarantees and result in maj or
+shocks for the European <U+FB01>nancial system and the States.
+
+18. According to SFPI/FPIM, its request is justi<U+FB01>ed, among other reasons, in View of the
+following considerations:
+
+(i) The destruction of the value of remaining assets. The liquidation of DeXia would
+be value destructive. A liquidator appointed at the general meeting and con<U+FB01>rmed by
+the commercial court of Brussels, would pay off DeXia's debts and sell all remaining
+assets. Given the nature and illiquidity of such assets (primarily, but not exclusively,
+
+DeXia’s stake in DCL), such sales would only be possible with substantial price
+reductions under the current market conditions. Furthermore, the liquidation would
+lead to a negative result meaning that no distributions could be made to the
+shareholders.
+
+(ii) Losses for creditors and serious systemic conseguences. The liquidation of
+DeXia would have serious systemic consequences. Such a liquidation would
+jeopardise the entire DeXia group, in particular DCL. Given that DCL has a
+receivable of EUR 1.6 billion Vis-a-Vis DeXia and is the bene<U+FB01>ciary of guarantees
+from DeXia of EUR 1,942 million worth of Greek securities (as of 30 September
+2012), the liquidation of DeXia would mean that DCL would need to book an
+
+5 This approach is similar to the one taken at recital 25 of the Commission's Decision in Case No
+COMP/M.5508 - SOFFIN/HYPO REAL ESTATE
+
+4
+
+
+impairment on the entire value of its receivable. DCL would then have insuf<U+FB01>cient
+net assets. Moreover, a default by the DeXia group would lead, Via the cross default
+and acceleration provisions in the loans of certain entities of the group (mainly
+DCL), to its entire debt becoming due. Such a default would jeopardise the stability
+of the whole European financial system. A default by the DeXia group would also
+severely destabilise the sovereign debt markets, in particular those of the Euro zone.
+(iii) The employment oonseguenoes. Finally the liquidation of the DeXia group — and
+the resulting bankruptcy of DCL — would have a severe negative impact in terms of
+employment. The DeXia group employed approximately 3,600 people in Belgium
+and France on 30 June 2012.
+
+IV. THE CONDITIONS FOR DEROGATION PURSUANT TO ARTICLE 7(3) OF
+
+THE MERGER REGULATION
+
+19. Pursuant to Article 7(1) of the Merger Regulation, a concentration falling under that
+Regulation shall not be implemented either before its notification or until it has been
+declared compatible with the common market. Pursuant to Article 7(3) of the Merger
+Regulation, the Commission may, on the basis of a reasoned request, grant derogation
+from the obligation imposed by Article 7(1).
+
+20. Derogation from the obligation to suspend concentrations is granted only
+exceptionally, normally in circumstances where the suspension obligation required
+under the Merger Regulation would cause serious damage to the undertakings
+concerned by a concentration, or to a third party.
+
+21. In deciding upon the request, the Commission must take into account, inter alia, the
+effects of the suspension on one or more undertakings concerned by the concentration
+or on a third party and the threat to competition posed by the concentration.
+
+A. THE TRANSACTION FALLS UNDER THE SUSPENSION OBLIGATION
+PURSUANT TO ARTICLE 7 (1) OF THE MERGER REGULATION
+
+22. Given that the proposed transaction appears, on the basis of the information provided
+by the Notifying Party, to constitute a concentration with EU dimension within the
+meaning of the Merger Regulation, it falls under the suspension obligation laid down
+in Article 7(1) of the Merger Regulation.
+
+B. THE EFFECTS OF THE SUSPENSION ON THE UNDERTAKINGS
+CONCERNED AND THIRD PARTIES
+
+23. According to the information provided by SFPI/FPIM, the application of the
+suspension obligation in accordance with Article 7(1) of the Merger Regulation
+would mean that DeXia could not be reoapitalised in a rapid and adequate manner,
+which would run counter to the commitments required by the Commission pursuant
+to the State aid proceedings. If derogation is not granted, the voting rights attached to
+the preference shares for the Belgian and French States could not be exercised for a
+period of at least 25 working days and the accompanying operational risks would be
+very likely to severely damage DeXia, the DeXia group and the wider <U+FB01>nancial
+community.
+
+5
+
+
+24. The Commission considers that the derogation appears appropriate as otherwise there
+may be a considerable effect on DeXia, on its creditors and its employees, as well as
+on the stability of the whole European financial system. A default by the DeXia group
+would lead, Via the cross default and acceleration provisions in the loans of certain
+entities of the group (mainly DCL), to its entire debt becoming due. On 30 September
+2012, this amounted to approximately EUR 386.5 billion and, furthermore, a notional
+amount of approximately EUR 605 billion in connection with derivatives.
+Consequently, the DeXia group's unsecured creditors, and primarily those of DCL,
+would suffer significant losses in respect of the receivables against the group. Indeed,
+a default by the DeXia group would lead to assets being frozen in the short term and
+would affect the liquidity of the markets, with possibly a signi<U+FB01>cant risk of spill over
+to the rest of the Euro zone. This is due to the size of the group’s balance sheet, the
+signi<U+FB01>cance of unsecured amounts outstanding, the volume of derivative agreements
+entered into by entities of the DeXia group and banking oounterparties and the major
+impact of the sale by the entities of the DeXia group of their bond portfolios on the
+<U+FB01>nancial markets following the depreciation of the value of the bonds portfolio on a
+mark to market basis.
+
+25. A default by the DeXia group would also risk severely destabilising the sovereign debt
+markets, in particular those of the Euro zone. The DeXia group entities held a
+sovereign bond portfolio of EUR 20.049 billion as of 30 September 2012. The
+liquidation of this portfolio would risk destabilising secondary markets, including
+those of several Euro zone countries (more than 70% of this sovereign bond portfolio
+is linked to States in the Euro zone). This could have a significant snowball effect on
+<U+FB01>nancial markets.
+
+26. Moreover, a default by the DeXia group would lead to a call on the guarantees granted
+by the Belgian, French and Luxembourg States on 9 October 2008 for funding raised
+by DCL, DBB and BIL, and on 16 December 2011 for funding issued by DeXia and
+DCL. The total outstanding amounts guaranteed under the guarantee arrangements of
+2008 and 2011 amounted to EUR 73.4 billion on 30 November 2012.
+
+27. In addition, in the current circumstances and according to the information submitted
+by SFPI/FPIM, there is a risk that the shareholders present at the meeting on 21
+December 2012 will accept the capital increase while refusing the amendments to the
+governance structure. On the basis of the information submitted by SFPI/FPIM, the
+current shareholders will, in this meeting, vote on both the capital increase and the
+accompanying necessary amendments to the governance structure. Should the
+shareholders present at the meeting on 21 December refuse the amendments to the
+governance structure, a general meeting of shareholders will need to be convened
+immediately after the capital increase. At this meeting, the Belgian and French States
+— by then holding together 94% of the shares — will approve the new governance
+structure. In these circumstances, the Parties have indicated that the Belgian state
+would be unwilling to commit to the recapitalization unless it were guaranteed also
+the ability to adopt the new governance structure (and accordingly appoint DeXia's
+
+6
+
+
+board members). In the absence of this ability, the French State, notwithstanding
+being the smaller shareholder, would be able to exercise its own voting rights, which
+albeit on a temporary basis, would confer sole control of DeXia.. As such, a
+derogation from the standstill obligation is an essential precondition for the required
+recapitalisation.
+
+28. Furthermore, on the basis of the information submitted by SFPI/FPIM, derogation
+from the stand-still obligation would not have adverse effects on any third party, such
+as consumers, clients of the DeXia group, other <U+FB01>nancial institutions (and their
+clients), creditors and various Member States. Indeed, according to SFPI/FPIM the
+Transaction would in fact have positive effects for these third parties insofar as the
+potential negative effects of not granting the derogation (i.e. the destruction of value
+of remaining assets, losses for creditors with severe negative consequences for the
+wider <U+FB01>nancial system and negative consequences for employees within the DeXia
+group) would be avoided. Therefore, the bene<U+FB01>ts <U+FB02>owing from the derogation
+considerably outweigh any potential adverse effects that it may have on any of the
+Parties or third parties.
+
+29. Against this background, it is possible to conclude that the suspension obligation
+imposed by Article 7(1) could lead to serious harm to DeXia while no negative effects
+are likely to arise in relation to third parties from providing a derogation from this
+obligation.
+
+C. THE THREAT TO COMPETITION POSED BY THE CONCENTRATION
+
+30. On the basis of the information submitted by SFPI/FPIM, it can be concluded that the
+horizontal overlaps are very limited and that the vertical relationships do not raise,
+primafacie, any issue of foreclosure.
+
+31. The parties” actiVities in the banking sector are largely complementary. SFPI/FPIM is
+active in retail banking in Belgium through its 100% controlling stake in Bel<U+FB01>us,
+whereas the DeXia group no longer has any signi<U+FB01>cant presence in retail or corporate
+banking in Belgium. Its main actiVities relate to <U+FB01>nancial services to the public sector
+outside of Belgium, e.g. public bonds and proj ect <U+FB01>nance, principally in France.
+
+32. The investment portfolio of SFPI/FPIM consists of various stakes in several
+undertakings deemed of strategic interest to the Belgian State, including in the
+banking sector in the wake of the <U+FB01>nancial crisis (controlling stake in Bel<U+FB01>us and
+minority 10% stake in BNP Paribas).
+
+33. In addition, DeXia is a <U+FB01>nancial institution which will be in run off in accordance with
+the Revised Orderly Resolution Plan as approved by the Commission. As such, it will
+have no long-term and Viable competitive presence in any of the markets it operates
+on.
+
+34. The parties' actiVities only overlap in a very limited way in the market for <U+FB01>nancial
+services to the public sector, in both Belgium and France. However, both in Belgium
+and France, the transaction would only lead to a very minor increment in this
+segment.
+
+35. As regards potential vertical effects, the transaction is not expected to lead to any
+substantive issues. DeXia is active in asset management through its subsidiary DeXia
+
+7
+
+
+Asset Management ("DAM"), Which Will be divested before 31 December 2013 in
+line With the Revised Orderly Resolution Plan. Although Bel<U+FB01>us distributes some
+investment products (e.g. mutual funds and pension funds) that are managed by
+DAM, Bel<U+FB01>us is not itself active in asset management. These activities are so limited,
+however, that this vertical relationship is not expected to lead to any foreclosure
+issues.
+
+36. Therefore, on the basis of the information provided by SFPI/FPIM it appears prima
+facie that the transaction is not likely to pose a threat to competition Within the EEA.
+
+D. BALANCE OF INTERESTS
+
+37. Based on the above, it appears that Whilst the suspension obligation could seriously
+affect the <U+FB01>nancial situation of DeXia and the DeXia group along With the Wider
+<U+FB01>nancial community, no threat to competition caused by the operation can currently
+be identi<U+FB01>ed, and a derogation from the standstill obligation does not appear to have
+adverse effects on one or more of the parties or on any third party.
+
+38. Therefore the Commission <U+FB01>nds that a derogation from the suspension obligation can
+be granted in accordance With the application.
+
+39. The present derogation is granted on the basis and explicit understanding that the
+concentration Will be noti<U+FB01>ed to the Commission pursuant to article 4 0f the Merger
+Regulation Without delay.
+
+V. CONCLUSION
+
+40. The Commission considers that the reasons given for derogation from the suspension
+obligations meet the requirements set out in Article 7(3) of the Merger Regulation.
+
+41. On the basis of the above considerations, and in accordance With Article 7(3) of the
+Merger Regulation, SFPI/FPIM is granted a derogation from the obligations imposed
+by Article 7 (1) 0f the Merger Regulation in accordance With its application and until
+the Commission takes a <U+FB01>nal decision under the relevant provisions of the Merger
+Regulation.
+
+F or the Commission
+(signed)
+Joaquin ALMUNIA
+Vice-President
+
+8
+

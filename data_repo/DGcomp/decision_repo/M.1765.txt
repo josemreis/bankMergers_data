@@ -1,0 +1,96 @@
+                         COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                     Brussels, 17.12.1999
+                                                                     SG(99) D/10335
+    In the published version of this                                        PUBLIC VERSION
+    decision, some information has
+    been omitted pursuant to
+    Article 17(2) of Council                                              MERGER PROCEDURE
+    Regulation (EEC) No 4064/89
+    concerning non-disclosure of
+                                                                        ARTICLE 6(1)(b) DECISION
+    business secrets and other
+    confidential information. The
+    omissions are shown thus […].
+    Where          possible        the
+    information omitted has been
+    replaced by ranges of figures
+    or a general description.                                        to the notifying parties
+Subject: Case No COMP/M.1765 – KKR ASSOCIATES / SIEMENS NIXDORF
+              RETAIL AND BANKING SYSTEMS
+              Notification of 16.11.1999 pursuant to Article 4 of Council Regulation
+              No 4064/89
+1.    On 16.11.1999, the Commission received a notification whereby the undertaking KKR
+      Associates Ltd (“KKR”), U.S., notified its intention to acquire sole control of the whole
+      of the German undertaking Siemens Nixdorf Retail and Banking Systems GmbH
+      (“SNRBS”).
+2.    After examination of the notification, the Commission has concluded that the notified
+      operation falls within the scope of Council Regulation (EEC) No 4064/891 and does not
+      raise serious doubts as to its compatibility with the common market and with the EEA
+      Agreement.
+I.    THE PARTIES AND THE OPERATION
+3.    KKR is making equity investments on behalf of itself or its investors either through
+      controlling ownership or strategic minority positions. The portfolios currently hold by
+      KKR comprises investments, inter alia, in manufacture of packages, recreation resorts,
+      food retailing, assurance companies. Most of these investments are companies in the U.S..
+1 OJ L 395, 30.12.1989, p.1; corrected version OJ L 257 of 21.9.1990, p. 13; as last amended by
+  Regulation (EC) No 1310/97, OJ L 180, 9.7.1997, p. 1, corrigendum in OJ L40, 13.2.1998, p. 17.
+Rue de la Loi 200, B-1049 Bruxelles/Wetstraat 200, B-1049 Brussel - Belgium
+Telephone: exchange 299.11.11
+Telex: COMEU B 21877. Telegraphic address: COMEUR Brussels.
+
+4.   SNRBS has activities in the retail and banking systems. Retail banking systems include
+     the retail workstation business for the retail industry, e.g. Electronic Point Of Sale
+     (“EPOS”) systems, Personal Computer (“PC”) -based retail systems. Banking systems
+     include the financial workstation business for the banking sector, e.g. automated teller
+     machines, automatic teller safes, information/statement printers. A corresponding range of
+     hardware and software-related services is offered together with these retail and banking
+     systems.
+5.   KKR will acquire SNRBS by way of purchase of shares.
+II. CONCENTRATION
+6.   The transaction consists of the acquisition by KKR of sole control of the whole of
+     SNRBS within the meaning of Article 3(1)(b) of the Merger Regulation.
+III. COMMUNITY DIMENSION
+7.   The undertakings KKR and SNRBS have a combined aggregate worldwide turnover in
+     excess of EUR 5000 million (In 1998, KKR: […], SNRBS: […]). Each of them has a
+     Community-wide turnover in excess of EUR 250 million (KKR: […], SNRBS: […]).
+     Only SNRBS achieves more than two-thirds of its aggregate Community-wide turnover
+     within one and the same Member States. The notified operation, therefore, has a
+     Community dimension according to Article 1(2). It does not constitute a co-operation
+     case under the EEA Agreement pursuant to Article 57 of that Agreement.
+IV. COMPETITIVE ASSESSMENT
+     Relevant product markets
+8.   The notified operation involves the retail and banking systems business including with
+     its hardware and software-related services. The notifying party suggests a further
+     distinction into financial workstations and retail workstations. The former are typically
+     used in self-service cash and non-cash market segments in the banking sector, whereas
+     the latter are computerised checkout and cash register systems used in the retail, hotel
+     and restaurant business. For the purpose of this case, however, the product market
+     definition can be left open, since, even on the basis of the narrowest definition, the
+     proposed operation does not raise serious doubts as to its compatibility with the
+     common market or a substantial part of it.
+     Relevant geographic markets
+9.   The notifying party refers to a previous Commission’s decision2, in which the
+     geographic scope of the relevant product markets is Community-wide. Since the
+     proposed operation has no geographic overlap between the parties in the EU, the
+     geographic market definition can be left open.
+2   IV/M.50 AT&T / NCR
+                                                   2
+
+    Assessment
+10. Neither KKR nor any other company owned or controlled by KKR is active in the retail
+    and banking systems business. Therefore, the proposed operation would not lead to any
+    addition of market shares or vertical relations within the EEA.
+    Conclusion
+11. In view of the above information, the proposed concentration does not raise serious
+    doubts as to its compatibility with the common market and with the functioning of the
+    EEA Agreement.
+V. CONCLUSION
+12. For the above reasons, the Commission decided not to oppose the notified operation and
+    to declare it compatible with the common market and with the EEA Agreement. This
+    decision is adopted in application of Article 6(1)(b) of Council Regulation (EEC)
+    No 4064/89.
+                                                        For the Commission,
+                                                        signed by
+                                                        David BYRNE
+                                                        Member of the Commission
+                                                  3

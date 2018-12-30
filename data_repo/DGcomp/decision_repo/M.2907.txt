@@ -1,0 +1,228 @@
+                         KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+                                                                     Brüssel, 20/09/2002
+                                                                     SG (2002) D/231682
+    In der veröffentlichten Version dieser Entscheidung                     ÖFFENTLICHE VERSION
+    wurden bestimmte Informationen gem. Art. 17 (2)
+    der Ratsverordnung (EWG) Nr. 4064/89 über die
+    Nichtveröffentlichung von Geschäftsgeheimnissen
+    und      anderen       vertraulichen      Informationen                  FUSIONSVERFAHREN
+    ausgelassen. Die Auslassungen sind durch                          ARTIKEL 6(1)(b) ENTSCHEIDUNG
+    Klammern […] gekennzeichnet. Soweit möglich
+    wurden die ausgelassenen Informationen durch eine
+    Bandbreite/Bereichsangabe von Zahlen oder eine
+    allgemeine Beschreibung ersetzt.
+An die anmeldenden Parteien
+Betrifft :       Fall Nr. COMP/M.2907 – Bank Austria/RZB/Erste Bank/JV
+                 Anmeldung vom 19.08.2002 gemäß Artikel 4 der Verordnung (EWG)
+                 Nr. 4064/89 des Rates (Fusionskontrollverordnung)
+1. Am 19.08.2002 ist die Anmeldung eines Zusammenschlußvorhabens gemäß Artikel 4
+     der Verordnung (EWG) Nr. 4064/89 des Rates1 bei der Kommission eingegangen.
+     Danach ist folgendes beabsichtigt: Das österreichische Unternehmen Bank Austria
+     Creditanstalt AG (“Bank Austria”), welches der deutschen Bayrische Hypo- und
+     Vereinsbankgruppe („HVB“) angehört, das österreichische Unternehmen Raiffeisen
+     Zentralbank Österreich AG („RZB“) und das österreichische Unternehmen ERSTE
+     Bank der Oesterreichischen Sparkassen AG (“Erste Bank”) erwerben im Sinne von
+     Artikel 3 Absatz 1 Buchstabe b der Ratsverordnung die gemeinsame Kontrolle über das
+     österreichische Unternehmen EBPP Electronic Bill Presentment and Payment GmbH
+     (“EBPP GmbH”) durch den Kauf von Anteilsrechten.
+2. Nach Prüfung der Anmeldung hat die Kommission festgestellt, daß das angemeldete
+     Vorhaben in den Anwendungsbereich der Verordnung (EWG) Nr. 4064/89 des Rates
+     fällt und hinsichtlich seiner Vereinbarkeit mit dem Gemeinsamen Markt und dem
+     EWR-Abkommen keinen Anlaß zu ernsthaften Bedenken gibt.
+1         ABl. L 395 vom 30.12.1989, S.1, berichtigte Fassung ABl. L 257 vom 21.9.1990, S. 13; zuletzt
+          geändert durch Verordnung (EWG) Nr. 1310/97 (ABl. L 180 vom 9.7.1997, S. 1, Berichtigung in
+          ABl. L 40 vom 13.02.1998, S. 17.)
+Rue de la Loi 200, B-1049 Bruxelles/Wetstraat 200, B-1049 Brussel - Belgien
+Telefon: Zentrale 299.11.11
+Fernschreiber: COMEU B 21877. Telegrammadresse: COMEUR Brüssel.
+
+I.  DIE TÄTIGKEITEN DER PARTEIEN
+3. Die Bank Austria ist Österreichs größte Universalbank und betreibt sowohl direkt als
+   auch über Tochtergesellschaften alle wesentlichen Bankgeschäfte. Die Bank Austria
+   ist eine 100 %ige Tochtergesellschaft der HVB, einer Universalbank, die zum
+   überwiegenden Teil in Deutschland tätig ist.
+4. Die RZB steht der österreichischen Raiffeisen-Bankengruppe vor. Diese ist dreistufig
+   aufgebaut. Die erste Stufe umfaßt 607 rechtlich selbständige Raiffeisenbanken2 mit
+   1.716 Zweigstellen, die schwerpunktmäßig im Privatkundengeschäft sowie im
+   Firmenkundengeschäft für Klein- und Mittelbetriebe tätig sind. Als zweite Stufe
+   fungieren auf der Ebene der österreichischen Bundesländer acht regionale Raiffeisen-
+   Landesbanken ("RLB‘s"), deren Anteile von den Primärbanken gehalten werden. Die
+   RLB's sind selbst im Privat- und Firmenkundengeschäft tätig und darüber hinaus
+   Clearingstelle der Primärbanken, wobei sie diesen umfangreiche Dienstleistungs- und
+   Beratungsangebote zur Verfügung stellen. Die dritte Ebene ist die RZB, deren Anteile
+   zu insgesamt ca. 88 % von den RLB’s gehalten werden. Neben ihrer Funktion als
+   Repräsentantin der Raiffeisen-Bankengruppe betreibt die RZB auch selbst
+   Bankgeschäfte mit dem Schwerpunkt Auslandsaktivitäten und Großkundenbetreuung.
+5. Die Erste Bank ist ein österreichischer Finanzdienstleistungskonzern, spezialisiert auf
+   die Bereiche Bank- und Versicherungsdienstleistungen für Privatkunden sowie Klein-
+   und Mittelbetriebe. Geographisch ist die Erste Bank vorwiegend in Österreich und in
+   dessen zentraleuropäischen Nachbarstaaten tätig. Darüber hinaus fungiert die Erste
+   Bank als Spitzeninstitut des österreichischen Sparkassensektors. Dabei übt sie
+   insbesondere die Funktion einer zentralen Clearingstelle des Sektors aus und ist in
+   den einzelnen Mitgliedsorganisationen des Sektors für die Zusammenarbeit im
+   Bereich Produktentwicklung und Vertrieb verantwortlich.
+6. Die im April 2002 gegründete EBPP GmbH soll im Bereich elektronische
+   Rechnungsstellung und –bezahlung - Electronic Bill Presentment and Payment
+   („EBPP“) - tätig sein. Unternehmen und andere Institutionen sollen Rechnungen auf
+   elektronischem Weg zu ihren Rechnungsempfänger weiterleiten können. Der
+   Rechnungsempfänger soll über eine offene Internetplattform gesicherten Zugang zu
+   seinen Rechnungen erhalten und dabei die Möglichkeit haben, die Rechnungen zu
+   bearbeiten und Zahlungen freizugeben. Dabei werden die folgenden drei Wege der
+   Zahlungsfreigabe zur Verfügung stehen: i) über ein Internetkonto des
+   Rechnungsempfängers; ii) durch die EBPP GmbH über eine generelle
+   Einzugsermächtigung, die von den Rechnungsempfängern an die EBPP GmbH
+   erfolgt; iii) auf traditionellem Weg durch Ausdruck der Rechnung und Überweisung
+   des Rechnungsbetrages mittels Zahlschein.
+7. Die EBPP GmbH soll sowohl im Bereich „Business to Business“ („B2B“) als auch
+   im Bereich „Business to Consumer“ („B2C“) tätig werden. Als Kundenzielgruppe
+   will die EBPP GmbH zunächst Unternehmen ansprechen, welche laufend eine große
+2  Auch wenn die einzelnen Raiffeisenbanken aufgrund des vereinheitlichten Marktauftritts und des
+   Regionalitätsprinzips in einem eingeschränkten Wettbewerbsverhältnis zueinander stehen, so bleiben
+   sie dennoch rechtlich selbständige Einheiten. Weisungen der Raiffeisenlandesbanken und/oder der
+   RZB erfolgen nicht.
+                                                    2
+
+    Anzahl von Rechnungen erstellen, wie Unternehmen der Bereiche Telekommuni-
+    kation, Versicherungswesen, Medien, Energieversorgung und öffentlicher Dienst. Ein
+    Entgelt für die Dienstleistungen soll lediglich vom Rechnungssteller entrichtet
+    werden, für den Rechnungsempfänger sollen die Dienstleistungen kostenfrei sein.
+II. DER ZUSAMMENSCHLUSS
+8. Die EBPP GmbH ist ein bestehendes Gemeinschaftsunternehmen, welches seit seiner
+    Gründung im April 2002 gemeinsam von der Bank Austria und der RZB kontrolliert
+    wird. Das entsprechende Zusammenschlußvorhaben COMP/M.2402 Creditanstalt/-
+    RZB/JV3 wurde von der Kommission mit der Entscheidung vom 2.7.2001
+    freigegeben.
+9. Nach Angaben der Parteien stellte sich die Aufnahme der operativen Tätigkeit des
+    Gemeinschaftsunternehmens schwieriger als erwartet dar und ist bis dato noch nicht
+    erfolgt. Die Parteien führen dabei, neben den Schwierigkeiten einen geeigneten
+    Hersteller der Software für die EBPP-Dienstleistungen zu finden, die negative
+    Wirtschaftsentwicklung in Österreich seit der Freigabeentscheidung vom 2.7.2001 an.
+    Nach Auffassung der Parteien ist das kaufmännische Risiko für eine erfolgreiche
+    Umsetzung des Projektes ohne die Gewinnung eines zusätzlichen Vertragspartners zu
+    hoch.
+10. Am 8.8.2002 wurde deshalb zwischen den derzeitigen Gesellschaftern der EBPP
+    GmbH und der Erste Bank ein Abtretungsvertrag und ein Syndikatsvertrag
+    abgeschlossen. Demgemäß werden Geschäftsanteile der EBPP GmbH von den
+    derzeitigen Teilhabern an die Erste Bank übertragen, sodass nach Vollendung des
+    Zusammenschlusses die EBPP GmbH direkt oder indirekt jeweils zu gleichen Teilen
+    von der Bank Austria, der RZB und der Erste Bank gehalten und von diesen
+    gemeinsam kontrolliert wird. Gemäß dem Syndikatsvertrag kann jede der drei
+    Muttergesellschaften Aktionen blockieren, die das strategische Wirtschaftsverhalten
+    von EBPP GmbH bestimmen. Entscheidungen über die Geschäftspolitik, das Budget,
+    den Geschäftsplan, größere Investitionen sowie die Besetzung der
+    Unternehmensleitung können nur einstimmig gefasst werden.                                  Das
+    Gemeinschaftsunternehmen wird auf Dauer alle Funktionen einer selbständigen
+    Wirtschaftseinheit erfüllen.
+III. GEMEINSCHAFTSWEITE BEDEUTUNG
+11. Die Unternehmen Bank Austria/HVB, RZB und Erste Bank erzielten im Jahr 2001
+    einen weltweiten Gesamtumsatz von mehr als EUR 5 Mrd.4 (Bank Austria/HVB:
+3   Die zum Zeitpunkt der Anmeldung beteiligte Tochterunternehmung der Bank Austria, Creditanstalt
+    AG, wurde mittlerweile in die Bank Austria integriert.
+4   Die Umsatzberechnung erfolgte auf der Grundlage von Artikel 5 (1) der Fusionskontrollverordnung
+    und der Bekanntmachung der Kommission über die Berechnung des Umsatzes (ABl. C 66 vom
+    2.3.1998, S.25).
+                                                        3
+
+    EUR 44.004 Mio., RZB: EUR 6.357 Mio., Erste Bank: EUR 5.351). Jedes
+    Unternehmen hatte einen gemeinschaftsweiten Gesamtumsatz von mehr als EUR 250
+    Mio. (Bank Austria/HVB: EUR [...], RZB: EUR [...], Erste Bank: EUR [...]). Die
+    Bank Austria/HVB, die RZB und die Erste Bank erzielen nicht mehr als zwei Drittel
+    ihres gemeinschaftsweiten Gesamtumsatzes in ein und demselben Mitgliedstaat. Der
+    angemeldete Zusammenschluß hat daher gemeinschaftsweite Bedeutung im Sinne
+    von Artikel 1 Absatz 2 der Fusionskontrollverordnung.
+IV. VEREINBARKEIT MIT DEM GEMEINSAMEN MARKT
+A. Sachlich relevante Märkte
+12. Die Parteien definieren den sachlich relevanten Markt als den Markt für
+    Dienstleistungen im Bereich externer Buchhaltung. Nach der von der Kommission
+    durchgeführten Marktuntersuchung deuten allerdings mehrere Aspekte, insbesondere
+    die hohen Entwicklungskosten für die EBPP-Software und unterschiedliche
+    Kundenpräferenzen und Zielgruppen für den traditionellen Rechnungsverkehr
+    einerseits und EBPP-Dienstleistungen andererseits, auf einen separaten Markt für
+    EBPP-Dienstleistungen hin. Eine genaue Abgrenzung der sachlich relevanten Märkte
+    ist jedoch nicht notwendig, weil in allen untersuchten alternativen Märkten wirksamer
+    Wettbewerb weder im EWR noch in einem wesentlichen Teil dieses Gebietes
+    erheblich behindert würde.
+B. Räumlich relevante Märkte
+13. Der räumlich relevante Markt für EBPP-Dienstleistungen wird von den Parteien,
+    zumindest in der Startphase, als national angesehen. Die EBPP GmbH wird anfangs
+    ausschließlich versuchen, österreichische Unternehmen als Kunden zu gewinnen.
+    Mittelfristig sollen mehrsprachige Web-Anwendungen entwickelt werden und danach
+    versucht werden, den Tätigkeitsbereich des Gemeinschaftsunternehmens auf andere
+    EU- und zentraleuropäische Länder auszuweiten. Die genaue Definition des räumlich
+    relevanten Marktes ist hier nicht notwendig, weil in allen untersuchten alternativen
+    Märkten wirksamer Wettbewerb weder im EWR noch in einem wesentlichen Teil
+    dieses Gebietes erheblich behindert würde.
+C. Wettbewerbliche Beurteilung
+14. Die Marktuntersuchung hat ergeben, dass das Vorhaben keinen Anlaß zu ernsthaften
+    Bedenken hinsichtlich seiner Vereinbarkeit mit dem gemeinsamen Markt oder einem
+    wesentlichen Teil desselben gibt und zwar aus folgenden Gründen:
+15. Der Zusammenschluß führt auf keinem der relevanten Märkte zu
+    Marktanteilsadditionen der Parteien, da diese bis dato noch nicht im EBPP-
+    Dienstleistungsbereich tätig sind. Nach Entwicklung der EBPP–Software wird die
+    EBPP GmbH im Wettbewerb mit zwei bereits auf dem österreichischen Markt tätigen
+    EBPP-Dienstleistern stehen, mit „bezahlen.at“ der BAWAG/PSK-Gruppe, und mit
+    dem Unternehmen „bill by click AG Internet Solutions“.
+16. Darüber hinaus bieten eine Reihe von großen österreichischen Unternehmen, die
+    regelmäßig eine Vielzahl von Rechnungen verschicken, ihren Kunden über die eigene
+    Homepage eine elektronisch gestützte Rechnungsabwicklung an. Diese „Direkt
+                                                 4
+
+    Biller“ sind in Österreich insbesondere Energieversorger (z.B. Energie-Allianz)
+    Telekommunikationsunternehmen (z.B. Telecom Austria, UTA, Connect), oder
+    Softwareunternehmen (z.B. IBM). Handelt es sich bei diesen „Direkt Billern“ auch
+    nicht um EBPP-Dienstleister, da die elektronische Rechnungsabwicklung lediglich
+    für die eigenen Kunden als kostenloser Zusatzservice für die erbrachte Dienstleistung
+    angeboten wird, so geht doch ein gewisser Wettbewerbsdruck auf die EBPP-
+    Dienstleister aus. Der wettbewerbliche Handlungsspielraum der EBPP-Dienstleister
+    wird durch die Präsenz der „Direkt Biller“ eingeschränkt. Die Kommission geht
+    davon aus, dass die wichtigsten künftigen Kunden der EBPP-GmbH große
+    Rechnungssteller sein werden, von denen einige bereits als „Direkt Biller“ fungieren.
+    Insbesondere für diese Unternehmen müssen EBPP-Unternehmen mit ihren
+    Dienstleistungen einen eindeutigen Mehrwert bieten , um sie als Kunden gewinnen
+    bzw. beibehalten zu können.
+17. Ferner handelt es sich bei EBPP-Dienstleistungen in Österreich wie auch im EWR
+    um einen jungen, sich noch stark in der Entwicklung befindlichen Markt. Nach
+    Schätzungen der Parteien wird derzeit lediglich ein geringer Prozentsatz (weit unter 5
+    %) der jährlich österreichweit ca. 700 Millionen bzw. europaweit ca. 35 Milliarden
+    erstellten Rechnungen elektronisch abgewickelt. Dabei betrifft der weitaus
+    überwiegende Teil das „direct billing“, wohingegen nur ein Bruchteil dieser
+    elektronisch abgewickelten Rechnungen EBPP-Dienstleistungen im eigentlichen
+    Sinne darstellt. Wenn sich das EBPP Dienstleistungsangebot auf dem Markt
+    durchsetzt, steht somit auch neu in den Markt eintretenden Wettbewerbern ein
+    erhebliches Entwicklungspotential zur Verfügung.
+18. Vertikale Auswirkungen des Zusammenschlusses auf andere Bankdienstleistungen
+    der beteiligten Unternehmen sind nicht zu befürchten. Zwar haben die beteiligten
+    Banken gemeinsam eine sehr starke Marktposition auf dem österreichischen
+    Bankenmarkt (nach Angaben der Parteien beläuft sich der kumulierte Marktanteil der
+    drei beteiligten Banken im Bereich Zahlungsverkehr auf zwischen [65% und 75%],
+    jedoch stellen diese hohen Marktanteile auch dann kein wettbewerbliches Problem
+    dar, wenn man den Zahlungsverkehrsmarkt als einen dem EBPP nachgeordneten
+    Markt ansähe. Bei der von der EBPP GmbH entwickelten Web-Anwendung wird es
+    sich um eine offene Plattform handeln, bei der weder Rechnungssteller noch
+    Rechnungsempfänger verpflichtet werden, ein Bankkonto bei einer der Mütter von
+    EBPP GmbH zu halten, um EBPP-Dienstleistungen in Anspruch nehmen zu können.
+19. Die Tatsache, dass die Parteien starke Wettbewerber auf dem österreichischen
+    Bankenmarkt sind, stellt schließlich keine Marktzutrittsschranke für neue Anbieter
+    von EBPP-Leistungen dar. Neben Banken sind im EBPP-Dienstleistungsbereich auch
+    eine Reihe von anderen Unternehmen in Europa tätig. Insgesamt hat die
+    Marktuntersuchung ergeben, dass einige Unternehmen, die bereits in Deutschland
+    EBPP-Dienstleistungen anbieten, künftig auch einen Marktzutritt auf den
+    österreichischen Markt in Erwägung ziehen könnten. Für deutsche Unternehmen, die
+    bereits über eine funktionstüchtige EBPP-Software verfügen, sind die
+    Marktzutrittschranken insbesondere aufgrund der fehlenden Sprachbarrieren relativ
+    gering.
+20. Aus den angeführten Gründen begründet oder verstärkt der beabsichtigte
+    Zusammenschluß keine marktbeherrschende Stellung, als deren Ergebnis wirksamer
+    Wettbewerb im EWR oder einem wesentlichen Teil davon erheblich behindert würde.
+                                               5
+
+V. SCHLUSS
+21. Aus diesen Gründen hat die Kommission beschlossen, keine Einwände gegen den
+    angemeldeten Zusammenschluß zu erheben und ihn mit dem Gemeinsamen Markt
+    und dem EWR-Abkommen für vereinbar zu erklären. Diese Entscheidung beruht auf
+    Artikel 6(1) b der Fusionskontrollverordnung und auf Artikel 57 des EWR-
+    Abkommens.
+                                              Für die Kommission
+                                                  Mario Monti
+                                            Mitglied der Kommission
+                                           6

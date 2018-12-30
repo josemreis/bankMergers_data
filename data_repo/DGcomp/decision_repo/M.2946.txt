@@ -1,0 +1,203 @@
+                      COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 23.09.2002
+  In the published version of this decision,                     SG (2002) D/231713
+  some information has been omitted
+  pursuant to Article 17(2) of Council                                   PUBLIC VERSION
+  Regulation (EEC) No 4064/89 concerning
+  non-disclosure of business secrets and other
+                                                                      MERGER PROCEDURE
+  confidential information. The omissions are
+                                                                   ARTICLE 6(1)(b) DECISION
+  shown thus […]. Where possible the
+  information omitted has been replaced by
+  ranges of figures or a general description.
+                                                                 To the notifying party
+Dear Sir/Madam,
+Subject:      Case No COMP/M.2946 - IBM/PwC Consulting
+              Notification of 22.08.2002 pursuant to Article 4 of Council Regulation
+              No 4064/891
+1. On 22.08.2002, the Commission received a notification of a proposed concentration
+    pursuant to Article 4 of Council Regulation (EEC) No 4064/891 by which the US
+    undertaking International Business Machines Corporation (“IBM”) acquires, within the
+    meaning of Article 3(1)(b) of the Merger Regulation, substantially all of the global
+    management consulting and technology services business (“PwC Consulting”) of the
+    PricewaterhouseCoopers network of firms (“PwC”) by way of purchase of shares and
+    assets.
+2. After examination of the notification, the Commission has concluded that the notified
+    operation falls within the scope of the Merger Regulation and that the concentration
+    does not raise serious doubts as to its compatibility with the common market and with
+    the EEA agreement.
+I.      THE PARTIES
+3. IBM is global provider of IT systems, equipment, computer software and ancillary
+    products, primarily in the IT area, as well as ancillary products. Through its Global
+    Services business unit, IBM provides a broad range of IT services including business
+    and IT management consulting and technology services.
+4. PwC is an international network of professional service firms that provide a variety of
+    accounting, audit, tax, management consulting, corporate finance etc. under one
+    common name, management oversight, common strategies and operational standards.
+1   OJ L 395, 30.12.1989 p. 1; corrigendum OJ L 257 of 21.9.1990, p. 13; Regulation as last amended by
+    Regulation (EC) No 1310/97 (OJ L 180, 9. 7. 1997, p. 1, corrigendum OJ L 40, 13.2.1998, p. 17).
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+     PwC’s management consulting and technology services are conducted essentially
+     through its PwC Consulting business unit.
+5. PwC Consulting provides IT services including business and IT management consulting
+     and technology services
+II.    THE OPERATION AND THE CONCENTRATION
+6. Following a Master Stock and Asset Purchase Agreement dated 30 July 2002, IBM will,
+     through the notified transaction, purchase substantially all of PwC’s global management
+     consulting and technology business (representing […]% of PwC's consulting revenues)
+     from the relevant local firm on a country-by-country basis. The acquired PwC
+     Consulting businesses will be integrated into IBM’s corporate structure and will operate
+     under the IBM brand. The operation therefore constitutes a concentration within the
+     meaning of Article 3(1)(b) of the Merger Regulation.
+III. COMMUNITY DIMENSION
+7. The undertakings concerned have a combined aggregate worldwide turnover of more
+     than EUR 5 Bio (EUR 85,9 Bio for IBM and [1-5] Bio for PwC Consulting in 2001)2.
+     Each of IBM and PwC Consulting have a Community-wide turnover in excess of EUR
+     250 million (EUR […] for IBM and EUR [1-5] Bio for PwC Consulting in 2001), but
+     they do not achieve more than two-thirds of their aggregate Community-wide turnover
+     within one and the same Member State. The notified operation therefore has a
+     Community dimension. It does not constitute a co-operation case under the EEA
+     Agreement.
+IV. COMPATIBILITY WITH THE COMMON MARKET
+A.     RELEVANT PRODUCT MARKETS
+8. The notifying parties consider that the relevant product market for the purpose of the
+     proposed transaction is the market for all IT services.
+9. The Commission has in previous decisions3 found that the product market for such services
+     may either be the overall market for IT services or seven service categories reflecting
+     standard industry practice.4 For example, in HP/Compaq, it was held that the delineation
+     made in earlier Commission decisions could be maintained although both customers and
+     competitors had confirmed that the exact limits of the defined service categories are
+     gradually becoming indistinct as customers are increasingly procuring full package services
+     through so-called “one stop shopping” practices and that due to the fast technology
+2   Turnover calculated in accordance with Article 5(1) of the Merger Regulation and the Commission Notice
+    on the calculation of turnover (OJ C66, 2.3.1998, p25). To the extent that figures include turnover for the
+    period before 1.1.1999, they are calculated on the basis of average ECU exchange rates and translated into
+    EUR on a one-for-one basis.
+3 Case No IV/M.1561 – Getronics/Wang, Case No COMP/M.1901 – Cap Gemini/Ernst&Young and Case
+    No COMP/M.2609 – HP/Compaq.
+4 These are: (i) hardware maintenance, (ii) software maintenance and support; (iii) consulting; (iv)
+    development integration; (v) IT management services; (vi) business management services, and (vii)
+    education and training.
+                                                           2
+
+    changes in the IT sector, the already high degree of supply side substitutability was
+    further facilitated.5
+10. This growing tendency of procuring multiple-items packages also called “end-to-end IT
+    solutions” including products and services ranging from business consulting to hardware
+    and financing services, could result in the future development of a separate individual
+    market of its own.
+11. Suggestions were also made with respect to a further delineation of this possible “end-to-
+    end solutions” market according to the respective sectors of activities of customers such as,
+    for example, banking & finance, oil & energy, etc. since specific demand-side
+    characteristics such as a high level of business process sophistication and the increased
+    interdependence between the various elements of the package might warrant such
+    delineation.
+12. Finally, as already considered in a previous Commission decision6, the results of the market
+    investigation also indicated the possibility for a further delineation of the markets or market
+    segments according to the end-customer category i.e. small and medium-sized enterprises
+    (“SME”) and large (or global) companies. Although the parties dispute such delineation,
+    the Commission found that such an approach could be justified on the basis of the
+    differences in the needs, purchasing patterns, financial means and geographic reach
+    between SMEs and larger companies.
+13. For the purpose of this case, it was however not necessary to further define the market
+    as the concentration would not result in the creation or the strengthening of a dominant
+    position in the EEA or any substantial part of it on any such or alternative market
+    definition considered.
+B.    RELEVANT GEOGRAPHIC MARKETS
+14. Although the results of the market investigation carried out for the purpose of the
+    assessment of the proposed transaction have confirmed the strong trend towards
+    internationalisation of the IT services market as already indicated by the Commission in
+    previous decisions, the supplier’s ability to provide products and services tailored to local
+    cultural and business particularities remains an important element taken into account by
+    customers when purchasing such products and services.
+15. It can therefore not yet be concluded, at this stage of the evolution of the market, that the
+    geographic scope of the IT services markets has become international or at least EEA-
+    wide. However, for the purpose of the proposed transaction, the exact geographic
+    market definition can be left open, since on any possible geographic market definition,
+    the concentration does not raise competition concerns.
+C.    COMPETITIVE ASSESSMENT
+16. The acquisition of PwC Consulting by IBM will expand IBM’s service delivery portfolio
+    by providing it with strategy, consulting, business process and vertical industry expertise.
+    The combined company of around 180,000 employees will be the largest IT services
+    company in the world.
+5 Case No COMP/M.2609 – HP/Compaq, § 26.
+6 Case No COMP/M.2478– IBM Italia/ Business Solutions/JV.
+                                                     3
+
+17. On the basis of the EEA-wide market for IT services, the merged entity’s post-transaction
+    share of sales of overall IT services will be less than 15% (IBM about [5-10]% and PwC
+    Consulting about [0-5]%). Even on the basis of national markets, the parties’ combined
+    2001 share of IT services would be less than 15%, with a maximum of [10-20]% in Spain.
+18. When considering possible separate markets according to the seven products and services
+    categories outlined above at the EEA-wide level, the merged entity’s market shares do not
+    reach beyond 15% in any single category except for IT management services where the
+    combined share for the full year 2001 is [10-20]% including a de minimis addition of below
+    [0-5]% from PwC Consulting. However, looking at the merged entity’s position on the
+    basis of national markets for IT management, the combined IBM/PwC Consulting will have
+    market shares exceeding 15% in the following eleven EEA countries: Austria ([20-30]%);
+    Belgium ([20-30]%); Denmark ([20-30]%); France ([20-30]%); Germany ([10-20]%);
+    Greece ([20-30]%); Ireland ([30-40]%); Italy ([10-20]%); Norway ([10-20]%); Portugal
+    ([30-40]%); and Spain ([20-30]%).
+19. While IBM is the largest provider of IT management services in all these countries, PwC
+    Consulting, however, has no significant presence in any of these countries with market
+    shares of between [0-5]% except for Portugal where its market shares has reached [0-5]%
+    for the full year 2001.
+20. In addition to the marginal nature of the market share additions from PwC Consulting in all
+    those countries, a significant number of customers indicated that the merged IBM/PwC
+    Consulting will remain faced with a large number of global and viable players such as EDS,
+    the new HP, Siemens Business Services (“SBS”), Fujitsu and Accenture, as well as a large
+    number of local or regional players. In addition, the ability of rivals to swiftly react to
+    changing customer demands and the opportunity for customers to play one supplier against
+    another in a dynamic market support the absence of a finding of competitive concerns as a
+    result of the transaction on these possible national markets for IT management services.
+21. On any of the 6 other possible products and services categories outlined above, the
+    combined entity will not have market shares beyond 15% in any EEA country, except in
+    very few isolated markets. In these markets, however, either PwC Consulting has no
+    significant presence or, the combined entity’s market share remains below 30%. In light of
+    the above and the markets characteristics outlined in this decision, the absence of a finding
+    of competitive concerns as a result of the transaction on these possible national markets for
+    any of the 6 other possible products and services categories outlined above can therefore be
+    confirmed.
+22. Similarly, the proposed transaction is not expected to raise any competitive concern as far
+    as its impact on the possible separate markets for SMEs on the one hand and larger
+    corporations on the other is concerned. Indeed, given the marginal increase in IBM’s
+    overall market share from the addition of PwC Consulting, the proposed transaction does
+    not raise any concerns as to the possible creation or strengthening of a dominant position on
+    any of the two possible delineated markets.
+23. Finally, while it has been argued by third parties in the course of the investigation that, as a
+    result of the proposed acquisition of PwC Consulting, IBM would gain full control over all
+    components of a possible separate market for “end-to-end IT solutions” as described above,
+    the results of the Commission’s market investigation have shown that, even in that case, the
+    combination would not raise serious doubts as to its compatibility with the Common
+    Market.
+                                                     4
+
+24. Indeed, while IBM is probably the supplier with the broadest range of products and services
+    available in-house, it holds no dominant position on any of the products or services markets
+    that could be included in such packaged IT solutions. It can therefore be excluded that the
+    merged entity could gain market power through such combined sales.
+25. Similarly, with respect to the effects on possible “end-to-end solutions” markets further
+    delineated according to the activities of customers such as, for example, banking &
+    finance, the proposed transaction is neither expected to raise competitive concerns.
+    Indeed, even when broken-down by types of industries, the merged entity’s European
+    market shares rarely goes beyond 15%. On a national basis, market shares remain
+    around the European average with the notable exception of IBM’s share of the
+    Portuguese IT services market for the telecom and utilities industries7 where it reported
+    a [50-70]% share for the year 2000, this situation being the result of the award of a
+    major contract in a market of a relatively small size.
+V.    CONCLUSION
+26. In light of the above, the Commission has concluded that the proposed transaction is not
+    likely to create or strengthen a dominant position as a result of which effective
+    competition would be significantly impeded in the EEA or any substantial part of that
+    area.
+27. For the above reasons, the Commission has decided not to oppose the notified operation
+    and to declare it compatible with the common market and with the EEA Agreement.
+    This decision is adopted in application of Article 6(1)(b) of Council Regulation (EEC)
+    No 4064/89.
+                                                                For the Commission
+                                                                Mario MONTI
+                                                                Member of the Commission
+7 As provided by the parties on the basis of information prepared and released by Pierre Audoin Conseil SA.
+                                                           5

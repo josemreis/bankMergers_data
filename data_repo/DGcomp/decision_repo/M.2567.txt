@@ -1,0 +1,334 @@
+                                EUROPEAN COMMISSION
+In the published version of this decision, some                 Brussels, 13.10.2014
+information has been omitted pursuant to Article                C(2014) 7535 final
+17(2) of Council Regulation (EC) No 139/2004
+concerning non-disclosure of business secrets and
+other confidential information. The omissions are
+                                                                        PUBLIC VERSION
+shown thus […]. Where possible the information
+omitted has been replaced by ranges of figures or a                   MERGER PROCEDURE
+general description.
+To the notifying party:
+Dear Sir/Madam,
+Subject:        Case No COMP/M.2567 - NORDBANKEN/ POSTGIROT
+                Commission decision pursuant to Article 6(1)(b) and Article 6(2) of
+                Council Regulation No 139/20041 and Article 6(2) of Council Regulation
+                (EEC) No 4064/892
+(1).      By decision of 12 November 20013 adopted in application of Article 6(2) of Council
+          Regulation (EEC) No 4064/894 (the "Clearance Decision"), the Commission declared
+          the operation by which Nordbanken AB ("Nordbanken") acquired control of
+          Postgirot Bank AB ("Postgirot") (the "Transaction") compatible with the common
+          market and with the EEA Agreement, subject to full compliance with the
+          commitments submitted by the notifying party and annexed to the Clearance
+          Decision.
+1         OJ L 24, 29.1.2004, p. 1 (the "Merger Regulation"). With effect from 1 December 2009, the Treaty on
+          the Functioning of the European Union ('TFEU') has introduced certain changes, such as the
+          replacement of 'Community' by 'Union' and 'common market' by 'internal market'. The terminology of
+          the TFEU will be used throughout this decision.
+2         OJ L395, 30.12.1989, p.1, as rectified, OJ 1990 L 257, p. 13.
+3         OJ C347, 08.12.2001, p. 5.
+4         OJ L395, 30.12.1989, p.1, as rectified, OJ 1990 L 257, p. 13.
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+1.     THE PARTIES
+(2). Nordbanken was a Swedish bank mainly active on retail and corporate banking, as
+     well as on life insurance in Sweden. In December 2001, Nordbanken became part of
+     Nordea Group, which was formed through successive mergers of banks based in
+     various countries in the EEA, including in the Nordic, Baltic countries and Poland.
+     Currently all operations have been conducted under the brand name "Nordea".
+(3). Postgirot was a wholly owned subsidiary of the State-owned company Posten AB,
+     the Swedish post office. Postgirot operates a system which has been used to provide
+     giro payment services in Sweden. Giro payment is a particular kind of credit transfer,
+     which uses, instead of the payee's account number, a special bank or Postgirot
+     number to identify the payee. Until 1994, Postgirot held a monopoly on State giro
+     payments. Following the Transaction, Postgirot was integrated into Nordbanken,
+     linking Postgirot numbers to Nordbanken accounts. Since 2005 Nordbanken
+     provides giro payment services under the trademark "PlusGiro" to retail customers
+     and corporate clients.
+(4). Bankgirocentralen BGC AB ("Bankgirot"), a wholly owned subsidiary of BGC
+     Holding AB, is a central player for mediating retail payments between banks in
+     Sweden. Through its payment system, Bankgirot offers Direct Debit services
+     (Autogiro), Bankgirot receivables (Bankgirot Inbetalningar) and supplier payments
+     (Leverantörsbetalningar). The Bankgirot system is a multilateral platform used by all
+     banks which offer giro payment services to their retail clients in Sweden. In 2001,
+     97% of the shares of Bankgirot were owned by the four largest banks operating in
+     Sweden. Nordbanken was one of the main shareholders with a stake of 27% and the
+     right to appoint a member at the Board of Directors.
+(5). Privatgirot AB ("Privatgirot") provides payment and document processing services
+     over the Internet for banks, private, and corporate customers. It processes giro
+     services for seven Swedish banks. At the time of the Clearance Decision,
+     Nordbanken had a stake of 22% in Privatgirot, together with Board representation.
+2.     THE CLEARANCE DECISION
+(6). The Clearance Decision stated that the Transaction, as it had initially been notified to
+     the Commission, would have impeded effective competition in Sweden regarding i)
+     the market for distant payment system services; and, ii) the market for technical
+     services related to payment systems.
+(7). At the time of the Transaction Postgirot was the largest provider of domestic distance
+     payment services to both households and corporate customers. Moreover, there were
+     structural links between Nordbanken and Bankgirot which was Postgirot's main
+     competitor. More specifically, Nordbanken had a stake of 27% in Bankgirot and the
+     right to appoint a member of the Board of Directors with access to confidential
+     information related to Bankgirot's activities. The Commission concluded that by
+     combining Postgirot customers' base with Nordbanken's existing service portfolio
+     and with Nordbanken's shareholding in Bankgirot, the transaction was likely to result
+     in the creation of a joint dominant position by Postgirot and Bankgirot on the market
+     for the provision of distant payment system services in Sweden.
+                                                2
+
+(8).  The Commission also found that the Transaction, as initially notified, would have led
+      to the creation of a joint dominant position on the market for the provision of
+      technical services related to payment systems. The Commission based its concern on
+      the fact that Postgirot had a strong presence on this market whilst Nordbanken had a
+      strong influence on Privatgirot (the main competitor to Postgirot on this market)
+      through its shareholding of 22% in Privatgirot and representation on the Board and
+      other governing bodies.
+3.      THE COMMITMENTS
+(9).  Nordbanken submitted commitments on 16 October 2001 which were made binding
+      in the Clearance Decision (the "Commitments").
+(10). Regarding the market for distant payment services, Nordbanken offered (i) to reduce
+      its shareholding in Bankgirot from 27% to 10%, (ii) to cease the exercise of any
+      rights deriving from its participation in the shareholding structure of Bankgirot (iii)
+      to stop having a representative in the Board of Directors of Bankgirot, (iv) to invite
+      Nordbanken's and Postgirot's representatives in the Bankgirot working groups to
+      resign, (v) to adopt measures preventing access by Nordbanken to Bankgirot's
+      commercial information.
+(11). Regarding the market for technical services related to payment systems, Nordbanken
+      offered to renounce to all voting rights attached to its shares in the capital of
+      Privatgirot, and ultimately to withdraw as a party in its shareholding structure.
+(12). The Commitments were of unlimited duration and their implementation took place
+      during the period 2002 – 2004. In particular, Nordbanken implemented the reduction
+      to 10% of its shareholding in Bankgirot in 2004 by selling part of its shareholding to
+      FöreningsSparbanken AB (currently Swedbank). A Monitoring Trustee was
+      appointed to assist the Commission in the monitoring of the implementation of the
+      commitments.
+4.      PROCEDURE
+(13). On 21 March 2012, Nordbanken submitted to the Commission a request to waive the
+      Commitments (the "Waiver Request"). Nordbanken's Waiver Request invokes recital
+      2.4 of the Commitments (the "Review clause"), which provides that Nordbanken has
+      the right "to seek to obtain from the Commission, upon request and showing good
+      cause, a waiver from the obligation to comply with one or more of the commitments
+      set out above."
+(14). In order to verify whether the above conditions are met the Commission addressed
+      several requests for information to Nordbanken. In its initial submission as well as in
+      the subsequent submissions addressing the Commission's information requests,
+      Nordbanken alleges that the factual circumstances that had justified the
+      Commitments at the time the Clearance Decision was adopted have changed
+      considerably on a permanent basis, thereby rendering unnecessary the Commitments
+      currently in force.
+(15). The Monitoring Trustee submitted a report on Nordbanken's Waiver Request on 2
+      November 2012. The Commission conducted a market investigation during the
+      second half of 2013 and the beginning of 2014.The Commission interviewed public
+                                                 3
+
+       authorities and other third parties concerned, among which the Swedish Competition
+       Authority, the Swedish Central Bank and the Swedish Bankers Association.
+5.       THE COMMISSION'S ASSESSMENT
+(16).  Just like Council Regulation (EC) No 139/20045, Council Regulation (EEC) No
+       4064/89 gave the Commission power to adopt decisions relating to concentrations
+       with a Community dimension, and, in particular, decisions declaring concentrations
+       compatible with the common market. In accordance with the general principle of law
+       that, generally, a body which has the power to adopt a particular legal measure also
+       has the power to abrogate or amend it by adopting an actus contrarius, unless such
+       power is expressly conferred upon another body, the Commission has, in principle,
+       the power to waive the Commitments.6
+(17).  As regards the conditions under which such a waiver may be granted, recital 2.4 of
+       the Commitments provides that Nordbanken has the right "to seek to obtain from the
+       Commission, upon request and showing good cause, a waiver from the obligation to
+       comply with one or more of the commitments ...".
+(18).  For the reasons set out in sections 5.1 and 5.2 below, the Commission considers that
+       Nordbanken has shown good cause by demonstrating exceptional circumstances –
+       that is, significant and permanent changes in market circumstances7 - which justify a
+       waiver of the Commitments in this case.
+(19).  More specifically, the circumstances in both the markets for distant payment system
+       services and for technical services related to payment systems have changed
+       significantly on a permanent basis since the adoption of the Clearance Decision.
+(20).  Moreover, third parties have been consulted and do not oppose the waiver of the
+       Commitments. The market investigation militates in favour of the view that waiving
+       the Commitments would not affect their effectiveness as they have fulfilled their role
+       and they are no longer necessary. Finally, waiving the Commitments will not affect
+       third parties' rights.
+5.1.     Commitment concerning Nordbanken's position in Bankgirot
+5.1.1.   Nordbanken's submission
+   Market evolution since the adoption of the Clearance Decision
+(21).  Nordbanken submits that since the integration of Postgirot's services into their own
+       structure, the payment platform has become an intra-group payment-processing
+       platform, which cannot be considered to be a general payment system in Sweden.
+       Concretely, payments processed via this system are made from a payer to a payee
+       both in possession of PlusGiro accounts (i.e. Nordbanken's giro accounts).
+5      OJ L 24, 29.1.2004, p.1.
+6      Case T-251/00 Lagardère SCA and Canal+ SA v Commission EU:T:2004:353, paragraph 130.
+7      See also in this regard paragraph 73 and 74 of the Commission's Remedies Notice OJ C 267,
+       22.10.2008, p.1.
+                                                   4
+
+(22).   At the time of the Transaction, the Commission considered that the Postgirot and the
+        Bankgirot payment systems were competing with each other as general distant
+        payment systems due to the fact that both were generally accessible to all banks
+        meeting the established access conditions.
+(23).   Nowadays, Nordbanken does not offer any longer third party access to the PlusGiro
+        (formerly Postgirot) platform. That platform is only used for payments made by
+        Nordbanken customers to payees having as well a Nordbanken account. Whereas in
+        the past other banks’ users were able to route their payments using a Postgirot
+        number thanks to bilateral agreements between Nordbanken and other banks,
+        currently Nordbanken only maintains a single bilateral agreement of limited scope8
+        and does not enter into any new bilateral agreements with other banks regarding
+        access to its payment system. Currently, when payments of Nordbanken customers
+        are addressed to non-Nordbanken customers they need to be routed through the
+        Bankgirot platform which has become the universal platform where all banks in
+        Sweden may process their giro payment orders. Therefore, the choice between the
+        systems is only available to Nordbanken for a limited number of transactions.
+(24).   Postgirot’s factual evolution from a general payment system to an internal payment
+        system has been reflected in Swedish legislation enacted in 2010, which does not
+        consider PlusGiro (formerly Postgirot) as a general payment system any longer,
+        contrary to Bankgirot, which is indeed mentioned as such.
+(25).   Nordbanken further submits that, at the time of the Commission decision, the vast
+        majority (more than [60-70]%) of the customers in Sweden used the giro system
+        through a Postgirot account. Currently, only Nordbanken customers (that is, [30-
+        40]% of the Swedish customers) can have and do have a PlusGiro (formerly,
+        Postgirot) account allowing the use of the PlusGiro (formerly Postgirot) payment
+        system. Nordbanken illustrates this affirmation with the data provided in the figures
+        below, which shows a clear decreasing trend in the number of PlusGiro (figure 1)
+        accounts as opposed to Bankgirot's accounts (figure 2).
+     […]
+    Figure 1: Number of Postgirot/PlusGiro accounts (2002-2013) (Source: Nordbanken’s submission)
+     […]
+    Figure 2: Number of Bankgirot (2002-2013) (Source: Nordbanken’s submission)
+(26).   Market share data submitted by Nordbanken concerning incoming transactions in
+        2013 also reflect the above trends. Accordingly, PlusGiro (formerly Postgirot) has a
+        [20-30]% share of incoming payments in terms of volume and [10-20]% in terms of
+        value in 2013, whereas Bankgirot has the remaining share.
+(27).   Nordbanken also emphasised the fact that competition in the market for payment
+        services in Sweden has moved from competition between payments systems to
+        competition between banks at the end-consumer level. Since the Transaction,
+        PlusGiro (formerly Postgirot) has been transformed into Nordbanken's internal bank
+8       The bilateral agreement between Nordbanken and […] allows ca. […] customers to route approx. […]
+        billion of Swedish crowns in payments yearly.
+                                                        5
+
+       payment system that is used to provide giro payment services to Nordbanken's end
+       customers and Bankgirot has become the general payment system in Sweden.
+       Customers do not choose between the two payment systems, but between banks
+       which offer the possibility of distance payments as an overall commercial package.
+       There is no specific price pressure exercised by PlusGiro over Bankgirot. It must be
+       noted that all banks participating in the Bankgirot system, including Nordbanken,
+       pay the same fees for the service (subject to adjustments based on the volume of
+       transactions).
+ (28). Nordbanken submits that the competitive landscape has also changed significantly
+       since the Clearance Decision. Payments via debit cards and credit cards have
+       increased rapidly and new systems for paying with mobile have been released. All
+       these developments have increased the competition in the market for distance
+       payments services in Sweden and decreased the importance of both Bankgirot and
+       PlusGiro.
+   Regulatory changes
+ (29). Nordbanken emphasised that fundamental regulatory changes at European level have
+       also had an effect on the payment industry in Sweden. The implementation of the
+       Payment Service Directive in 2009 and 2010, which has provided the necessary legal
+       platform for the Single Euro Payments Area (SEPA) pushes the Swedish banking
+       sector, as in the whole EU, to a move from a country-based payment infrastructure
+       with proprietary country solutions and regulations, towards a common EU
+       infrastructure based on common ISO 20022 payment standards and common
+       regulation.
+   Future development of the Swedish payment system
+ (30). Bankgirot has recently initiated a long-term project, in collaboration with other
+       banks, to develop a new payment infrastructure for the Nordic area in order to adapt
+       for the introduction of SEPA standards. In this context, preventing Nordbanken from
+       fully participating in Bankgirot's working groups and decision making bodies as a
+       result of the commitments in force could hamper the development of the distance
+       payment sector in Sweden, since Nordbanken's market position and technical
+       capabilities need to be taken into account when developing a new infrastructure to
+       successfully adapt to the new regulatory and competitive situation. In this regard,
+       Nordbanken as well as the other Swedish banks will need to contribute to and adapt
+       their own functionalities according to the future payment infrastructure in Sweden
+       and in the EEA. Therefore, Nordbanken would need to participate on equal footing
+       as the other banks in the working and management groups chaired by Bankgirot.
+5.1.2.   Assessment
+ (31). First, the market investigation supports the Commission's view that the PlusGiro
+       (formerly Postgirot) and the Bankgirot platforms are not any longer competing as
+       general payment systems. Indeed, as Nordbanken claims, PlusGiro is currently an in-
+       house payment system available only for payments of Nordbanken's customers
+       addressed to other Nordbanken customers. Bankgirot is the only general giro
+       payment system in Sweden. This is reflected since 2010 in the Swedish legislation.
+ (32). Second, currently, competition does not any longer take place at payment system
+       level but at bank customer level. Bankgirot is the only platform available to all banks
+                                                 6
+
+      and the possibility of carrying out distance payments is integrated into the banks’
+      commercial offer to end customers. Therefore, it could not be considered that the
+      pricing power of Bankgirot is limited by the PlusGiro system, since end customers
+      (except for a very limited proportion made of Nordbanken's customers as regards
+      payments to Nordbanken accounts) could not switch from one system to the other in
+      response to a price increase by choosing a PlusGiro transfer form instead of a
+      Bankgirot transfer form.
+(33). Third, in the Clearance Decision the Commission noted that Postgirot's high market
+      shares resulted from the fact that prior to 1994 it had a monopoly on all payments
+      from and to government institutions. Most government institutions and companies in
+      Sweden had Postgirot accounts through which they received payments for bills.
+      Through its proprietary payment system, Postgirot was thus the only bank in Sweden
+      that achieved high market shares in distance payments without matching market
+      positions in other banking markets. This was due to the fact that, most of Postgirot’s
+      payments customers had their primary banking relationship with another bank.
+(34). At the time of the Clearance Decision, competitors had argued that the notified
+      operation would provide Nordbanken with access to a large corporate customer base
+      of Postgirot account holders that used Postgirot for their incoming payments but had
+      their primary customer relationship with another bank because Postgirot offered only
+      limited services.
+(35). In contrast, the market shares provided by Nordbanken for the period 2012-2013
+      illustrate that an important number of PlusGiro (formerly Postgirot) corporate
+      customers switched to the Bankgirot platform (see Figure 1). Therefore, Nordbanken
+      does not seem to have any specific advantage to attract customers by the fact that it
+      operates the PlusGiro system.
+(36). These developments have been confirmed by the Swedish Competition Authority
+      and the Swedish Central Bank during the market investigation.
+(37). The Monitoring Trustee's report also refers to the above described permanent
+      changes to the market and finds no reasons to oppose Nordbanken's claims. In
+      addition, the Monitoring Trustee highlights that the market for payment services has
+      moved from traditional giro payments to more modern payment methods (including
+      internet and phone payment services) exerting significant competitive price pressure
+      on Bankgirot, whereas the competitive pressure from the PlusGiro/Postgirot system
+      has considerable decreased.
+(38). Finally, Nordbanken's claim that preventing it from fully participating in Bankgirot's
+      shareholding could hamper innovation in the distant payment market in Sweden was
+      also supported by the market investigation. Indeed, Bankgirot emphasised in the
+      context of the market investigation that the inability of Nordbanken to participate in
+      the project aiming to prepare the Swedish banks for the changing requirements in the
+      payment business due to the introduction of the Single Euro Payment Area ("SEPA")
+      in the euro countries would be an obstacle to deliver and develop the future Swedish
+      payment system in the most secure and efficient manner.
+(39). Therefore, on the basis of the above and the evidence available to it, the Commission
+      considers that market conditions have changed significantly and on a permanent
+      basis since the adoption of the Clearance Decision in 2001. In addition, the time-span
+      between the Clearance Decision and Nordbanken's Waiver Request is significant and
+                                                7
+
+       neither the Monitoring Trustee nor the market investigation has pointed to any
+       potential risk a waiver of the Commitments might lead to as regards third parties'
+       acquired rights. It follows that the Commitments concerning Nordbanken's position
+       in Bankgirot are no longer necessary.
+5.2.     Commitment regarding Nordbanken's position in Privatgirot
+5.2.1.   Nordbanken's submission
+ (40). Nordbanken submits that currently it no longer offers technical services related to
+       payment systems to other banks. Therefore, Nordbanken cannot any longer be
+       considered a competitor of Privatgirot on this market. Moreover, Privatgirot is no
+       longer owned by competitors of Nordbanken. As a consequence of these two
+       changes, Nordbanken considers the Commitments concerning the market for
+       provision of technical services to banks as no longer necessary.
+5.2.2.   Assessment
+ (41). Based on the evidence currently available to it, the Commission considers that the
+       Commitments regarding the market for technical services related to payment systems
+       are no longer justified.
+ (42). In particular, the Monitoring Trustee's report supports Nordbanken's arguments.
+       Moreover, the market investigation has not revealed any issue as regards a possible
+       waiver of Nordbanken's commitments towards Privatgirot.
+6.       CONCLUSION
+ (43). For the above reasons, the Commission has decided to waive the Commitments
+       made binding by the Commission in the Clearance Decision of November 2001. This
+       decision is adopted in application of Article 6(1)(b) in conjunction with 6(2) of
+       Council Regulation (EC) 139/2004 and Article 6(2) of Council Regulation (EEC) No
+       4064/1989 as well as recital 2.4 of the Commitments.
+                                                     For the Commission
+                                                     (signed)
+                                                     Joaquín ALMUNIA
+                                                     Vice-President
+                                                 8

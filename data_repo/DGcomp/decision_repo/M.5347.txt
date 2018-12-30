@@ -1,0 +1,201 @@
+                        COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 20.4.2009
+                                                                 SG-Greffe(2009) D/2295
+                                                                 C(2009) 3075
+   In the published version of this decision, some
+   information has been omitted pursuant to Article
+   17(2) of Council Regulation (EC) No 139/2004
+   concerning non-disclosure of business secrets and                      PUBLIC VERSION
+   other confidential information. The omissions are
+   shown thus […]. Where possible the information                      MERGER PROCEDURE
+   omitted has been replaced by ranges of figures or a              ARTICLE 6(1)(b) DECISION
+   general description.
+To the notifying party:
+Dear Sir/Madam,
+Subject:        Case No COMP/M.5347 – Mapfre/ Salvador Caetano / JVs
+                Notification of 11/03/2009 pursuant to Article 4 of Council Regulation
+                No 139/2004 1
+1. On 11.3.2009, the Commission received a notification of a proposed concentration
+      pursuant to Article 4 of Council Regulation (EC) No 139/2004 by which the undertakings
+      Mapfre S.A ("Mapfre", Spain) and Grupo Salvador Caetano SGPS, S.A. ("Salvador
+      Caetano", Portugal), acquire within the meaning of Article 3(1)(b) of the Council
+      Regulation joint control of the undertakings Choice Car-Comércio de Automóveis, S.A
+      ("Choice Car", Portugal), Finlog-Aluguer e Comércio de Automóveis, S.A. ("Finlog",
+      Portugal), Guerin-Rent-A-Car (Dois), Lda ("Guerin", Portugal), and Luso Assistência –
+      Gestâo de Acidentes, S.A. ("Luso", Portugal), currently owned by Salvador Caetano, by
+      way of purchase of shares.
+I.      THE PARTIES
+2. Mapfre is a holding company of Mapfre Group, which mainly provides insurance products,
+      including car insurance worldwide.
+3. Salvador Caetano is a parent company of the Salvador Caetano Group, which mainly
+      carries out car retail and repair services in Portugal and Spain.
+4. Choice Car, Finlog, Guerin and Luso (altogether "the JVs") are wholly owned subsidiaries
+      of Salvador Caetano, active in second-hand light car retailing (Choice Car), fleet
+1     OJ L 24, 29.1.2004 p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+    management services (Finlog), short term car rental services (Guerin),2 and services
+    ancillary to car accident management (Luso).
+II.  THE OPERATION
+5. The envisaged operation involves two interdependent transactions: (i) the purchase by
+    Mapfre, via its wholly-owned subsidiary Mapfre Autómoviles Sociedad Anonima de
+    Segueros y Reaseguros, from Choice Car-SGPS, S.A. (Salvador Caetano) of a 51% stake
+    in Finlog; the remaining 49% of shares will be retained by Choice Car-SGPS, S.A.
+    (Salvador Caetano) 3 (ii) the purchase by Mapfre and Salvador Caetano, via their jointly
+    controlled undertaking Ibericar, Sociedad Ibérica del Automovil, S.A.,4 from Choice Car-
+    SGPS, S.A. (Salvador Caetano) of 100% of the share capital of Choice Car, Guerin and
+    Luso. 5 As a result of the second transaction, Mapfre will indirectly hold 49% and Salvador
+    Caetano 51% of Choice Car, Guerin and Luso's share capital.
+III. CONCENTRATION
+6. According to contractual arrangements,6 both parties will have joint control over the JVs,
+    since (i) both parties will have equal voting rights on the strategic decisions of the business
+    policy of Finlog, and (ii) both parties will unanimously decide strategic business decisions
+    of Choice Car, Guerin and Luso.
+7. Based on the above, the notified operation leads to the acquisition of joint control and
+    constitutes a concentration within the meaning of Article 3(1)(b) of the Merger
+    Regulation.
+IV. COMMUNITY DIMENSION
+8. The undertakings concerned have a combined aggregate world-wide turnover of more than
+    EUR 5 billion 7 [Mapfre EUR 12,310.5 million, Salvador Caetano EUR 1,293 million].
+    Each of them have a Community-wide turnover in excess of EUR 250 million [Mapfre
+    EUR […] million, Salvador Caetano EUR […]million], and they do not achieve more than
+    two-thirds of their aggregate Community-wide turnover within one and the same Member
+    State. The notified operation therefore has a Community dimension.
+2   Via its subsidiary Island Rent, Aluguer de Autómoveis, S.A., Guerin is also active in car rental services and
+    children collective car transport services.
+3   Share Sale and Purchase Agreement between Mapfre Autómoviles Sociedad Anónima de Segueros y
+    Reaseguros and Choice Car-SGPS, S.A. of […] (hereinafter "Finlog SPA").
+4   On 18.8.2006 the Commission cleared the creation of a joint venture, now Ibericar, Sociedad Ibérica del
+    Autómovil, S.A., in case M.4283 Fogeca/Mapfre/JV.
+5   Share Sale and Purchase Agreement between Ibericar, Sociedad Ibérica del Autómovil, S.A. and Choice
+    Car-SGPS, S.A. of […] (hereinafter "Choice Car, Guerin, Luso SPA").
+6   […].
+7   Turnover calculated in accordance with Article 5(1) of the Merger Regulation and the Commission Notice
+    on the calculation of turnover (OJ C66, 2.3.1998, p25).
+                                                          2
+
+V.    COMPETITIVE ASSESSMENT
+1.       Horizontal overlaps
+     (1) Relevant product and geographic markets
+9. The Commission has found in previous decisions that it may be appropriate to distinguish
+    between short-term (e.g. for business and leisure trips) and long-term (e.g. with a rental
+    period of more than one year) car rental services8 . It may also be possible to divide the car
+    rental market according to customer groups, namely, corporate car rentals and leisure car
+    rentals 9 . The Commission has further suggested that there may be a replacement rentals
+    segment, in which rental companies settle their accounts with car insurance companies. 10
+    With regards to vehicle category, it may also be possible to distinguish between passenger
+    cars and industrial vehicles, i.e. trucks 11 .
+10. The Commission has also, inter alia, indicated that a market for retail sale of used
+    passenger cars and light commercial vehicles could be one of a number of markets related
+    to manufacturing and supply of new vehicles. 12
+11. In previous cases, the Commission has left open whether the car retailing market is
+    national or European-wide in scope, 13 whereas the relevant geographic market for car
+    rental may be national in scope. 14
+12. However, for the purpose of the proposed transaction it is not necessary to conclude on the
+    relevant product and geographic market definitions as irrespective of the precise definition
+    the proposed transaction would not lead to competition concerns.
+    (2) Competitive assessment
+13. The proposed transaction gives rise to the following market situation: (i) Salvador Caetano
+    and Guerin will be active in the car rental services market and its possible narrower
+    segmentations in Portugal; and (ii) Salvador Caetano and Choice Car will be active in the
+    resale of second-hand passenger cars and light commercial vehicles in Portugal and in the
+    EEA. However, the proposed transaction would lead to an affected market only in the
+    segment of replacement car rentals in Portugal:
+8   Commission decision of 20.4.2007 in case COMP/M.4613 Eurazeo S.A./Apcoa Parking Holdings Gmbh,
+    Commission decision of 18.2.2000 in case COMP/M.1810 VW/Europcar; Commission decision of
+    24.9.2001 in Case COMP/M.2510 Cendant/Galileo.
+9   See Cedant/Galileo, para. 21.
+10  See VW/Europcar, para. 9 and Cendant/Galileo, para. 19.
+11  Commission decision of 27.5.2003 in case COMP/M.3172 – Ferrovial/Amey, para. 16. See also
+    Commission decision of 24.11.2005 in case COMP/M. 3987 – Fidis Renting/Leasys, para. 6 and
+    Commission decision of 3.12.1999 in case IV/M. 1739 – Iveco/Fraikin, para. 8.
+12  Commission decision of 30.4.2004 in case M.3388 Ford Motor Company Ltd / Polar Motor Group.
+13  Id. fn. 13.
+14  Id. fn. 9.
+                                                        3
+
+                                          Salvador
+       Portugal (2007)                                   Guerin     Choice Car   Combined
+                                          Caetano
+       Short-term car rental services      [0-5]%      [10-20]%           -       [10-20]%
+       Corporate car rental services       [0-5]%       [5-10]%           -        [5-10]%
+       Leisure car rental services         [0-5]%       [5-10]%           -        [5-10]%
+       Passenger car rental services       [0-5]%       [5-10]%           -        [5-10]%
+       Replacement car rental
+                                           [0-5]%      [10-20] %          -       [20-30]%
+       services
+       Resale of second-hand cars and
+                                           [0-5]%           -          [0-5]%       [0-5]%
+       light commercial vehicles
+14. The combined market share of Salvador Caetano and Choice Car in the resale of used cars
+    in the EEA is significantly below 15%.
+15. Although the combined market share in the replacement car rentals segment would be
+    higher than 15%, the proposed transaction would not increase the market share of Salvador
+    Caetano, as Guerin is currently Salvador Caetano's wholly-owned subsidiary.
+16. In light of the above, the Commission considers that the proposed transaction does not give
+    rise to competition concerns as regards a possible market for replacement car rentals in
+    Portugal.
+2.        Vertical Links
+17. The proposed transaction would result in minor vertical links between the parties in the
+    markets for car insurance and car repair services in Portugal, which could be considered as
+    downstream vertically related markets to the markets where the joint ventures are active:
+    car rental, full fleet management services, and car retailing.
+    (1) Relevant product and geographic markets
+18. In previous decisions, the Commission has distinguished between life and non-life
+    insurance and indicated that each of them could be subdivided into as many markets as
+    there are risks to be covered.15 Therefore, car insurance could be considered as a narrower
+    segment of the non-life insurance market. In the past the Commission considered16 that the
+    distribution of insurance products is an activity vertically related with the supply of
+    insurance products. However, the Commission has always left the market definition for the
+    distribution of insurance products open.
+15  See e.g. Commission decision in case COMP/M.5075 Vienna Insurance Group/EBV.
+16 See e.g. Commission decision in case COMP/M.4284 AXA / Winterthur and case COMP/M.3395 SAMPO
+    / IF SKADEFÖRSÄKRING
+                                                     4
+
+19. In previous decisions, 17 the Commission has also indicated that car repair and maintenance
+    of automotive vehicles can be offered by three categories of operators: dealers of
+    automotive vehicles, whether owned by vehicle manufacturers or franchised dealerships
+    operating independently; fast fit centres specialised in repair and maintenance of
+    automotive vehicles; and independent garages and other full service providers. A narrower
+    market of the light repair and maintenance of motor vehicles (i.e. fast fit services) could be
+    distinguished from such an overall market.
+20. The relevant geographic market for car repair and maintenance, and car insurance may be
+    national in scope. 18
+21. However, for the purpose of the proposed transaction it is not necessary to conclude on the
+    relevant product and geographic market definitions as irrespective of definition the
+    proposed transaction would not lead to competition concerns.
+    (2) Competitive assessment
+22. Mapfre and Salvador Caetano are active in car insurance. In particular, a subsidiary of
+    Mapfre, Mapfre Seguros Gerais, is active in the supply of insurance products, whereas a
+    subsidiary of Salvador Caetano, Coral – Correctores de Seguros. S.A., distributes car
+    insurance products in Portugal. These activities could be considered as vertically related
+    to car rental services, full fleet management services, and car retailing services provided by
+    the JVs.
+23. However the proposed transaction will not lead to any competition concern due to these
+    vertical links because regarding car insurance, the market share of Mapfre in the supply
+    of car insurance products and of Salvador Caetano in the distribution of car insurance
+    products, respectively, are well below 25% (Mapfre [0-5]% and Salvador Caetano [0-
+    5]%).
+24. In addition, Salvador Caetano is active in car repair and maintenance services market in
+    Portugal (excluding fast fit services) that could also be considered as vertically related to
+    car rental services, full fleet management services, and car retailing services provided by
+    the JVs.
+25. Notwithstanding, the proposed transaction will not lead to any competition concern due
+    to these vertical links, as in the car repair services market, Salvador Caetano has a
+    market share of [0-5]% in the wider car repair services segment, and [0-5]% in the
+    narrower segment for car repair services, excluding fast fit services.
+17  See e.g. Commission decision in case M.2948 CVC/KWIK-FIT.
+18  Id. fn. 9.
+                                                     5
+
+VI.    CONCLUSION
+26. For the above reasons, the Commission has decided not to oppose the notified operation
+    and to declare it compatible with the common market and with the EEA Agreement.
+    This decision is adopted in application of Article 6(1)(b) of Council Regulation (EC) No
+    139/2004.
+                                                       For the Commission
+                                                       (signed)
+                                                       Neelie KROES
+                                                       Member of the Commission
+                                                  6

@@ -1,0 +1,238 @@
+                               COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                                      Brussels, 12-IX-2007
+                                                                                      SG-Greffe(2007) D/205435
+      In the published version of this decision, some                                         PUBLIC VERSION
+      information has been omitted pursuant to Article
+      17(2) of Council Regulation (EC) No 139/2004
+      concerning non-disclosure of business secrets
+      and other confidential information. The
+      omissions are shown thus […]. Where possible                                       MERGER PROCEDURE
+      the information omitted has been replaced by
+      ranges of figures or a general description.
+                                                                                      ARTICLE 6(1)(b) DECISION
+   To the notifying parties
+   Dear Sirs,
+   Subject:         Case No. COMP/M.4760 – Amadeus/ Sabre/ JV
+                    Notification of 07.08.2007 pursuant to Article 4 of Council Regulation
+                    No 139/2004
+   I.        INTRODUCTION
+1.     On 7 August 2007, the Commission received a notification of a proposed concentration
+       pursuant to Article 4 of Council Regulation (EC) No 139/2004 ("the Merger Regulation")1,
+       by which the undertakings Amadeus IT Group, S.A. ("Amadeus", Spain) and Sabre Inc.
+       ("Sabre", USA) acquire within the meaning of Article 3(1)(b) of the Merger Regulation joint
+       control of a newly created company constituting a joint venture ("JV"). The name of the JV
+       will be Moneydirect.
+2.     After examination of the notification, the Commission has concluded that the notified
+       operation falls within the scope of the Merger Regulation and does not raise serious doubts
+       as to its compatibility with the common market and with the EEA Agreement.
+   II. THE PARTIES
+3.     Amadeus is the parent company of the Amadeus Group. The principal activity of the
+       group is to provide solutions to the travel industry to manage the distribution and selling
+       of travel services via its Global Distribution System ("GDS"). By using the Amadeus
+       GDS, travel agents can make bookings with primarily airlines, hotel chains and car rental
+       firms. In addition, Amadeus provides IT services to the airline industry (e.g. inventory
+       management).
+   1         OJ L 24, 29.1.2004 p. 1
+   Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11
+
+4.     Sabre is the principal operating company of the Sabre Group. The company has three
+       primary business units, Sabre Travel Network, Travelocity and Sabre Airline Solutions.
+       The Sabre Travel Network distributes travel-related services through the Sabre GDS.
+       Travelocity is an online travel agency and Sabre Airline Solutions offers airlines
+       passenger management services, software products and consulting services.
+5.     Moneydirect will be incorporated in Ireland. The parties anticipate that Moneydirect will
+       have two fully-owned subsidiaries, the existing firm Moneydirect Pty. Ltd. (incorporated
+       in Australia) and a US subsidiary (still to be incorporated). Moneydirect will provide
+       payment processing and clearing services for the travel industry.
+   III. THE OPERATION
+6.     Amadeus will contribute its existing Moneydirect business to the JV.2 Sabre's contribution
+       to the JV will be financial only. Moneydirect will be jointly controlled by Amadeus and
+       Sabre (each party will retain 50% of the company's share capital).3 The operation
+       therefore constitutes an acquisition of joint control in accordance with Article 3(2) of the
+       Merger Regulation.
+7.       The JV will be set up on a lasting basis. Moneydirect will have its own dedicated
+       management, financing, staff and assets. The company will provide its own services and
+       deal directly with its own third party customers. Any services provided by the JV to the
+       parent companies will be carried out at an "arm's length" basis. The JV will therefore be
+       "full function" within the meaning of Article 3(4) of the Merger Regulation.
+8.     The notified operation therefore constitutes a concentration within the meaning of Article
+       3(1)(b) of the Merger Regulation.
+   IV. COMMUNITY DIMENSION
+9.     The combined aggregate worldwide turnover of the undertakings concerned exceeds EUR
+       2,500 million (Amadeus EUR 2,683 million; Sabre EUR 2,283 million; Moneydirect EUR
+       1 million) and their aggregated Community-wide turnover exceeds EUR 100 million
+       (Amadeus EUR […] million; Sabre EUR […] million). The parties' combined turnover
+       exceeds EUR 100 million in more than three Member States (among them Germany,
+       France and the UK)4 and each of the parties generate more than EUR 25 million in each of
+       these three Member States.5 None of undertakings concerned generate more than two-
+   2   The Australian company Moneydirect Pty. Ltd (including its New Zealand subsidiary), the Moneydirect
+       proprietary software system, associated intellectual property rights and current customer agreements. The
+       existing business does not operate within the EEA.
+   3   The JV's board of directors will be composed of four members. Two members will be appointed by
+       Amadeus and two by Sabre. The chairman will alternate between the parties and he will not have a casting
+       vote. Decisions are taken by simple majority. If the board is unable to decide on a matter, it will be referred
+       to the CEOs of Amadeus and Sabre for resolution. Each party has a veto right for all decisions.
+   4   Germany: Amadeus EUR […] million and Sabre EUR […] million; France: Amadeus EUR […] million and
+       Sabre EUR […] million; the UK: Amadeus EUR […] million and Sabre EUR […] million.
+   5   See previous footnote.
+                                                           2
+
+     thirds of its turnover within one and the same Member State. It can therefore be concluded
+     that the notified operation has a Community dimension pursuant to Article 1(3) of the
+     Merger Regulation.
+  V. RELEVANT MARKETS
+                    A.     RELEVANT PRODUCT MARKET
+10.  The JV will be active in the field of payment processing and clearing systems.
+     Moneydirect will set up, market and commercialise a payment processing and clearing
+     platform for the travel sector. Moneydirect will not initially focus on transactions
+     involving traditional airlines but on transactions carried out by other travel service
+     providers such as hotels and car rental firms. The company will contract with travel
+     agencies and travel service providers and will then process and clear payments between
+     contracting parties.6
+11.  There are several competing processing and clearing platforms catering to the needs of the
+     travel industry. The Bank Settlement Plan ("BSP") is operated by the International Air
+     Transport Association ("IATA") which settles payments between most "legacy" airlines.7
+     Payment collection from travel agencies is performed by companies such as TourFinance,
+     DER and the SPS Platform. Pegasus provides hotel distribution services including
+     payment systems whereas WPS manages and processes data for the travel industry,
+     including payment processing. Perot Systems provides IT solutions to the travel industry
+     (and other industries).
+12.  Payment processing and clearing platforms are aimed at facilitating the processing of
+     payments and related documentation. Their specific features vary from industry to
+     industry but generally provide for pre-arranged procedures for invoicing and transfer of
+     funds in an efficient and cost-effective manner.
+13.  For the purposes of market definition, it may possibly be appropriate to distinguish
+     between payment processing and clearing platforms active in different industries. In the
+     present case it is however not necessary for the Commission to determine whether
+     payment processing and clearing for the travel industry constitutes a relevant product
+     market distinct from payment processing and clearing in other industries, because the
+     notified the transaction does not lead to competition concerns under any plausible product
+     market definition.
+                    B.     RELEVANT GEOGRAPHIC MARKETS
+14.  To date, Moneydirect is only active in Australia, New Zealand and the Philippines. The
+     JV will offer its services to travel businesses in the EU (initially in France and the United
+     Kingdom) and the USA with the view to offer payment processing and clearing globally
+     in the future.
+  6  Examples of such transactions would be payments from travel agent to hotel (transfer of deposit or pre-
+     payment received by travel agent), from travel agent to car rental company (transfer of deposit or pre-
+     payment received by travel agent) and hotel to travel agent (payment of commission).
+  7  Over 80% of worldwide airline revenues are processed via IATA travel agencies in the BSP system.
+                                                        3
+
+15.   For the purposes of the present case, it is not necessary to determine the exact geographic
+      scope of the relevant market(s) – for instance by defining national, EU-wide or worldwide
+      markets – since the notified transaction does not lead to competition concerns under any
+      plausible market definition.
+  VI.     COMPETITIVE ASSESSMENT
+                     A. NO HORIZONTAL OVERLAPS
+16.   Amadeus is currently not active in payment processing and clearing in the EEA. Sabre is
+      not active in payment processing and clearing at all. It may therefore be concluded that the
+      notified transaction will not result in any horizontal overlaps.
+                     B. NO VERTICAL CONCERNS
+17.   The parent companies – i.e. the GDS businesses of Amadeus and Sabre and their
+      respective travel agency businesses – are likely to become customers of the JV since they
+      may disburse or receive payments to and from certain travel agents via Moneydirect.
+      However, the notifying parties state that Moneydirect will have a large number of
+      customers and that transactions to/from Amadeus and Sabre will account for a maximum
+      of 10% of Moneydirect's total transaction volume. Travel agencies owned by Amadeus
+      and Sabre account for a maximum of 6% of travel agency transactions in any Member
+      State.
+18.   Given these circumstances, it may be expected that the relative importance in value terms
+      of the vertical relationships between Amadeus and Sabre on the one hand and
+      Moneydirect on the other, will be limited.
+19.   It may be concluded that no vertical relationship between Amadeus and Sabre and the JV
+      will give cause for concern.
+                     C. COORDINATION BETWEEN THE PARENT COMPANIES
+20.   One of the parent companies of the JV, Amadeus, has very strong market positions in the
+      EU markets for GDS services.8 Moreover, GDS markets are highly concentrated with only
+      three providers active in the EU (Amadeus, Sabre and Galileo/Worldspan). On the
+      downstream side of the two-sided GDS market – in which GDS providers offer
+      reservation, booking and ticketing services to travel agencies – Amadeus has market
+      shares exceeding 50% in 18 Member States and exceeding 90% in seven Member States.9
+21.   Given the highly concentrated nature of the GDS market, any coordination of the
+      competitive behaviour of Amadeus and Sabre in this market could be detrimental to
+      competition. Certain third parties have communicated their concerns about the fact that
+  8   For an in-depth description and analysis of the markets for GDS services, see the Commission decision of
+      21.08.2007 in case COMP/M.4523 TRAVELPORT/WORLDSPAN (not yet published).
+  9   See TRAVELPORT/WORLDSPAN, para 69. The Commission considered the downstream side of the
+      market to be national in scope.
+                                                        4
+
+     Amadeus and Sabre will be cooperating in the JV.10 Their main concern is a perceived
+     risk that the JV would be used as a vehicle to co-ordinate the competitive behaviour of
+     Amadeus' and Sabre's GDS businesses and travel agency businesses. These third parties
+     allege that data could be exchanged between the JV and the parent companies and
+     ultimately between the parent companies (via the JV). Detailed data from three sources
+     (Amadeus, Sabre and Moneydirect) could be combined and used to coordinate the
+     behaviour of the parent companies in the GDS markets or be sold to airlines. The latter
+     option would allegedly give advantages to airlines in contractual negotiations with travel
+     agents. Finally, it is alleged that Amadeus and Sabre would use this information to favour
+     their own retail travel agencies.11
+22.  The emphasis of the Commission investigation of the notified transaction has therefore
+     been to assess whether the JV has "as its object or effect the coordination of the
+     competitive behaviour of undertakings that remain independent."12 There are no
+     indications in the contractual arrangements between the parties included in the notification
+     that would lead the Commission to believe that the objective of creating the JV is to
+     coordinate the market behaviour of Amadeus and Sabre.
+23.  First, it ought to be noted that the current activities of the company that will form the
+     nucleus of the JV (Australian firm Moneydirect Pty. Ltd.) are very limited compared to
+     the activities of the parent companies and that none of them are active in the field of
+     payment transactions and clearing in the EU.13
+24.  Second, the principal activity of the parent companies – the provision of GDS services – is
+     not an activity which is situated upstream or downstream from the activity of the JV.
+     Having access to GDS services is not a pre-requisite to be able to supply payment
+     transaction and clearing services. The GDS market may be described as a neighbouring
+     market in the sense that the payment transaction and clearing services provided by the JV
+     will be offered to companies active in the travel industry, including GDS providers such
+     as Amadeus and Sabre. However, the number of potential customers to the JV within the
+     travel industry (and possibly outside it) is much wider than Amadeus and Sabre.
+     Considering these circumstances, the market for GDS services cannot be considered to be
+     closely related to the provision of payment transaction and clearing services.
+25.  Third, the Commission has analysed closely the arrangements that will be put in place by
+     Amadeus and Sabre to prevent anti-competitive information "spill-over" to and from the
+     JV. The Joint Venture Agreement specifies which types of information will be shared
+     between Moneydirect, Amadeus and Sabre. No information that is not normally available
+     to shareholders of a JV will be disclosed by Moneydirect to its parent companies. As a
+     general rule, information obtained and produced by the JV will be treated as confidential
+  10 The Group of National Travel Agents' and Tour Operators' Associations within the EU ("ECTAA"), the
+     Guild of European Business Travel Agents ("GEBTA") and the German Travel Association (Deutscher
+     ReiseVerband, "DRV") have contacted the Commission in this respect.
+  11 Amadeus and Sabre both operate on-line travel agencies.
+  12 Article 2(4) of the Merger Regulation.
+  13 The turnover of Moneydirect Pty. Ltd. was EUR 1 million compared to EUR 2,683 million for Amadeus and
+     EUR 2,283 million for Sabre.
+                                                      5
+
+      and will not be made available to the parent companies. Amadeus' and Sabre's access to
+      information will be limited to their own respective transactions.14 The parties state in the
+      Joint Venture Agreement that they consider it paramount to keep confidential pricing and
+      transaction information of the JV's customers. The only persons from the parent
+      companies that will be granted access to detailed information about customers' payment
+      transactions will be employees formally seconded to the JV that do not have any sales or
+      managing function within Amadeus or Sabre.
+26.   Given the very limited size of the JV in relation to the principal activities of the parent
+      companies, given the fact that GDS services are not closely related to payment transaction
+      and clearing services and provided that the contractual arrangements limiting information
+      flows between the JV and the parent companies are put in place and strictly adhered to,
+      the Commission considers it unlikely that the JV will be used as a vehicle to co-ordinate
+      the competitive behaviour of Amadeus' and Sabre's GDS businesses and travel agency
+      businesses.15
+27.   The Commission can therefore conclude that the notified operation does not have as its
+      object or likely effect to coordinate the competitive behaviour of Amadeus and Sabre in a
+      market which is upstream or downstream from that of the JV or in a neighbouring market
+      closely related to the market in which the JV is active.
+VIII.      CONCLUSION
+28.   For the above reasons, the Commission has decided not to oppose the notified operation
+      and to declare it compatible with the common market and the EEA Agreement. This
+      decision is adopted in application of Article 6(1)(b) of Council Regulation (EC) No
+      139/2004.
+                                                                    For the Commission
+                                                                        (signed)
+                                                                    Neelie KROES
+                                                                    Member of the Commission
+  14  The provisions concerning transfer of information are included in […] of the Joint Venture Agreement
+      included in the notification.
+  15  Should it turn out later that the JV is used to coordinate anti-competitive market behaviour; it may of course
+      be subject to ex-post investigation under the Community anti-trust rules (articles 81 and 82 of the EC
+      Treaty).
+                                                            6

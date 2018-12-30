@@ -1,0 +1,256 @@
+                       EUROPEAN COMMISSION
+                                                                Brussels, 29.11.2011
+ In the published version of this decision, some
+ information has been omitted pursuant to Article               C(2011) 9031
+ 17(2) of Council Regulation (EC) No 139/2004
+ concerning non-disclosure of business secrets and
+ other confidential information. The omissions are
+ shown thus […]. Where possible the information                          PUBLIC VERSION
+ omitted has been replaced by ranges of figures or a
+ general description.
+                                                                     MERGER PROCEDURE
+                                                                   ARTICLE 6(1)(b) DECISION
+                                                        To the notifying party:
+Dear Sir/Madam,
+Subject:       Case No COMP/M.6405 - BANCO SANTANDER / RAINBOW
+               Commission decision pursuant to Article 6(1)(b) of Council Regulation
+               No 139/20041
+1. On 21.10.2011, the European Commission received a notification of a proposed
+     concentration pursuant to Article 4 of Council Regulation (EC) No 139/20042 by which
+     the undertaking Banco Santander S.A. (“Banco Santander”, Spain) intends to acquire
+     within the meaning of Article 3(1)(b) of the Merger Regulation control of parts of the
+     undertaking The Royal Bank of Scotland Group (assets collectively referred to as
+     "Rainbow", UK) by way of purchase of assets.3 The transaction in question was originally
+     cleared by the Commission in its Decision of 15 October 2010 in case COMP/M.5948 and
+     has been renotified following a change in the perimeter of the assets transferred.
+I.    THE PARTIES AND THE OPERATION
+1        OJ L 24, 29.1.2004, p. 1 ("the Merger Regulation"). With effect from 1 December 2009, the Treaty on
+         the Functioning of the European Union ("TFEU") has introduced certain changes, such as the
+         replacement of "Community" by "Union" and "common market" by "internal market". The
+         terminology of the TFEU will be used throughout this decision.
+2        OJ L 24, 29.1.2004, p. 1 (the "Merger Regulation").
+3        Publication in the Official Journal of the European Union No C 324, 09.11.2011, p.13
+Commission européenne, 1049 Bruxelles, BELGIQUE / Europese Commissie, 1049 Brussel, BELGIË. Tel. +32 229 91111.
+
+2. Santander is the parent company of an international group of banking and financial
+    companies operating in the UK, Spain and some other European countries as well as in
+    Latin America. It is active in retail banking, asset management, corporate and investment
+    banking, treasury and insurance.
+3. Rainbow consists of (i) the Royal Bank of Scotland Group plc's ("RBS") branch-related
+    retail and small and medium sized-enterprise ("SME") business in England and Wales, (ii)
+    the NatWest branch-related retail and SME business in Scotland, along with (iii) certain
+    mid-corporate customer accounts in the UK. In total, Rainbow consists of approximately
+    300 branches and around 40 SME and business banking centres, including ATMs, together
+    with related contracts, intellectual property and other related assets. Excluded from the
+    scope of the transaction are insurance products, as well as financial market services.
+4. On 30 August 2011, Santander and RBS amended the acquisition agreement to include
+    credit and charge cards held by transferring Rainbow customers in order to avoid split
+    customer relationships following closing, as well as certain Rainbow customers with cash
+    handling services requirements that will be serviced by Santander post transaction ,
+    together with certain other minor changes.
+5.   The sale of Rainbow business results from an undertaking submitted by the UK
+    authorities as part of RBS' restructuring plan following state support approved by the
+    Commission in its decision of 14 December 20094. In that decision, it is stated that the
+    "UK authorities commit that the buyer of the Rainbow Business must, together with the
+    rest of the buyer’s group, in combination with the Rainbow Business, have a market
+    share of no more than 14% in the UK SME market (on a number of customers basis),
+    prior to the signing of the sale and purchase agreements relating to the sale of the
+    Rainbow Business to the buyer"5.
+II.   CONCENTRATION
+6. The proposed transaction will result in Santander acquiring sole control over Rainbow. As
+    Rainbow is not a legal entity, the transaction is structured as an asset deal, with Santander
+    acquiring the branches together with related contracts, guarantees/securities and debts
+    relating to customers of those branches (together with direct customer transfers), as well as
+    intellectual property, goodwill, office equipment and books and records.
+7. The proposed transaction constitutes a concentration within the meaning of Article 3(1)(b)
+    of Regulation 139/2004.
+8. As the amended acquisition agreement of 30 August 2011 has led to the change of the
+    perimeter of the transaction, with the addition of additional customer relations, the
+    transaction has been re-notified under the terms of the Merger Regulation.
+III. EU DIMENSION
+4   Decision in Cases N422/2009 and N621/2009, OJ C 119 of 7 May 2010, p. 1.
+5   Paragraph 99 of the decision in Cases N422/2009 and N621/2009.
+                                                        2
+
+9. The undertakings concerned have a combined aggregate world-wide turnover of more than
+    EUR 5 billion6 (Banco Santander S.A: EUR 75 325 million; Rainbow: EUR […]). Each of
+    them has a EU-wide turnover in excess of EUR 250 million (Banco Santander S.A: EUR
+    […]; Rainbow: EUR […]), but they do not achieve more than two-thirds of their aggregate
+    EU-wide turnover within one and the same Member State. The notified operation therefore
+    has an EU dimension.
+IV. RELEVANT MARKETS
+10. As Rainbow is active only in retail banking and corporate banking, overlaps with the
+    activities of Santander arise in banking services to private individuals and to corporate
+    customers (SME and large corporate customers)7. There are also some overlaps in card
+    based consumer credit and to a very minor extent also in cash handling services.
+11. Regarding retail and corporate banking, the Commission in previous decisions8
+    considered in particular the following relevant product and geographic markets.9
+     (i) Retail Banking
+12. In respect of banking services for natural persons, the following segments have been
+    considered: current accounts, savings, personal loans, consumer loans, credit cards10,
+    debit cards, mortgages and distribution of mutual funds and other investment products11.
+    Regarding the geographic definition of retail banking markets, the Commission has
+    generally considered national markets12, but has also looked at, where relevant, the
+    regional distribution of branches in making its assessment.13
+6   Turnover calculated in accordance with Article 5(1) of the Merger Regulation and the Commission
+    Consolidated Jurisdictional Notice (OJ C95, 16.04.2008, p1).
+7   As specified in recital 3, no financial market services business is included in Rainbow. However, contracts
+    relating to these services are being transferred to Santander. Given that in any event Santander's presence
+    in financial market services is limited with a share of less than [0-5%] in any segment, this market segment
+    will not be discussed further.
+8   See COMP/M.4844 – Fortis/ABN AMRO ASSETS,; COMP/M.5384 - BNP Paribas/Fortis; COMP/M.
+    5726 - Deutsche Bank/ Sal. Oppenheim.
+9   Leaving aside specialized markets which include leasing services, private banking, asset management and
+    payment transaction processing. These are not analysed in the present case as according to the Parties,
+    their activities in these areas do not overlap. The Commission has also looked at the markets for factoring
+    and for cash handling and sales, but these markets are not affected markets in the context of the notified
+    transaction.
+10  In one case, COMP/M.5384 - BNP Paribas/Fortis, a separate market was identified for card-based
+    revolving credit.
+11  COMP/M.4844 - Fortis/ABN AMRO ASSETS.
+12  COMP/M.4844 - Fortis/ABN AMRO ASSETS; COMP/M.5384 - BNP Paribas/Fortis; COMP/M. 5726 -
+    Deutsche Bank/ Sal. Oppenheim.
+13  COMP/M.3894 Unicredit/HVB, Commission decision of 18 October 2005; COMP/M.4356 – Deutsche
+    Bank/Berliner Bank; COMP/M.5811 – Erste Bank/ASK.
+                                                             3
+
+     (ii) Card-based consumer credit
+13. The Commission has considered that the provision of card-based consumer credit should
+    be viewed as a separate market, distinct from card issuing and from personal loans14. In
+    terms of geographic scope this market has been viewed as national.
+     (iii) Cash handling and sales
+14. In addition, the Parties are active in the provision of certain money transmission services
+    for corporate customers. In addition to the small horizontal overlap in cash handling,
+    both cash handling and cash sales may be considered an input used by financial
+    institutions, even though no such relationship currently exists between Santander and
+    Rainbow, and therefore a vertical relationship could in principle arise. The Commission
+    has in the past15 defined a market for cash in transit ("CIT"), distinguishing it from cash
+    handling services16.
+15. Cash handling consists in sorting and crediting customer accounts for the value of
+    physical cash (notes and coins) delivered by customers, in the case of Santander to cash
+    centres or Post Office counters. Other companies provide similar services whilst some
+    banks self-supply or outsource the service. The scope of the service offered may also
+    extend to cheques and other bearer means of payment.
+16. Cash sales consist in the provision of cash to corporate customers, financial institutions
+    and ATM operators (both bank-owned ATMs and ATMs operated by independent
+    operators).
+17. In terms of geographic scope, in case no. COMP/M.5293 Banco Santander/Alliance &
+    Leicester, although considering that it was not necessary to conclude as to the precise
+    geographic scope, the Commission considered that the geographic markets for cash
+    handling and cash sales were unlikely to be wider than national given, in particular, that
+    cash handling and cash sales services related overwhelmingly or exclusively to national
+    currency, i.e. pounds sterling.
+      (iv) Banking for corporate customers
+18. In respect of commercial banking services the Commission has looked at the segments
+    of domestic payments, international payments, savings, loans, documentary credits,
+    export financing and cash management services17. In addition, the Commission has
+    made a distinction between large corporate customers ("LCCs") and smaller commercial
+14  Case COMP/M.5384 BNP Paribas / Fortis, paragraph 41 et seq; see also case COMP/M.6164 Barclays
+    Bank/Egg Credit Card Assets. The Commission has also left open the question of whether the provision of
+    card-based consumer credit should be divided into credit offered on universal cards and credit offered on
+    private label store cards, but this question is not relevant to the present case since the parties do not
+    overlap in private label store cards.
+15  Case No. COMP/M.3396 - Group 4 Falck / Securicor, Commission decision of 28 May 2004 and Case
+    No. COMP/M.5293 Santander/Alliance & Leicester, para. 17
+16  Case NO. COMP/M.3396 - Group 4 Falck / Securicor, recital 14.
+17  M.4844 - Fortis/ABN AMRO ASSETS; M.5384 BNP Paribas/Fortis, recital 16.
+                                                          4
+
+    clients such as SMEs18. In cases falling under the Commission's jurisdiction, the markets
+    for banking services to commercial clients have been considered national in scope while
+    for LCCs the question on whether the market(s) for these services are national or wider
+    in scope has been left open.
+19. As regards commercial clients, the Parties have provided data on the basis of customers
+    with turnover of up to GBP 25m as they have indicated that this is how both parties
+    distinguish internally between SMEs and large customers19. On the other hand, SMEs
+    are distinguished from retail personal customers by virtue of having a dedicated business
+    account. They have, however, indicated that even if a wider definition of commercial
+    clients were used (up to an annual turnover of GBP 250 million), market shares would
+    be substantially unchanged20.
+V.    COMPETITIVE ASSESSMENT
+20. The proposed transaction gives rise to potentially affected markets due to horizontal
+    overlaps in four segments in retail banking in the UK, on the basis of new business in
+    2010: (a) personal current accounts (b) mortgages21 (c) card-based consumer credit and
+    (d) cash handling22.
+21. With respect to horizontal overlaps in retail banking, other than in personal current
+    accounts and mortgages, the combined market shares exceed 15% in personal current
+    accounts and mortgages (measured in both cases as share of new business)23, as well as
+    in cash handling.
+22. For personal current accounts in the UK the combined share of new business in 2010 is
+    [10-20%] (Santander: [10-20%]; Rainbow: [0-5%])24.
+18  M.4844 - Fortis/ABN AMRO ASSETS and Case No COMP/M.3894 – Unicredito/HVB.
+19  According to the notification, a different team of relationship managers will service customers with a
+    turnover above GBP 25m.
+20  In M.4844 Fortis/ABN AMRO ASSETS, a turnover threshold of €250 million was applied based on the
+    commercial practice of the Parties in that case.
+21  If only share of total stock were taken into account there would be no horizontally affected markets.
+    However, given that this measure compounds information from previous years, in particular for long-term
+    assets and liabilities, the acquisition of new business is likely to be a better proxy for the effective
+    competitive pressure currently exercised by the players in the marketplace.
+22 The possible markets for cash handling and/or cash sales would not constitute vertically affected markets as
+   Santander has a market share of [10-20%] and [5-10%] respectively. The vertical relationship in such
+   markets therefore does not need to be analysed further.
+23 The Parties overlap in respect of card-based consumer credit, but on any measure their combined market
+    share is below [5-10%] and therefore this market is not an affected market.
+24  Figures for new business in regard to personal current accounts have been provided by the Parties for 2009
+    based on calculations by a third party, GFK, using a survey methodology in which customers were asked
+    about new products taken out in the six months prior to the interview. According to the Notifying Party
+                                                           5
+
+23. Regarding mortgage loans, the combined share of new business in 2009 is [10-20%]
+    (Santander: [10-20%]; Rainbow: [0-5%])25.
+24. In both cases, a number of strong competitors exist. In personal current accounts: Lloyds
+    ([30-40%]), RBS ([10-20%]), Barclays ([10-20%]), and HSBC ([10-20%]). In mortgage
+    loans: Lloyds ([20-30%]), Nationwide ([5-10%]), Barclays ([10-20%]), RBS ([10-20%])
+    and HSBC ([5-10%])26.
+25. Even if the Commission were to consider the competitive impact at a regional level, the
+    picture would not change to any significant or relevant degree27.
+26. Finally, in cash handling Santander has a market share of [10-20%], and the transaction
+    results in a horizontal increment to this which is, however, minimal ([0-5%]).
+27. None of the possible segments in corporate banking gives rise to an affected market.
+    However, as the SME market in the UK was considered specifically in the state aid
+    decision regarding the restructuring of RBS it may be noted that, according to the
+    notifying party, the combined market shares range between [0-5%] and [10-20%] for any
+    of the possible market segments within SME banking, on the basis of SME main bank
+    relationships28.
+28. Given the limited combined market shares that the transaction will bring about and the
+    significant number of large and credible competitors, it can be concluded that the
+    transaction does not raise serious doubts on any of the possible markets.
+VI. RELATIONSHIP WITH STATE AID RULES
+29. Based on the information available at this stage, the Commission has no indication that
+    RBS is in breach of any of its obligations regarding the sale of the Rainbow business
+    within the framework of the State aid procedure29. The present decision under the EU
+    there have not been any material changes as there has been no adverse change to the fascia count in any of
+    the local markets where Rainbow is present.
+25  According to the Parties, Santander and other players in the UK report new gross lending as a separate line
+    in their annual reports and accounts, whilst the Bank of England provides total new gross lending figures
+    for the overall market. As a share of stock, the figures for 2009 are [10-20%] and [10-20%] respectively.
+26  All market shares quoted in terms of new business in 2010.
+27  The highest combined market share provided by the Parties on the basis of possible regional segmentations
+    is [10-20%] for personal loans ([…]), [20-30%] for savings and [20-30%] for mortgages ([…]).
+28 This is based on PH data, also used in the state aid decision. According to the notification there are two
+    primary information sources on UK SMEs and the SME market - PH and TNS. The notifying party
+    considers PH is the only comprehensive source of gross market size information and that it was selected as
+    the appropriate measure in the state aid process for this reason. TNS is a sample-based survey – it only
+    provides information on market size by extrapolation but does provide an indicator of a cross market view
+    of relative size of each player. In any event, the market shares would not vary to any significant effect if
+    the TNS data were used. It should also be noted in this regard that the PH database used to collate these
+    shares does not distinguish between stock and new business and therefore does not allow a separate
+    calculation of new business. The data refers to 2009 as being the latest available but according to the
+    Parties it is not expected to have changed to any material extent for 2010.
+29  Cases N422/2009 and N621/2009.
+                                                             6
+
+    Merger Regulation in no way prejudices, however, the ongoing monitoring of RBS'
+    implementation of its obligations in line with the above decision of the Commission of
+    14 December 2009.
+VII. CONCLUSION
+30. For the above reasons, the European Commission has decided not to oppose the notified
+    operation and to declare it compatible with the internal market and with the EEA
+    Agreement. This decision is adopted in application of Article 6(1)(b) of the Merger
+    Regulation.
+                                                     For the Commission,
+                                                     (signed)
+                                                     Joaquim Almunia
+                                                     Vice-President
+                                                 7

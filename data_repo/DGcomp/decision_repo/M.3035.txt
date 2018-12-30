@@ -1,0 +1,400 @@
+                       COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 28/02/2003
+                                                                 SG (2003) D/228811-12
+  In the published version of this decision,                             PUBLIC VERSION
+  some information has been omitted
+  pursuant to Article 17(2) of Council
+  Regulation       (EEC)      No       4064/89
+  concerning non-disclosure of business                               MERGER PROCEDURE
+  secrets      and      other     confidential                     ARTICLE 6(1)(b) DECISION
+  information. The omissions are shown
+  thus […]. Where possible the information
+  omitted has been replaced by ranges of
+  figures or a general description.
+To the notifying parties:
+Dear Sir/Madam,
+Subject:       Case No COMP/M.3035 – Berkshire Hathaway/Converium/Gaum JV
+               Notification of 29.01.2003 pursuant to Article 4 of Council Regulation
+               No 4064/891
+1.    On 29.01.03, the Commission received a notification of a proposed concentration
+      pursuant to Article 4 of Council Regulation (EEC) No 4064/89 by which Northern
+      States Agency, Inc (“Northern States”, USA) belonging to the Berkshire Hathaway
+      group (“Berkshire Hathaway”, USA) and Converium AG (“Converium”, Switzerland)
+      acquire within the meaning of Article 3(1)(b) of the Council Regulation joint control of
+      Global Aerospace Underwriting Managers Limited (“GAUM”, UK) by way of
+      purchase of shares.
+2.    After examination of the notification, the Commission has concluded that the notified
+      operation falls within the scope of the Merger Regulation and does not raise serious
+      doubts as to its compatibility with the common market and with the EEA agreement.
+1     OJ L 395, 30.12.1989 p. 1; corrigendum OJ L 257 of 21.9.1990, p. 13; Regulation as last amended by
+      Regulation (EC) No 1310/97 (OJ L 180, 9. 7. 1997, p. 1, corrigendum OJ L 40, 13.2.1998, p. 17).
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+I.   THE PARTIES
+3.   Northern States is a subsidiary of Berkshire Hathaway, a US-based holding company
+     with subsidiaries engaged in a number of diverse business activities, the most
+     important of which are property and casualty insurance.
+4.   Converium is primarily active in the provision of insurance and reinsurance for all
+     major lines of non life insurance.
+5.   GAUM is a supplier of underwriting and management services to insurance and
+     reinsurance companies. Its main client is the Global Pool but it also serves third
+     parties, which are active mainly in the aerospace risk sector.
+6.   The Global Pool is a provider of aviation risk insurance. It consists of several
+     insurance companies (the “Members”). Each Member has a certain level of
+     participation in the Pool, which corresponds to the percentage of liability he will
+     assume among the totality of liabilities covered by the Pool. The Members and their
+     participation in the Global Pool may change from year to year. As regards the level of
+     participation, it should be noted that since 01.01.2003, Berkshire Hathaway and
+     Converium are members of the Global Pool with a participation of 25% each whereas
+     CGU International Insurance PLC (“Aviva”) has completely withdrawn and Royal &
+     Sun Alliance Insurance PLC (“RSA”) has reduced its participation from 28.12 % to
+     9.25%.
+II.  THE OPERATION
+7.   The share capital of GAUM is presently held equally by Aviva and RSA (together the
+     “Sellers”). According to a Share Purchase Agreement concluded on 27.11.2002
+     between the Sellers and each of Northern States, Converium and Münchener
+     Rückversicherungs-Gesellschaft Aktiengesellschaft (“Munich Re”) (together the
+     “Buyers”), Northern States, Converium and Munich Re will all acquire shareholdings
+     in GAUM of 40%, 25% and 24.9% respectively. RSA will retain a shareholding of
+     10.1%.
+III. CONCENTRATION
+Joint control
+8.   According to a Shareholders’ Agreement [between] Northern States, Converium,
+     Munich Re, RSA and GAUM, strategic business decisions concerning GAUM
+     including […], are to be passed by a majority of […]. […] Converium and Northern
+     States […] will each have the ability to veto these strategic decisions. […] neither RSA
+     nor Munich Re is able to block votes on any strategic decisions. There is no common
+     interest between RSA and Munich Re pursuant to which these parties, or any other
+     combination of parties, will always vote together on strategic decisions. In particular,
+     the Shareholders' agreement […]. Therefore, Northern States and Converium will
+     exercise joint control over GAUM.
+Full-function
+9.   GAUM has, and will continue to have, a management dedicated to its day-to-day
+     operations. The individuals comprising the management are specialists who are not
+                                                  2
+
+     seconded from the parents. GAUM has access to all other necessary resources including
+     finance, staff and assets. It is intended to operate on a lasting basis.
+10. GAUM operates in the market for the provision of underwriting and management
+     services to insurers and reinsurers, including pools, and is therefore acting on behalf of
+     a principal. More specifically, GAUM is in charge of “writing” insurance or
+     reinsurance cover within specified classes of risks, that is to say sell (re)insurance
+     cover from his principal (the insurance or reinsurance company or a pool) for that type
+     of risk, and to set the price of the policy (“the premiums”). An underwriter therefore
+     needs to have expertise in risk assessment. Management services consists mainly in
+     handling the formalities for the conclusion of policies, the administration of claims,
+     and the provision of services to pools or companies that are in “run off”, that is to say
+     that do not write new business but whose insurance policies have not yet all expired.
+11. GAUM does not purchase insurance from its parent companies (nor from the members
+     of the Global Pool), but writes business on behalf of the members of the Global Pool.
+     In addition, GAUM provides management services to insurers and reinsurers,
+     including other pools. For instance, it performs “run-off” services on behalf of
+     previous members of the Global Pool and third parties. For 2003, the business plan of
+     GAUM intends to achieve […]% of its turnover with its parent companies, […]% with
+     the other members of the Global Pool and […]% with third parties. This calculation is
+     made on the basis of the participation of each Member in the Global Pool for 2003.
+12. On the basis of the above, GAUM meets the criteria of a jointly controlled full-
+     function joint venture, intended to operate on a lasting basis. Therefore, the notified
+     operation is a concentration within the meaning of article 3(1)(b) of the Merger
+     Regulation.
+IV. COMMUNITY DIMENSION
+13. The undertakings concerned have a combined aggregate worldwide turnover of more
+     than EUR 5 billion2 (Berkshire 42,040 million, Converium 3,215 million, Gaum 89.9
+     million). Two of them have a Community-wide turnover in excess of EUR 250 million
+     (Berkshire […] million, Converium […] million), but they do not achieve more than
+     two-thirds of their aggregate Community-wide turnover within one and the same
+     Member State. The notified operation therefore has a Community dimension.
+V. RELEVANT MARKETS
+14. The parties have activities in three areas :
+     -           provision of underwriting and management services to insurers/reinsurers;
+     -           insurance;
+     -           reinsurance.
+2   Turnover calculated in accordance with Article 5(1) of the Merger Regulation and the Commission
+    Notice on the calculation of turnover (OJ C66, 2.3.1998, p25). To the extent that figures include
+    turnover for the period before 1.1.1999, they are calculated on the basis of average ECU exchange rates
+    and translated into EUR on a one-for-one basis.
+                                                         3
+
+Underwriting and management services to insurers/reinsurers
+Relevant product market
+15. GAUM provides services for the members of the Global Pool and third parties in
+    relation to insurance and reinsurance. These services include: 1) the underwriting of
+    insurance/reinsurance risks; and 2) the management of policies on behalf of
+    insurers/reinsurers and their pools.
+16. The parties are of the opinion that underwriting and managing services represent a
+    market distinct from the provision of insurance or reinsurance, although many insurance
+    and reinsurance companies do not resort to external suppliers of these services.The
+    Commission’s investigation has confirmed this point. In particular, many respondents
+    have explained that many pools of insurers or reinsurers resort to external suppliers
+    since the members of these pools do not want to rely on the expertise of one of them.
+17. According to the parties the provision of underwriting and management services
+    constitutes one single product market regardless of whether they are provided to
+    insurance or reinsurance companies. This is because the assessment of risk does not
+    differ from an insurer's or reinsurer's point of view. This point has been confirmed by
+    the Commission’s investigation. No respondent has claimed that underwriting and
+    management services differ depending on whether they are provided to insurers or
+    reinsurers.
+18. The parties also submit that the provision of underwriting services and the provision of
+    management services to insurers/reinsurers constitute one single product market
+    because these services are strongly complementary from both suppliers’ and
+    customers’ point of view. In addition the parties argue that all suppliers could offer
+    both categories of services and that customers are always seeking suppliers that can
+    deliver the two categories of services. The Commission’s investigation has largely
+    confirmed the view of the parties in this respect. In particular, many respondents have
+    indicated that underwriting and management services are usually supplied as part of
+    the same package.
+19. On the basis of the above, it can be concluded that there is a separate product market
+    for the underwriting and management services to insurers and reinsurers.
+20. Having decided this, it has to be verified whether this market needs to be further
+    subdivided on the basis of the kind of risks for which the services are provided. The
+    parties are of the opinion that the relevant product market encompasses the provision
+    of management and underwriting services in respect of all types of risks and not just
+    the provision of these services to aviation risk (re)insurers. According to the parties,
+    there is a high level of supply-side substitutability between providing management and
+    agency services for different types of risks. It can nevertheless be argued that
+    aerospace insurance has specific characteristics due to the particular nature and size of
+    the risks it covers and that therefore the provision of underwriting and management
+    services in this field requires specific expertise and skills.
+21. However, for the purpose of this case, the question whether within the market for the
+    provision of underwriting and management services there is a distinct product market
+    for the provision of such services to the (re)insurers active in the aerospace field can be
+                                                   4
+
+     left open since the proposed transaction does not raise any competition concerns even
+     on this narrower product market definition.
+Relevant geographic market
+22. The parties consider that the relevant geographic market for the provision of
+     underwriting and management services to insurers/reinsurers is worldwide. Competing
+     suppliers include undertakings established in Europe, Asia and in the US and
+     (re)insurance companies from across the globe seek out managers possessing the
+     appropriate expertise and skills. The market investigation has confirmed the views of
+     the parties concerning the relevant geographic market.
+23. On the basis of the above, it seems that the market for underwriting and management
+     services is at least EEA-wide and probably worldwide. However, for the purpose of
+     this case, there is no need to exactly determine whether the relevant geographic market
+     is EEA-wide or worldwide, because the proposed transaction does not raise any
+     competitive concerns for each of these two geographic markets.
+Insurance
+Relevant product market
+24. Both Berkshire and Converium provide non life insurance. They are not active in life
+     insurance. The operation concerns more specifically the provision of aerospace
+     insurance.
+25. In a number of previous decisions3, the Commission has indicated that insurance and
+     reinsurance are considered to belong to different product markets. In past decisions, the
+     Commission has also stated that in the insurance sector a distinction is to be made
+     between life and non life insurance4. In addition, the Commission has also held that
+     non life insurance from the demand side could be divided into as many product
+     markets as there are different kinds of risks covered, such as aerospace, marine,
+     commercial & real estate, etc, since their characteristics, premiums and purposes are
+     distinct and there is typically no substitutability for the consumer for the risk insured.
+     However, the Commission has also found that, from a supply side perspective, the
+     conditions for insurance of different risk types are quite similar and most large
+     insurance companies are active in several risk types. This suggests that many different
+     types of non life insurance should be included in the same product market5.
+26. The parties submit that although there exist different types of risks, the relevant
+     product market is that for insurance as a whole since any insurer could easily switch
+     market insurance coverage for one type of risk to another. The Commission’s
+     investigation however has indicated that the life and non life insurance have different
+     characteristics and are probably separate markets. In addition, the Commission’s
+3   See inter alia case IV/M.1306 – Berkshire Hathaway/General Re
+4   See inter alia case IV/M.1172 – Fortis AG/Generale Bank
+5   See inter alia case IV/M.2676 - Sampo/Varma Sampo/IF Holding/JV
+                                                       5
+
+     investigation has revealed that the aerospace insurance has specific features due to the
+     particular nature and size of the risks it covers, so that it could be regarded as a distinct
+     product market within the broader insurance sector.
+27. The aerospace insurance sector itself could possibly be further subdivided into a
+     number of separate markets comprising each of a particular type of risk, such as
+     airline, products/airports, General Aviation, hull, war/terrorism, satellite/space, etc.
+     From the demand side there is clearly no substitution for the insured between the
+     different categories of policy offered. However, the respondents to the Commission’s
+     investigation have clearly indicated that there exists within the broad category
+     “aerospace risks” a high supply side substitutability.
+28. However, for the purpose of this case, it is not necessary to exactly define the relevant
+     product market since whatever market definition is considered the transaction does not
+     raise any competition concerns.
+Relevant geographic market
+29. Although the Commission has previously acknowledged that the markets for insurance
+     are national in scope, it has not excluded that the markets for the insurance of large
+     commercial risks could be wider than national6.
+30. The parties submit that the provision of aerospace insurance is to be regarded as
+     covering “large risks”. Although general aviation may be characterised as a
+     comparatively “small risk”, the parties submit that competition to provide this cover is
+     also contested on an international basis.
+31. The parties therefore state that the markets for aerospace insurance is at least
+     Community-wide. For example, major airlines have hull insurance covering that risk
+     up to the limit of 250 million US dollars for a large commercial aircraft such as a
+     Boeing 747. The parties also state that there are no national distribution channels for
+     these products since they are mainly sold via brokers which are established on a
+     worldwide basis and that fiscal/regulatory constraints are not trade barriers. The
+     Commission’s investigation has confirmed that the market for the provision of
+     aerospace insurance is at least European-wide and may even be worldwide.
+32. Based on the above, it can be concluded that the market for the provision of aerospace
+     risk insurance is at least EEA-wide.
+Reinsurance
+Relevant product market
+33. In previous decisions, the Commission has suggested that the reinsurance sector
+     market could be subdivided into two markets: life and non life7.
+6   See inter alia case IV/M.2676 - Sampo/Varmo Sampo/IF Holding/ JV
+7   See inter alia case IV/M.1306 – Berkshire Hathaway/General Re
+                                                      6
+
+34. The parties submit that while some reinsurers may specialise in particular types of
+     covers, the relevant product market is that of the supply of reinsurance as a whole since
+     any reinsurer could readily and swiftly offer reinsurance coverage for any type of risks.
+     The Commission’s investigation has largely confirmed this view. In particular, many
+     respondents have explained that the barriers to enter a new risk are quite low since (a)
+     the approval which is rarely required to offer reinsurance cover for a new type of risk
+     is easy to obtain, (b) no specific additional distribution channels are needed since
+     reinsurance cover for a new type of risk could always be sold via brokers, and (c) the
+     relevant expertise required to offer reinsurance cover for a new type of risk could be
+     acquired by recruitment relatively easily and rapidly. Nevertheless, due to the
+     particular nature and size of aerospace risk, it could be argued that reinsurance of such
+     risk may be regarded as a distinct product market within the broader (non life)
+     reinsurance sector.
+35. However, for the purpose of this case, it is not necessary to exactly define the relevant
+     product market since whatever market definition is considered the transaction does not
+     raise any no competition concerns.
+Relevant geographic market
+36. The parties submit that the market for the provision of reinsurance is worldwide mainly
+     because of the very nature of this activity which requires to pool risks on an
+     international basis and this was confirmed by the market investigation. This is in line
+     with previous Commission’s decisions8.
+37. On the basis of the above, it can be concluded that the market for the provision of
+     reinsurance is worldwide.
+VI. COMPETITIVE ASSESSMENT
+Provision of underwriting and management services to insurers/reinsurers
+38. The only market where GAUM and its two parent companies are active is the market
+     for the provision of underwriting and management services. Indeed, Berkshire controls
+     both USAU (which manages the USAIG Pool) and Faraday (which is the managing
+     agent of a Lloyd’s Syndicate). Converium controls Satec, which manages the Italian-
+     based Satec Pool which is a provider of satellite/space insurance.
+39. If the relevant product market were to be defined as that of underwriting and
+     management services to insurers and reinsurers regardless of the type of risk , the
+     parties estimate that their worldwide market shares are less than 1% for each of them.
+     At the EEA level, the parties indicate that their market shares are less than […]%
+     (GAUM), less than […]% (Faraday), less than […]% (Satec), resulting in a combined
+     market share below [20]%. USAU is not active in the EEA.
+40. If the relevant product market is to be limited only to the provision of services for
+     aerospace risk (re)insurance, the parties estimate their worldwide market shares at
+     […]% (GAUM), […]% (USAU), approximately […]% (Faraday) and below […]%
+     (Satec), resulting in a worldwide combined market share [of less than 20]%. At the
+8   See inter alia case IV/M.1306 – Berkshire Hathaway/General Re
+                                                      7
+
+     EEA level, the parties indicate that their market shares are less than […]% (GAUM),
+     and less than […]% (Satec and Faraday), resulting in a EEA combined market share
+     [of less than 10]%.
+41. If the relevant product market is defined even more narrowly as that of underwriting
+     and management services provided by external suppliers (disregarding self-supply of
+     underwriting and management services) in the aerospace (re)insurance field, the parties
+     estimate their respective worldwide market shares in the range of […]% (GAUM),
+     […]% (USAU) and […]% (Satec), resulting in a worldwide combined market share of
+     approximately [less than 45]%. Since Faraday is not an external supplier of services to
+     the Lloyd’s syndicate that it manages, it is not a competitor in this market. The parties
+     indicate that their respective market share in the EEA are not materially different from
+     those on a worldwide basis.
+42. Other important competitors such as Allianz (which manages the Deutsche Luftpool),
+     La Réunion Aérienne (“LRA”), Nordic Aviation Insurance Group, Swiss Pool and
+     Japanese Aviation Insurance Pool are active in the same market.
+43. The parties argue that, the concentration will not create a dominant position in the
+     market for the provision of underwriting and management services, because an external
+     provider of such services could not exercise market power against the interest of the
+     (re)insurers to which it provides its services or against the purchaser of the insurance or
+     reinsurance cover. Insurers and reinsurers, which are large and sophisticated
+     companies, exercise significant countervailing buyer power. Furthermore, the
+     possibility for (re)insurers to start self-supplying underwriting and claims management
+     exerts a significant constraint on providers of such services. All these points have been
+     largely confirmed by the respondents to the Commission’s investigation.
+44. It has also been stated by the parties that many companies that presently write aviation
+     risk insurance could enter the market for the provision of underwriting and
+     management services without great difficulty and within a limited period of time. The
+     parties estimate that an undertaking that currently only provides management and
+     underwriting services to itself could begin to supply these services to third parties in
+     less than a year. The Commission’s investigation has confirmed this point.
+Insurance
+45. As neither Berkshire nor Converium is active in the provision of life insurance, there is
+     therefore no aggregation of market share in the provision of life insurance in any
+     geographic market.
+46. The market share of both Berkshire and Converium on the world and EEA non life
+     segment of the insurance sector is [below 15]% for each of them. When considered at a
+     national level and/or for each type of risks, the combined market share of the parties
+     remains well below 15%.
+47. Concerning the aerospace risk insurance, Berkshire Hathaway and Converium indicate
+     that their market shares are [less than 10]% and [less than 10]% respectively The
+     parties also indicate that the aerospace risk insurance business which GAUM writes in
+     the name of the Global Pool members represents a worldwide market share of [less
+     than 10]%.
+                                                    8
+
+48. At the EEA level, the parties estimate that their combined market share is lower than
+    [10]% (GAUM: less than […]%, Berkshire Hathaway/Faraday: less than […]%,
+    Converium/Satec less than […]%). USAIG […] and its share of the EEA market for
+    the provision of aerospace insurance is de minimis. If the aerospace insurance market
+    were to be further subdivided on the basis of the different types of risks, the aggregated
+    market share of the parties would [be less than 30]% in the EEA (with the exception of
+    the satellite/space segment where their combined market share could reach 30%) and
+    [less than 40]% at a worldwide level (with the exception of the satellite/space segment
+    where their combined market share could reach 40%).
+49. However, the parties submit that the other suppliers of aerospace risk insurance such as
+    Ace, AIG, Allianz and LRA have similar shares to the Global Pool, that is to say [less
+    than 10%] worldwide or in the EEA. The parties also explain that there are
+    approximately 40 insurers worldwide that are active in the provision of aerospace risk
+    insurance. The Commission’s investigation has confirmed the existence of other
+    important suppliers (pools and individual companies) of aerospace risk insurance.
+50. In addition, on the demand side, three large international brokers are responsible for
+    arranging about three quarters of the aerospace business written worldwide which may
+    give them substantial countervailing buying power which could potentially benefit
+    their clients, the end-customers.
+51. Furthermore, the parties state that the market for the provision of aerospace insurance
+    is characterised by over-capacity (for almost all classes of aerospace insurance risks)
+    and that this overcapacity has the effect of increasing competition and lowering prices
+    to the end customers’ benefit as brokers are able to play one insurer off against another
+    to obtain cover at the best terms and price for the customer. In general, the market
+    investigation has confirmed this view.
+Reinsurance
+52. A further vertical relationship exists between the market in which GAUM operates and
+    the market for the provision of reinsurance in which each of Berkshire and Converium
+    operate.
+53. The parties estimate that Converium and Berkshire have a worldwide reinsurance
+    market share (2001) of […]% and […]% respectively, resulting in a combined market
+    share of [less than 20]%. Furthermore, the parties state that the reinsurance market is
+    highly fragmented and that a large number of strong competitors are active in the
+    market, such as Munich Re ([less than 20]%) and Swiss Re ([less than 20]%)9. The
+    respondents to the Commission’s investigation have largely confirmed the parties’
+    estimates.
+54. If the reinsurance market were to be segmented into life and non life reinsurance, the
+    parties estimate that Converium and Berkshire Hathaway would have a worldwide
+    market share of less than […]% and less than […]% respectively, resulting in a
+    combined market share of less than 15% in each of these segments. On a hypothetical
+    market for the provision of aerospace risk reinsurance, the parties indicate that the
+    worldwide market share of Berkshire Hathaway is [less than 10]% and that of
+9  Estimates of the parties based on publicly available information.
+                                                          9
+
+     Converium [less than 10%]. The parties also indicate that the reinsurance business
+     which GAUM writes in the name of the Global Pool members is approximately […]
+     million US dollars representing a negligible market share whatever product market
+     definition is retained.
+55. Consequently, the parties would not be able to use their position in the (aerospace)
+     reinsurance market to foreclose or otherwise hinder competition in the (aerospace)
+     insurance market.
+General conclusion
+56. On the basis of the above-mentioned position of the parties in the relevant markets and
+     the fact that they will continue to face several strong competitors, it can be concluded
+     that the transaction does not raise any competition concerns.
+57. In light of the above, the Commission has concluded that he proposed transaction is not
+     likely to create or strengthen a dominant position as a result of which effective
+     competition would be significantly impeded in the EEA or any substantial part of that
+     area.
+VII. CONCLUSION
+58. For the above reasons, the Commission has decided not to oppose the notified
+     operation and to declare it compatible with the common market and with the EEA
+     Agreement. This decision is adopted in application of Article 6(1)(b) of Council
+     Regulation (EEC) No 4064/89.
+                                                       For the Commission
+                                                       (Signed)
+                                                       Mario MONTI
+                                                       Member of the Commission
+                                                 10

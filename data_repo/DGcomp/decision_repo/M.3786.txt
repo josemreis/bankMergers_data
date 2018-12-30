@@ -1,0 +1,236 @@
+                       COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 29.03.2006
+                                                                 SG-Greffe(2006) D/201372/3
+   In the published version of this decision, some
+   information has been omitted pursuant to Article                       PUBLIC VERSION
+   17(2) of Council Regulation (EC) No 139/2004
+   concerning non-disclosure of business secrets and
+   other confidential information. The omissions are
+   shown thus […]. Where possible the information
+   omitted has been replaced by ranges of figures or a
+                                                                       MERGER PROCEDURE
+   general description.                                             ARTICLE 6(1)(b) DECISION
+To the notifying parties
+Dear Sir/Madam,
+Subject:       Case No COMP/M.3786 – BPI / Euler Hermes / COSEC
+               Notification of 22/02/2006 pursuant to Article 4 of Council Regulation
+               No 139/20041
+  1.    On 22 February 2006, the Commission received a notification of a proposed
+      concentration pursuant to Article 4 of Council Regulation (EC) No 139/2004 by which
+      the undertakings Euler Hermes SFAC (“EH SFAC”, France) and Banco BPI S.A.
+      (“BPI”, Portugal) acquire within the meaning of Article 3(1)(b) of Council Regulation
+      (EC) No 139/2004 joint control over Companhia de Seguro de Créditos S.A.
+      (“COSEC”, Portugal).
+2.    After examination of the notification, the Commission has concluded that the
+      operation falls within the scope of Council Regulation (EC) No 139/2004 and does not
+      raise serious doubts as to its compatibility with the common market and the EEA
+      agreement.
+I.    THE PARTIES
+  3.    EH SFAC is an insurance company within the Euler Hermes Group, which is active
+      in the credit insurance business, offering solutions for the management of trade
+      receivables, in particular credit insurance, trade debt collection services, bonding,
+      evaluating trade receivable portfolios and fidelity insurance. EH SFAC is an indirect
+      subsidiary of Allianz AG, the ultimate parent company of the Allianz Group.
+1    OJ L 24, 29.1.2004, p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+  4.   BPI is the controlling company of the BPI Group. The BPI Group is a universal
+     financial group, active in investment banking, private equity, corporate finance and
+     asset management and - predominantly - in commercial banking. BPI is also active in
+     the management of unit trust (mutual) funds, pension funds and life-capitalisation
+     insurance.
+  5.   COSEC is a specialised insurance company mainly active in the credit insurance
+     business, the guarantee products business and in the field of political risk insurance in
+     Portugal.
+II.  THE OPERATION
+  6.   Currently BPI holds 50% of the shares in COSEC, whereas EH SFAC holds 41.43%
+     of COSEC. The notified operation consists of the purchase by EH SFAC of [less than
+     10]% of the shares of COSEC, which are currently held by […] […]%, […] […]% and
+     diverse individual subscribers […]%.
+III. CONCENTRATION
+  7.   COSEC is a full function joint venture within the meaning of Article 3(4) of Council
+     Regulation (EC) No 139/2004 as it performs and will continue to perform on a lasting
+     basis, all the functions of an autonomous economic entity. It has a management
+     dedicated to its day-to-day operations and has access to sufficient resources including
+     finance, staff and assets in order to conduct on a lasting basis its business activities
+     independently from its parent companies.
+  8.   COSEC is currently under sole control of BPI. An existing joint venture agreement
+     between the parent companies of COSEC provides BPI with a […].
+  9.   Following the transaction BPI and EH SFAC will each own 50% of the shares in
+     COSEC, and will each appoint […] members of the Management Board. The […]. In
+     view of their voting rights both parties would have joint control over decisions taken
+     both by the Management Board and by the shareholders meeting.
+  10. Thus, the transaction will lead to a change of sole to joint control over COSEC within
+     the meaning of Article 3(1)(b) of Council Regulation (EC) No 139/2004.
+IV. COMMUNITY DIMENSION
+  11. The combined aggregate worldwide turnover of the undertakings concerned is more
+     than €5 billion […]. The aggregate Community-wide turnover of each of at least two
+     of the undertakings concerned is more than € 250 million […]. Whilst BPI and COSEC
+     achieved more than two-thirds of their Community-wide turnover in Portugal in 2004,
+     EH SFAC’s ultimate parent, Allianz, did not achieve more than two-thirds of its
+     Community-wide turnover in one Member State. The operation has therefore a
+     Community dimension in the sense of Article 1(2) of Council Regulation (EC) No
+     139/2004.
+                                                 2
+
+V.   RELEVANT MARKETS
+Product markets
+  12. In previous decisions the Commission has considered that the insurance market can
+     be segmented into the life, non-life and re-insurance markets. Life and non-life
+     insurance can be segmented in as many different products markets as there are
+     insurances for specific risks. It was considered that characteristics, premiums and
+     application of the individual insurances can be clearly separated and are hardly
+     substitutable from the consumers’ perspective2.
+  13. Within the non-life insurance market the Commission distinguished a separate market
+     for credit insurance. The credit insurance market can be segmented in five segments: i)
+     delcredere insurance, ii) capital goods credit insurance, iii) consumer credit insurance,
+     iv) fidelity insurance and v) guarantee insurance3.
+  14. The only overlap in the activities of the parties concerns delcredere insurance,
+     guarantee products and reinsurance.
+Delcredere insurance
+  15. In previous decisions the Commission considered that the delcredere insurance
+     market comprises domestic credit insurance and export credit insurance4. The purpose
+     of this type of insurance is to cover risks emanating from customers who are unable to
+     pay for goods supplied and services rendered as a result of their insolvency. Domestic
+     credit insurance protects the policyholder against insolvency of its domestic customers.
+     Export credit insurance protects the policyholder against insolvency of its customers
+     abroad. The parties agree with the Commission’s delineation of the market.
+  16. Although some respondents to the third party inquiries suggest that the distinction
+     between the different segments of credit insurance is not so clear cut and that the
+     delcredere insurance should not necessarily be seen as a separate market from the
+     broader credit insurance market, for the purpose of this case it is considered that, in
+     line with earlier Commission decisions, the relevant product market is constituted by
+     delcredere insurance.
+Guarantee Products
+  17. Guarantee insurance is a type of insurance which covers the will to perform certain
+     contractual or statutory obligations. The parties submit that guarantee insurance is part
+     of a broader market for guarantee products. Such a broader market for guarantee
+     products not only includes guarantee insurance, but also bank guarantees covering
+     non-financial risks, which are issued to a third party as a guarantee with regard to the
+     fulfilment of obligations, in order to avoid deposits, allowances, prepayments or
+     retentions.
+2   Cases M. 183 Schweizer Rück/Elvia, M. 429 Winterthur/DBV, M 518 Winterthur /Schweizer Rück, M.
+    539 Alianz /Elvia /Lloyd Addriatico and M.759 Sun Alliance/Royal Insurance
+3   Case M. 2602 Gerling/NCM
+4   Case M. 2602 Gerling/NCM
+                                                      3
+
+18. The parties consider that both guarantee insurance and non-financial bank guarantees
+     are substitutes, because they both cover the risk concerning the performance of legal
+     and contractual obligations undertaken towards private or public entities. According to
+     the parties the pricing of both types of guarantee is based on the same risk assessment
+     and the same market conditions. The parties add that COSEC and the other insurers
+     specialised in guarantee insurance are most of the time in competition with banks. In a
+     previous decision, the Commission’s market investigation confirmed the
+     substitutability of both types of guarantee5. The current third party enquiries suggest
+     that these two types of guarantee are indeed substitutes. Banks and insurance
+     companies offer guarantee products on similar terms and the price difference is often
+     of less than […]%. Therefore we can define the market as guarantee products.
+     Reinsurance
+  19. The parties submit that reinsurance is a special form of insurance, the object of which
+     is to redistribute the risk between insurers. According to the parties reinsurance can be
+     distinguished from primary insurance because of the fact that reinsurance is traded
+     between industry specialists and written only with other insurance companies. These
+     views are in line with previous Commission decisions6. However, as there are no
+     competition concerns in the reinsurance market the exact delineation of the market can
+     be left open.
+    Geographic markets
+    Delcredere insurance
+  20. The parties submit that the relevant geographic market for credit insurance including any
+     segment thereof (e.g. delcredere insurance) is national in scope. This is confirmed in
+     previous Commission decisions7. Local presence, personal contacts and a precise
+     knowledge of the local business community is crucial for the business. Further, conditions
+     of competition in national markets are heterogeneous. The existence of national markets is
+     not contradicted by the fact that multi-national customers often require worldwide
+     policies, as in most cases, their subsidiaries conclude additional sub-policies with
+     subsidiaries or branches of the credit insurer.
+     Guarantee Products
+  21. In relation to the guarantee products the parties take the view that the relevant
+     geographic market is at least national. This view is supported by previous Commission
+     decisions8. It was found that significant differences in the conditions for competition
+     existed between the individual national markets, considering the prevailing market
+     structures, distribution channels and consumer attitudes. In particular for insurances which
+     are primarily sold to private persons, a national delineation of the geographic market was
+     considered to be appropriate.
+     Reinsurance
+5   Case M.813 Allianz/hermes
+6   Case M.491 General RE/Kölnische RE
+7   Case M. 2602 Gerling/NCM
+8   Case M. 813 Allianz/Hermes
+                                                     4
+
+  22. In relation to the reinsurance market the Commission has considered the relevant
+     geographic market to be world-wide9. This view is supported by the parties.
+VI. COMPETITIVE ASSESSMENT
+  23. The horizontally affected market, where the parties have combined market shares of
+     more than 15% is the delcredere insurance market in Portugal. The guarantee products
+     with the parties’ combined market share of [10-15]%10 and the reinsurance market
+     with a market share of less than 5% are not considered to be affected markets.
+24. The transaction does not lead to significant changes in the structure of any of the
+     relevant markets as the parties were already two main shareholders of COSEC before
+     the operation and have limited activities in credit insurance and guarantee business
+     outside COSEC.
+Delcredere insurance
+  25. The parties estimate the total value of the Portuguese delcredere insurance market at
+     € […] million. The combined market share of the parties on such market is estimated
+     by the parties at [45-55]% (COSEC [45-50]%, EH [0-5]%). The size of the market
+     share increment of [0-5]% is negligible and normally does not raise competition
+     concerns. In this respect the parties refer to the fact that the [0-5]% increment
+     represents gross written premiums of € […] only. Moreover, EH’s business in
+     delcredere insurance does not result from active marketing, but stems from credit
+     insurance contracts entered into by EH with companies outside Portugal, which on a
+     group-wide basis also include coverage for Portuguese subsidiaries of these customers.
+26. The parties face significant competition in the Portuguese delcredere insurance market.
+     Their main competitors are Spanish competitors with local premises, which according
+     to the parties form a steadily growing constraint on COSEC’s market position. CyC,
+     the main competitor of COSEC in the delcredere insurance market, is Spain’s leading
+     credit insurer, ranking fourth globally. Its market share in Portugal has been growing
+     steadily and reached [30-35]% in 2004. Mapfre, COSEC’s second most important
+     competitor on this market had a market share of [10-15]% in the same year. More
+     importantly, over the last three years Mapfre’s market share has been increasing,
+     whereas COSEC’s market share has decreased (from [65-70]% in 2002 to [45-50]% in
+     2004 and [45-50]% in 2005).
+27. Finally, an additional competitive constraint on COSEC delcredere insurance business
+     comes from new entrants and potential competition from other insurance companies
+     active in Portugal, which have not yet entered the credit insurance business. Recent
+     entrants into Portuguese delcredere insurance market include Coface and Atradius
+     Seguros de Crédito, which are according to the parties amongst the three world-wide
+     leaders in the credit insurance business.
+     Considering the above, the transaction is not likely to impede effective competition in
+     the delcredere insurance market in Portugal.
+9   Case M. 880 Schweizer Re/Uniorias
+10  All references to market shares in this document refer to the year 2004, unless explicitly stated otherwise.
+                                                          5
+
+ Guarantee products
+ 28. On the guarantee products market in Portugal the parties have a combined market
+    share of [10-15]%, of which COSEC has [0-5]% and BPI [5-10]%. COSEC is only
+    active in guarantee insurance products and BPI mainly in bank guarantees for non-
+    financial risks. EH has no activities in the Portuguese guarantee market outside
+    COSEC.
+ 29. COSEC faces strong competition from both big and small banks and insurance
+    companies. The main banking competitors, which account for 70% of guarantee
+    products in Portugal, include Caixa Geralde Depositos, Millenium BCP, Banco Totta
+    Santander, Banco Espirito Santo and Montepio Geral. The main competitor among
+    insurance companies is Mapfre. Other competitors among insurance companies
+    include: AXA Portugal, Companhia de Seguros Traquilidade SA, Império Bonança
+    Companhia de Seguros and Companhia des Seguros Fidelidade Mundial, SA.
+30. In the light of the low market shares and the presence of strong and numerous
+    competitors, the operation is not likely to impede effective competition in the
+    guarantee products market in Portugal.
+ Vertical relations
+31. Given that neither BPI nor EH have a market share exceeding 25% on any product
+   market which is a neighbouring market or vertically related to a product market in which
+   COSEC is active, it appears that the operation will not provide the parent companies
+   with the possibility of eliminating competition in respect of a substantial part of the
+   services in question.
+VI. CONCLUSION
+32. For the above reasons, the Commission has decided not to oppose the notified
+    operation and to declare it compatible with the common market and with the EEA
+    Agreement. This decision is adopted in application of Article 6(1)(b) of Council
+    Regulation (EC) No 139/2004.
+                                                   For the Commission
+                                                   signed
+                                                   Neelie KROES
+                                                   Member of the Commission
+                                               6

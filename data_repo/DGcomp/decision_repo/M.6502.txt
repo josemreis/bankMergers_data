@@ -1,0 +1,641 @@
+                      COMISSÃO EUROPEIA
+                                                           Bruxelas, 4.07.2012
+                                                           C(2012)4755 Final
+  Na versão publica desta decisão, alguma da
+                                                                    VERSÃO PÚBLICA
+  informação foi omitida nos termos do n 2 do artigo
+  17 do Regulamento (CE) n° 139/2004 do Conselho
+  que se refere à não divulgação de informações que            DECISÃO NOS TERMOS DO
+  estejam, pela sua natureza, abrangidas pelo sigilo        ARTIGO 22.º, N.º 3, RELATIVA A
+  comercial . As omissões são assim assinaladas […].
+                                                                 UMA CONCENTRAÇÃO
+  Onde possível a informação foi substituída por uma
+  gama de números ou por descrições gerais.
+                                                          Autoridade da Concorrência
+Exmo. Senhor,
+Assunto: Processo COMP/M.6502 – LONDON STOCK EXCHANGE / LCH
+            CLEARNET
+            Pedido de remessa de 29.5.2012 apresentado pela Autoridade da
+            Concorrência portuguesa à Comissão Europeia, nos termos do artigo 22.º, n.º
+            1, do Regulamento (CE) n.º 139/2004 do Conselho.
+Ref.:       Carta do Sr. Dr. Manuel Sebastião, Presidente da Autoridade da Concorrência
+            portuguesa, de 29.5.2012, dirigida ao Sr. Alexander Italianer, Diretor-Geral da
+            DG Concorrência.
+  I.      INTRODUÇÃO
+(1)      Através da carta em epígrafe, a Autoridade portuguesa solicita formalmente à
+         Comissão que analise, em conformidade com o artigo 22.º, n.º 3, do Regulamento
+         (CE) n.º 139/2004 do Conselho1 (o «Regulamento das Concentrações»), a
+         concentração através da qual a empresa London Stock Exchange Group plc
+1    Regulamento (CE) n.º 139/2004 do Conselho, de 20 de janeiro de 2004, relativo ao controlo das
+     concentrações de empresas («Regulamento das concentrações comunitárias»), JO L 24 de 29.1.2004,
+     pp. 1-22.
+                                                     2
+
+     («LSEG» ou a «parte notificante») se propõe adquirir o controlo exclusivo da
+     LCH.Clearnet Limited («LCH.Clearnet»).
+(2)  Nos termos do artigo 22.º, n.º 1, do Regulamento das Concentrações, um ou mais
+     Estados-Membros podem solicitar à Comissão que examine qualquer concentração,
+     tal como definida no artigo 3.º desse regulamento, que não tenha dimensão a nível da
+     União na aceção do artigo 1.º do mesmo regulamento, mas que afete o comércio
+     entre Estados-Membros e ameace afetar significativamente a concorrência no
+     território do Estado-Membro ou Estados-Membros que apresentam o pedido. Esse
+     pedido deve ser apresentado no prazo máximo de 15 dias úteis a contar da data de
+     notificação da concentração. Nos termos do artigo 22.º, n.º 2, do Regulamento das
+     Concentrações, qualquer outro Estado-Membro se pode associar ao pedido inicial
+     num prazo de 15 dias úteis após ter sido informado pela Comissão do pedido inicial.
+(3)  Em 8 de maio de 2012, a LSEG notificou a concentração acima referida à
+     Autoridade da Concorrência portuguesa. Em 29 de maio de 2012, a Comissão
+     recebeu um pedido de remessa apresentado pela Autoridade da Concorrência
+     portuguesa, nos termos do artigo 22.º, n.º 1, do Regulamento das Concentrações.
+     Por conseguinte, a Autoridade da Concorrência portuguesa apresentou o pedido
+     de remessa no prazo de 15 dias úteis a contar da data de notificação, tal como
+     previsto no artigo 22.º, n.º 1, do Regulamento das Concentrações.
+(4)  Em conformidade com o artigo 22.º, n.º 2, do Regulamento das Concentrações, a
+     Comissão informou as autoridades competentes dos outros Estados-Membros em
+     30 de maio de 2012.
+(5)  Em 18 e 20 de junho, respetivamente, portanto dentro do prazo previsto no artigo
+     22.º, n.º 2, do Regulamento das Concentrações, as Autoridades de Concorrência
+     espanhola (Comision Nacional de la Competencia) e francesa (Autorité de la
+     Concurrence) associaram-se ao pedido de remessa. Por carta de 20 de junho, o
+     Reino Unido, através do Office of Fair Trading («OFT») afirmou não desejar
+     associar-se ao pedido.
+ II. AS PARTES NA CONCENTRAÇÃO
+(6)  A LSEG é a sociedade holding do London Stock Exchange Group, que
+     desenvolve nomeadamente atividades de negociação na bolsa de ações, derivados
+     e títulos de rendimento fixo no Reino Unido e em Itália, prestando igualmente
+     serviços pós-negociação (compensação e liquidação).
+(7)  A LCH.Clearnet desenvolve atividades a nível da pós-negociação, enquanto
+     câmara de compensação internacional.
+(8)  A transação projetada consiste na aquisição do controlo exclusivo da
+     LCH.Clearnet pela LSEG e constitui uma concentração na aceção do artigo 3.º,
+     n.º 1, alínea b), do Regulamento das Concentrações. Não se trata de uma
+     concentração com dimensão a nível da União, na aceção do artigo 1.º do
+     Regulamento das Concentrações, mas está sujeita à obrigação de notificação em
+     três Estados-Membros: Espanha, Portugal e Reino Unido.
+(9)  A operação de concentração diz respeito aos mercados da negociação e
+     compensação de ações, títulos de rendimento fixo e derivados e da liquidação de
+     ações e títulos de rendimento fixo.
+                                               3
+
+III.    APRECIAÇÃO DO PEDIDO DE REMESSA
+(10)    Nos termos do artigo 22.º, n.º 3, do Regulamento das Concentrações, a Comissão
+        pode decidir examinar uma concentração sempre que considere (i) que afeta o
+        comércio entre Estados-Membros e (ii) que ameaça afetar significativamente a
+        concorrência no território do Estado-Membro ou Estados-Membros que
+        apresentam o pedido2. Se estes dois requisitos jurídicos estiverem preenchidos, a
+        Comissão exerce o seu poder discricionário para decidir aceitar ou não o pedido
+        de remessa, tomando em consideração o facto de ser ou não adequado que a
+        Comissão examine a concentração.
+(11)    Embora o cumprimento destes requisitos jurídicos constitua, por conseguinte,
+        uma condição prévia necessária para a admissibilidade de qualquer pedido de
+        remessa e para a sua aceitação pela Comissão, a presença dos critérios jurídicos
+        não impede, per se, o exercício do poder discricionário de que a Comissão dispõe
+        ao decidir aceitar examinar um caso que não é abrangido pela sua esfera de
+        competências original3.
+(12)    Tal como estabelecido especificamente na Comunicação relativa à remessa, deve
+        assegurar-se a flexibilidade do funcionamento do mecanismo de atribuição de
+        competências em que a Comissão e os Estados-Membros dispõem de uma
+        margem discricionária considerável quando decidem remeter os casos abrangidos
+        pela sua «competência original», ou aceitar tratar casos que não são abrangidos
+        pela sua «competência original»4.
+(13)    A Comunicação relativa à remessa refere igualmente que, ao apreciar um pedido
+        de remessa, se deve tomar em consideração todos os aspetos da aplicação do
+        princípio da segurança jurídica no que se refere à atribuição de competências5 e
+        as características específicas de cada caso.
+(14)    Pelas razões abaixo indicadas, a Comissão não considera que o presente caso é
+        adequado para uma remessa à Comissão. Por conseguinte, nos pontos que se
+        seguem, a Comissão apresentará apenas a sua apreciação sobre a aceitação do
+        pedido de remessa da Autoridade da Concorrência portuguesa, analisando a
+        pertinência da remessa, mas não analisando os requisitos jurídicos estabelecidos
+        no artigo 22.º, n.º 1, do Regulamento das Concentrações.
+        Pertinência de uma remessa à Comissão no presente caso
+(15)    Deve salientar-se que a concentração projetada foi anteriormente objeto, pela
+        parte notificante, ao abrigo do artigo 4.º, n.º 5, do Regulamento das
+        Concentrações, de um pedido de apreciação do caso pela Comissão, embora não
+        tivesse uma dimensão ao nível da União, mas devesse ser notificado por três
+2    Ver igualmente Comunicação da Comissão relativa à remessa de casos de concentrações (a
+     «Comunicação relativa à remessa», pontos 42-44, JO C 56 de 5.3.2005, p. 2.
+3    Comunicação relativa à remessa, ponto 7 e nota 14.
+4    Comunicação relativa à remessa, ponto 7.
+5    Comunicação relativa à remessa, ponto 8.
+                                                        4
+
+       Estados-Membros (Espanha, Portugal e Reino Unido) («pedido ao abrigo do
+       artigo 4.º, n.º 5»).
+(16)   Em 23 de abril de 2012, o OFT do Reino Unido informou a Comissão de que não
+       concordava com o pedido de remessa do caso para a Comissão. Por conseguinte,
+       o caso não foi objeto de remessa à Comissão, continuando assim a estar sujeito à
+       legislação de concorrência nacional aplicável em matéria de controlo das
+       concentrações.
+(17)   Logo que o caso lhe foi notificado, a Autoridade da Concorrência portuguesa
+       apresentou um pedido de remessa ao abrigo do artigo 22.º do Regulamento das
+       Concentrações; neste contexto, o Reino Unido reiterou a sua posição e
+       especificou por carta de 20 de junho de 2012 que não se associava ao pedido de
+       remessa de Portugal.
+(18)   A Comissão considera que, se um Estado-Membro não concorda com um pedido
+       ao abrigo do artigo 4.º, n.º 5, (ou seja, se a competência permanecer nos
+       Estados-Membros, na sequência de uma opção específica de um desses
+       Estados-Membros), a dinâmica fundamental do mecanismo de remessa é alterada
+       e o facto de ser aceite, no caso em apreço, uma remessa parcial na sequência de
+       um pedido de outro Estado-Membro, comprometeria os princípios fundamentais
+       do mecanismo de remessa. Com efeito, o facto de aceitar uma outra alteração de
+       competência provocaria uma incerteza jurídica suplementar para a parte
+       notificante e, por essa razão, a Comunicação relativa à remessa estabelece
+       claramente que «se foi efetuada uma remessa antes da notificação, deverá ser
+       evitada, tanto quanto possível, uma remessa posterior à notificação no mesmo
+       caso»6.
+(19)   Tendo em conta as características específicas do presente caso, a Comissão
+       considera que nenhum dos princípios estabelecidos na Comunicação relativa à
+       remessa, considerados individualmente ou no seu conjunto, é favorável a uma
+       decisão da Comissão no sentido de aceitar o pedido de remessa.
+(20)   Em primeiro lugar, os benefícios gerais inerentes ao sistema de «balcão único»7,
+       que constitui um dos principais elementos subjacentes ao mecanismo de remessa,
+       não se aplicaria no presente caso visto que, de qualquer modo, a investigação
+       relativa aos efeitos da concentração seria efetuada por múltiplas autoridades, visto
+       que o Reino Unido não se associou ao pedido apresentado por Portugal.
+(21)   Em segundo lugar, no que se refere ao princípio da autoridade mais adequada, a
+       Comunicação relativa à remessa estabelece que ao determinar qual a autoridade
+       mais adequada para analisar um caso, deverão nomeadamente ser tomados em
+       consideração os seguintes elementos: (i) os meios e conhecimentos especializados
+       de que essa autoridade dispõe; (ii) a localização provável onde se farão sentir os
+       efeitos sobre a concorrência resultantes da concentração e (iii) as implicações, em
+       termos de carga administrativa, de qualquer remessa projetada8. Este último
+6  Comunicação relativa à remessa, ponto 13.
+7  Ver considerando 11 do Regulamento das Concentrações e ponto 11 da Comunicação relativa à
+   remessa.
+8  Comunicação relativa à remessa, ponto 9.
+                                                5
+
+      elemento poderá implicar uma análise dos custos relativos, dos prazos, da
+      incerteza jurídica e do risco de apreciação contraditória que podem estar
+      associados ao facto de a investigação, ou parte da investigação, ser realizada por
+      diversas autoridades9.
+(22)  Mesmo que os elementos indicados nas subalíneas (i) e (ii), tal como referido no
+      pedido português, pudessem potencialmente indicar que a Comissão seria a
+      autoridade mais adequada in abstracto para analisar a transação, a Comissão
+      considera que as consequências em termos de carga administrativa para as partes
+      notificantes têm um maior peso e indicam que in concreto é mais adequado que a
+      concentração seja analisada a nível nacional.
+(23)  Com efeito, tal como foi acima referido, a Comissão considera que (i) a análise da
+      concentração pelas autoridades de concorrência do Reino Unido encontra-se já
+      numa fase avançada de pré-notificação, (ii) a concentração já foi notificada em
+      Portugal e (iii) já foram realizados em Espanha contactos iniciais na fase de
+      pré-notificação. Neste contexto, importa realçar que a LSEG, embora pretendesse
+      inicialmente que a Comissão fosse a autoridade competente nos termos do seu
+      pedido ao abrigo do artigo 4.º, n.º 5, ao tomar conhecimento de que eram
+      necessárias notificações nacionais, consagrou já recursos significativos para o
+      processamento das notificações relevantes. Uma remessa implicaria um atraso
+      considerável para todo o processo e uma carga administrativa adicional, a fim de
+      recomeçar o processo junto da Comissão depois de ter sido já notificado em
+      Portugal.
+(24)  Em terceiro lugar, no que se refere ao princípio da segurança jurídica, uma nova
+      alteração em matéria de competência provocaria incertezas jurídicas adicionais
+      para a parte notificante e comprometeria o quadro jurisdicional estabelecido no
+      âmbito da rede europeia das Autoridades da Concorrência, após o pedido de
+      remessa ao abrigo do artigo 4.º, n.º 5.
+(25)  Por conseguinte, à luz do atrás exposto, a Comissão considera que não existem no
+      presente caso «razões manifestas para um desvio da «“competência original”»,
+      tal como previsto na Comunicação relativa à remessa.
+9  Comunicação relativa à remessa, nota 14.
+                                              6
+
+IV.  CONCLUSÃO
+(26) Pelas razões acima descritas, a Comissão decidiu rejeitar o pedido de remessa
+     apresentado pela Autoridade da Concorrência portuguesa nos termos do artigo
+     22.º, n.º 3, do Regulamento das Concentrações.
+                                                Pela Comissão
+                                                  (assinatura)
+                                                 Joaquín ALMUNIA
+                                                    Vice-Presidente
+                                            7
+ <<--NEW VERSION-->>                           COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+                                                                       Bruxelles, le 4.07.2012
+                                                                       C (2012) 4755 final
+Dans la version publique de cette décision, des
+                                                                             VERSION PUBLIQUE
+informations        ont       été    supprimées
+conformément à l'article 17 (2) du règlement                                     PROCÉDURE DE
+du Conseil (CE) n° 139/2004 concernant la                                      CONCENTRATION
+non-divulgation des secrets d'affaires et autres
+informations confidentielles. Les omissions sont
+                                                                            DÉCISION ARTICLE 22,
+donc indiquées par [...]. Quand cela était                                       PARAGRAPHE 3
+possible, les informations omises ont été
+remplacées par des fourchettes de chiffres ou
+une description générale.
+                                                                       A l'Autorité de Concurrence:
+  Monsieur,
+  Affaire: Affaire COMP/M.6502                   –    LONDON            STOCK         EXCHANGE/LCH
+               CLEARNET
+               Demande adressée le 29 mai 2012 à la Commission par l’Autorité portugaise
+               de la concurrence conformément à l’article 22, paragraphe 1, du règlement
+               (CE) n° 139/2004 du Conseil
+  Réf.:        Lettre adressée le 20 juin 2012 par M. Bruno Lasserre, Président de l’Autorité
+               de la concurrence de la France, au greffe des concentrations, à la Direction
+               Générale de la Concurrence
+    I.      INTRODUCTION
+  (1)      Par la lettre susmentionnée, l’Autorité française de la concurrence s’est jointe à la
+           demande d’examen, adressée à la Commission par l’Autorité portugaise de la
+           concurrence conformément à l’article 22, paragraphe 3, du règlement (CE)
+           n° 139/2004 du Conseil1 (le «règlement sur les concentrations»), de l’opération de
+           concentration par laquelle la société London Stock Exchange Group plc («LSEG»
+           ou la «partie notifiante») entend acquérir le contrôle exclusif de la société
+           LCH.Clearnet Limited («LCH.Clearnet»).
+  1    Règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations
+       entre entreprises (le «règlement sur les concentrations»), JO L 24 du 29.1.2004, p. 1.
+                                                            1
+
+(2)  En vertu de l’article 22, paragraphe 1, du règlement sur les concentrations, un ou
+     plusieurs États membres peuvent demander à la Commission d'examiner toute
+     concentration, telle que définie à l'article 3 dudit règlement, dont la dimension ne
+     s'étend pas à l'Union au sens de l'article 1er, mais qui affecte le commerce entre États
+     membres et menace d'affecter de manière significative la concurrence sur le territoire
+     du ou des États membres qui formulent cette demande. Celle-ci doit être présentée au
+     plus tard dans un délai de quinze jours ouvrables à compter de la date de notification
+     de la concentration. Conformément à l’article 22, paragraphe 2, du règlement sur les
+     concentrations, tout autre État membre a le droit de se joindre à la demande initiale
+     dans un délai de quinze jours ouvrables à compter de la date à laquelle la
+     Commission l'a informé de la demande initiale.
+(3)  Le 8 mai 2012, LSEG a notifié la concentration susmentionnée à l’Autorité
+     portugaise de la concurrence (Autoridade da Concorrencia). Cette dernière a
+     adressé à la Commission une demande de renvoi en application de l’article 22,
+     paragraphe 1, du règlement sur les concentrations le 29 mai 2012, soit dans un
+     délai de quinze jours ouvrables à compter de la date de notification de la
+     concentration, se conformant en cela à l’article 22, paragraphe 1, dudit règlement.
+(4)  Conformément à l’article 22, paragraphe 2, du règlement sur les concentrations,
+     la Commission a informé les Autorités compétentes des autres États membres
+     le 30 mai 2012.
+(5)  Les 18 et 20 juin 2012, respectivement, soit dans le délai prévu à l'article 22,
+     paragraphe 2, du règlement sur les concentrations, les Autorités de la concurrence
+     de l’Espagne (Comisión Nacional de la Competencia) et de la France (Autorité de
+     la concurrence) se sont jointes à la demande de renvoi. Par lettre du 20 juin, le
+     Royaume-Uni a fait savoir, par l’intermédiaire de l’Office of Fair Trading
+     («OFT»), qu’il ne souhaitait pas se joindre à cette demande.
+ II. LES PARTIES ET LA CONCENTRATION
+(6)  LSEG est la société holding de la société London Stock Exchange Group plc. Ses
+     activités ont trait, notamment, au fonctionnement des Bourses en ce qui concerne
+     la négociation des actions, des produits dérivés et des titres à revenu fixe au
+     Royaume-Uni et en Italie. Elle propose également des services de
+     post-négociation (compensation et règlement).
+(7)  LCH.Clearnet exerce des activités au niveau de la post-négociation en tant que
+     chambre de compensation.
+(8)  L’opération envisagée consiste en l’acquisition du contrôle exclusif de
+     LCH.Clearnet par LSEG et constitue une concentration au sens de l’article 3,
+     paragraphe 1, point b), du règlement sur les concentrations. Bien que sa
+     dimension ne s'étende pas à l'Union au sens de l’article 1er du règlement des
+     concentrations, elle doit être notifiée dans trois États membres, à savoir
+     l’Espagne, le Portugal et le Royaume-Uni.
+(9)  La concentration concerne les marchés de la négociation et de la compensation
+     des actions, des titres à revenu fixe et des instruments dérivés, ainsi que du
+     règlement pour ce qui est des actions et des titres à revenu fixe.
+                                                 2
+
+III.     APPRECIATION DE LA DEMANDE DE RENVOI
+(10)     Conformément à l’article 22, paragraphe 3, du règlement sur les concentrations,
+         la Commission peut décider d'examiner la concentration si elle estime que celle-ci
+         i) affecte le commerce entre États membres et ii) menace d'affecter de manière
+         significative la concurrence sur le territoire du ou des États membres qui
+         formulent la demande2. Si ces deux conditions légales sont réunies, la
+         Commission dispose de pouvoirs discrétionnaires pour déterminer si elle doit ou
+         non accepter la demande de renvoi, en appréciant s’il est opportun qu’elle
+         examine cette demande.
+(11)     Bien que leur respect soit une condition préalable nécessaire à la recevabilité et à
+         l’acceptation d’une demande de renvoi par la Commission, l’existence de ces
+         critères n’exclut pas en soi l'exercice du pouvoir discrétionnaire conféré à la
+         Commission en ce qui concerne l’acceptation ou le refus de l'examen des affaires
+         ne relevant pas de sa compétence initiale3.
+(12)     Ainsi que le précise la communication sur le renvoi des affaires de concentration,
+         le système de renvoi doit constituer un mécanisme juridictionnel souple, dans le
+         cadre duquel la Commission et les États membres conservent une marge
+         d'appréciation considérable pour décider de renvoyer des opérations qui relèvent
+         de leur «compétence initiale» ou d'accepter d'examiner celles qui n'en relèvent
+         pas4.
+(13)     La communication sur le renvoi des affaires de concentration souligne également
+         que l’examen d’une demande de renvoi doit tenir dûment compte de tous les
+         aspects de l'application du principe de sécurité juridique en ce qui concerne cette
+         compétence5 et des spécificités de l’affaire examinée.
+(14)     Pour les raisons exposées ci-après, la Commission considère que l’affaire en
+         l’espèce ne se prête pas à un renvoi à la Commission. En conséquence, elle se
+         bornera ci-après à exposer son appréciation de la question de savoir s'il convient
+         d'accepter ou non la demande de renvoi adressée par l'Autorité française de la
+         concurrence, en examinant l'opportunité du renvoi, sans toutefois examiner les
+         exigences légales énoncées à l’article 22, paragraphe 1, du règlement sur les
+         concentrations.
+2    Voir également la communication de la Commission sur le renvoi des affaires en matière de
+     concentrations (la «communication sur le renvoi des affaires de concentration»), points 42 à 44,
+     JO C 56 du 5.3.2005, p. 2.
+3    Communication sur le renvoi des affaires de concentration, point 7 et note de bas de page n° 14.
+4    Communication sur le renvoi des affaires de concentration, point 7.
+5    Communication sur le renvoi des affaires de concentration, point 8.
+                                                       3
+
+       Opportunité de renvoyer la présente affaire devant la Commission
+(15)   Il convient de noter que la concentration envisagée a fait l’objet d’une demande
+       antérieure de la partie notifiante, conformément à l’article 4, paragraphe 5, du
+       règlement sur les concentrations, concernant l’affaire soumise à l’appréciation de
+       la Commission qui, même si sa dimension ne s'étendait pas à l'Union, devait être
+       notifiée dans trois États membres (Espagne, Portugal et Royaume-Uni) (la
+       «demande présentée en application de l’article 4, paragraphe 5, du règlement sur
+       les concentrations»).
+(16)   Le 23 avril 2012, l’OFT a informé la Commission qu’il n’était pas d’accord avec
+       la demande de renvoi de la concentration adressée à la Commission. L’opération
+       n’a donc pas été renvoyée à la Commission et a par conséquent continué de
+       relever des législations nationales en matière de contrôle des concentrations alors
+       applicables.
+(17)   Dès que l'affaire en question lui a été notifiée, l'Autorité portugaise de la
+       concurrence a présenté une demande de renvoi conformément à l'article 22 du
+       règlement sur les concentrations, à laquelle se sont jointes les Autorités française
+       et espagnole de la concurrence. Dans ce contexte, le Royaume-Uni a réitéré sa
+       position et précisé par lettre du 20 juin 2012 qu'il ne s'associait pas au Portugal.
+(18)   La Commission considère que, dès lors qu’un État membre n'est pas favorable à
+       la demande présentée en application de l’article 4, paragraphe 5, du règlement sur
+       les concentrations (c’est-à-dire lorsque les États membres concernés restent
+       compétents en raison du choix posé par l'un de ces États membres), la dynamique
+       fondamentale du mécanisme de renvoi n'est plus la même. Dans ce cas, le fait
+       d'accepter en l'espèce un renvoi partiel à la suite d'une demande présentée par un
+       autre État membre compromettrait les principes fondamentaux du mécanisme de
+       renvoi. En effet, l’acceptation d’un changement de compétence entraînerait une
+       insécurité juridique accrue pour la partie notifiante, raison pour laquelle la
+       communication sur le renvoi des affaires de concentration précise que «si un[e]
+       [demande de] renvoi a été fait[e] à ce stade, un renvoi postérieur de la même
+       affaire devrait être évité dans toute la mesure du possible»6.
+(19)   À la lumière des spécificités de la présente affaire, la Commission considère
+       qu’aucun des principes directeurs énoncés dans la communication sur le renvoi
+       des affaires de concentration, qu’ils soient considérés séparément ou
+       conjointement, ne plaide en faveur d’une décision d’acceptation de la demande de
+       renvoi par la Commission.
+(20)   Premièrement, les avantages généraux d’une procédure de guichet unique7, soit
+       l’un des éléments clés du mécanisme de renvoi, ne se vérifieraient pas en
+       l’espèce, étant donné que l’enquête sur les effets de la concentration serait, en
+       tout état de cause, menée par plusieurs Autorités différentes, le Royaume-Uni ne
+6  Communication sur le renvoi des affaires de concentration, point 13.
+7  Voir le considérant 11 du règlement sur les concentrations et le point 11 de la communication sur le
+   renvoi des affaires de concentration.
+                                                     4
+
+      s’étant pas joint à la demande présentée par le Portugal, à laquelle se sont ensuite
+      jointes les Autorités française et espagnole de la concurrence.
+(21)  Deuxièmement, en ce qui concerne le principe de l’Autorité la plus appropriée, la
+      communication sur le renvoi des affaires de concentration précise qu’il convient,
+      pour déterminer l’Autorité la mieux à même d'examiner une affaire, de tenir
+      compte i) des instruments et de l'expertise dont cette Autorité dispose; ii) du lieu
+      probable où se feraient ressentir les effets de la concentration sur la concurrence
+      et iii) des implications, sur le plan administratif, de tout renvoi envisagé8. Ce
+      dernier point pourrait nécessiter la prise en compte du coût relatif, des délais, de
+      l'incertitude juridique et du risque d'appréciations contradictoires qui peut être lié
+      au fait qu'une enquête ou une partie de l'enquête serait menée par plusieurs
+      Autorités différentes9.
+(22)  Même si l’examen des éléments i) et ii) ci-dessus est susceptible de désigner la
+      Commission comme l’Autorité la mieux à même, en théorie, d’examiner
+      l’opération en question, la Commission considère que les conséquences en termes
+      de charges administratives pour la partie notifiante constituent l’élément le plus
+      important et que, concrètement, un examen de l’opération à l’échelon national est
+      plus approprié.
+(23)  Ainsi, comme indiqué plus haut, la Commission considère i) que la concentration
+      se trouve déjà à un stade de prénotification avancé auprès de l’Autorité de la
+      concurrence du Royaume Uni, ii) qu’elle a déjà été notifiée aux Autorités
+      portugaises et iii) que les premiers contacts de prénotification ont déjà été établis
+      avec l’Espagne. À cet égard, il convient de noter que LSEG, bien qu’ayant
+      souhaité initialement que la Commission se déclare compétente, conformément à
+      la demande qu’elle a présentée en application de l'article 4, paragraphe 5, du
+      règlement sur les concentrations, a, dès qu’elle a appris qu'elle était tenue de
+      procéder à des notifications auprès de plusieurs instances nationales, affecté des
+      ressources importantes à la réalisation des notifications en question. Un renvoi
+      retarderait considérablement l’ensemble du processus et entraînerait des charges
+      administratives supplémentaires liées à la nécessité de relancer la procédure
+      auprès de la Commission, alors que l'opération a déjà été notifiée aux Autorités
+      portugaises.
+(24)  Troisièmement, en ce qui concerne le principe de sécurité juridique, un autre
+      changement de compétence serait source d’insécurité accrue pour la partie
+      notifiante et compromettrait le cadre en matière de compétences établi au sein du
+      réseau des Autorités européennes de la concurrence à la suite de la demande de
+      renvoi présentée en application de l’article 4, paragraphe 5, du règlement sur les
+      concentrations.
+(25)  En conséquence, eu égard aux considérations qui précèdent, la Commission
+      considère qu’il n’y a pas en l’espèce de «raison impérative de s’écarter de la
+      "compétence initiale"», ainsi que le prévoit la communication sur le renvoi des
+      affaires de concentration.
+8  Communication sur le renvoi des affaires de concentration, point 9.
+9  Communication sur le renvoi des affaires de concentration, note de bas de page n° 14.
+                                                     5
+
+IV.  CONCLUSION
+(26) Pour les raisons susmentionnées, la Commission a décidé de rejeter la demande
+     de renvoi adressée par l’Autorité de la concurrence de la France en application de
+     l’article 22, paragraphe 3, du règlement sur les concentrations.
+                                                   Par la Commission
+                                                           (signé)
+                                                    Joaquín ALMUNIA
+                                                       Vice-président
+                                              6
+ <<--NEW VERSION-->>                           COMISIÓN DE LAS COMUNIDADES EUROPEAS
+                                                                   Bruselas, 4.7.2012
+En la version pública de la decisión, se omite
+determinada información en virtud del
+artículo 17 (2) del Reglamento del Consejo
+                                                                   C(2012) 4755 final
+(CE) No 139/2004 relativo a la no
+divulgación de secretos de negocios y otra                                VERSIÓN PÚBLICA
+información confidencial. Las omisiones se
+indican con [....]. Si es posible, la
+información omitida se remplaza por rangos                          DECISIÓN EN VIRTUD DEL
+de cifras o una descripción general.                                     PROCEDIMIENTO DE
+                                                                       CONCENTRACIÓN DEL
+                                                                    ARTÍCULO 22, APARTADO 3
+                                                                A la Comisión Nacional de la
+                                                                Competencia
+   Muy señor mío:
+   Objeto: Asunto COMP/M.6502 – LONDON STOCK EXCHANGE / LCH
+                CLEARNET
+                Solicitud de 29.5.2012 de la Autoridade da Concorrencia (Autoridad
+                portuguesa de la competencia) a la Comisión de conformidad con el artículo
+                22, apartado 1, del Reglamento (CE) nº 139/2004 del Consejo.
+   Ref.:        Carta del Sr. D. Joaquín García Bernaldo de Quirós, Presidente de la Comisión
+                Nacional de la Competencia de España, de 18.6.2012 al Sr. D. Alexander
+                Italianer, Director General de la DG Competencia.
+   I.        INTRODUCCIÓN
+   (1)       Mediante la carta mencionada, la Comisión Nacional de la Competencia de
+             España se sumó a la solicitud efectuada a la Comisión de conformidad con el
+             artículo 22, apartado 3, del Reglamento del Consejo (CE) nº 139/20041 (el
+             «Reglamento de concentraciones») por la Autoridad portuguesa de la
+             competencia para que examinase la concentración por la cual la empresa London
+             Stock Exchange Group plc («LSEG» o «la parte notificante») propone adquirir el
+             control exclusivo de LCH.Clearnet Limited («LCH.Clearnet»).
+   1    Reglamento del Consejo (CE) n° 139/2004 del Consejo, de 20 de enero de 2004, sobre el control de
+        las concentraciones entre empresas (el «Reglamento de concentraciones»), DO L 24 de 29.1.2004, pp.
+        1-22.
+                                                          2
+
+(2) En virtud del artículo 22, apartado 1, del Reglamento de concentraciones, uno o
+    varios Estados miembros podrán solicitar a la Comisión que examine cualquier
+    concentración que se ajuste a la definición de su artículo 3 y que no tenga dimensión
+    comunitaria en el sentido de su artículo 1, pero que afecte al comercio entre Estados
+    miembros y amenace con afectar de forma significativa a la competencia en el
+    territorio del Estado miembro o de los Estados miembros que presentan la solicitud.
+    Esta solicitud deberá presentarse en un plazo de 15 días laborables a partir de la
+    fecha de notificación de la concentración. Con arreglo al artículo 22, apartado 2, del
+    Reglamento de concentraciones, cualquier otro Estado miembro podrá sumarse a la
+    solicitud inicial en el plazo de 15 días laborables a partir de la fecha en que haya
+    recibido de la Comisión la información sobre la solicitud inicial.
+(3) El 8 de mayo de 2012, LSEG notificó la citada concentración a la Autoridade da
+    Concorrencia (la Autoridad portuguesa de la competencia). El 29 de mayo de
+    2012, la Comisión recibió de dicha Autoridad una solicitud de remisión en virtud
+    del artículo 22, apartado 1, del Reglamento de concentraciones. Por consiguiente,
+    la Autoridad portuguesa presentó la solicitud de remisión en el plazo de 15 días
+    laborables a partir de la fecha de la notificación, con arreglo a lo previsto en el
+    artículo 22, apartado 1, del Reglamento de concentraciones.
+(4) De conformidad con el artículo 22, apartado 2, del Reglamento de
+    concentraciones, el 30 de mayo de 2012 la Comisión informó a las autoridades
+    competentes de los demás Estados miembros.
+(5) Los días 18 y 20 de junio de 2012, respectivamente, es decir dentro del plazo
+    previsto en el artículo 22, apartado 2, del Reglamento de concentraciones, las
+    autoridades de competencia de España (Comisión Nacional de la Competencia) y
+    Francia (Autorité de la Concurrence) se sumaron a la solicitud de remisión. Por
+    carta de 21 de junio, el Reino Unido, a través de la Office of Fair Trading
+    («OFT»), manifestó que no deseaba sumarse a la solicitud.
+II. LAS PARTES Y LA CONCENTRACIÓN
+(6) LSEG es la sociedad de cartera de London Stock Exchange Group que desarrolla,
+    inter alia, operaciones de intermediación e intercambio comercial de acciones,
+    derivados y valores de renta fija en el Reino Unido y en Italia, además de ofrecer
+    servicios posteriores a la negociación (compensación y liquidación).
+(7) LCH.Clearnet opera en el nivel posterior a la negociación como cámara
+    internacional de compensación.
+(8) La transacción propuesta consiste en la adquisición del control exclusivo de
+    LCH.Clearnet por LSEG y constituye una concentración a tenor del artículo 3,
+    apartado 1, letra b), del Reglamento de concentraciones. No tiene una dimensión
+    a escala de la Unión a tenor del artículo 1 del Reglamento sobre concentraciones,
+    pero se debe notificar en tres Estados miembros: España, Portugal y el Reino
+    Unido.
+                                              3
+
+(9)     La concentración se refiere a los mercados de la negociación y compensación de
+        acciones, títulos de renta fija y derivados, y de la liquidación de acciones y títulos
+        de renta fija.
+III.     EVALUACIÓN DE LA SOLICITUD DE REMISIÓN
+(10)    Con arreglo a lo dispuesto en el artículo 22, apartado 3, del Reglamento de
+        concentraciones, la Comisión podrá decidir examinar la concentración si
+        considera que i) afecta al comercio entre Estados miembros y ii) amenaza con
+        afectar de forma significativa a la competencia en el territorio del Estado
+        miembro o de los Estados miembros que hayan presentado la solicitud2. Si se
+        cumplen estos dos requisitos legales, la Comisión ejerce su poder discrecional de
+        aceptar o no la solicitud de remisión, teniendo en cuenta si es conveniente que
+        examine la concentración.
+(11)    Si bien el cumplimiento de esos requisitos legales es, por lo tanto, una condición
+        previa necesaria para la admisibilidad y aceptación por la Comisión de cualquier
+        solicitud de remisión, la presencia de dichos criterios legales no impide de por sí
+        que la Comisión haga uso de la discrecionalidad de que dispone para decidir si
+        acepta ocuparse de los asuntos que no entran dentro de su jurisdicción original3.
+(12)    Según se especifica en la Comunicación sobre la remisión, el sistema de remisión
+        debe funcionar como un mecanismo jurisdiccional flexible, por el cual la
+        Comisión y los Estados miembros conservan un margen discrecional considerable
+        a la hora de decidir si remiten un asunto que entra dentro de su «jurisdicción
+        original» o aceptan tramitar un asunto que no entra dentro de su «jurisdicción
+        original»4.
+(13)    La Comunicación sobre la remisión señala también que, al examinar una solicitud
+        de remisión, se deben tomar en consideración todos los aspectos de la aplicación
+        del principio de seguridad jurídica en cuanto a la jurisdicción5 y las
+        peculiaridades de cada caso.
+(14)    Por los motivos que se exponen a continuación, la Comisión no considera que
+        este asunto sea apropiado para remitirlo a la Comisión. Por lo tanto, en los
+        siguientes apartados la Comisión sólo presenta su evaluación de si la solicitud de
+        remisión cursada por la Autoridad española de la competencia debe ser aceptada,
+        examinando la idoneidad de la remisión, mientras que no examinará los requisitos
+2    Véase también la Comunicación de la Comisión sobre la remisión de asuntos de concentraciones (la
+     «Comunicación sobre la remisión»), apartados 42-44, DO C 56 de 5.3.2005, p. 2.
+3    Comunicación sobre la remisión, apartado 7 y nota a pie de página 14.
+4    Comunicación sobre la remisión, apartado 7.
+5    Comunicación sobre la remisión, apartado 8.
+                                                        4
+
+       legales establecidos en el artículo 22, apartado 1, del Reglamento de
+       concentraciones.
+       En cuanto a la idoneidad de una remisión del presente asunto a la Comisión
+(15)   Hay que señalar que la parte notificante solicitó previamente, de conformidad con
+       el artículo 4, apartado 5, del Reglamento de concentraciones, que la Comisión
+       examinara la concentración propuesta, a pesar de que su dimensión no abarcaba la
+       Unión, pero era notificable en tres Estados miembros (España, Portugal y Reino
+       Unido) (la «solicitud del artículo 4.5»).
+(16)   El 23 de abril de 2012, la Autoridad de la competencia del Reino Unido (OFT)
+       informó a la Comisión de que no estaba de acuerdo con la solicitud de remisión
+       del asunto a la Comisión. Por consiguiente, el asunto no se remitió a la Comisión
+       y, por lo tanto, siguió sujeto a la legislación nacional de competencia aplicable al
+       control de concentraciones.
+(17)   Cuando se le notificó el asunto, la Autoridad portuguesa de la competencia
+       presentó una solicitud de remisión con arreglo al artículo 22 del Reglamento de
+       concentraciones: en este contexto, el Reino Unido reiteró su posición y manifestó
+       por carta de 21 de junio de 2012 que no se sumaba a la solicitud de remisión
+       portuguesa.
+(18)   La Comisión considera que, una vez que un Estado miembro no ha accedido a la
+       solicitud del artículo 4.5 (es decir, una vez que se mantiene la jurisdicción en los
+       Estados miembros afectados tras una elección concreta de uno de los Estados
+       miembros), se produce un cambio en la dinámica fundamental del mecanismo de
+       remisión y la aceptación en el presente asunto de una remisión parcial a raíz de
+       una solicitud por parte de otro Estado miembro socavaría los principios
+       fundamentales del sistema de remisión. En efecto, si se aceptara otro cambio de
+       jurisdicción se podría dar lugar a una mayor inseguridad jurídica para la parte
+       notificante, que constituye la base de la Comunicación sobre la remisión que
+       especifica claramente que «en los casos en que ya se haya producido una remisión
+       previa a la notificación, deberá hacerse todo lo posible para evitar una remisión
+       posterior a la misma»6.
+(19)   A la luz de las características del presente asunto, la Comisión considera que
+       ninguno de los principios rectores esbozados en la Comunicación sobre la
+       remisión, ya sean juntos o por separado, aboga en favor de una decisión de la
+       Comisión de aceptar la solicitud de remisión.
+(20)   En primer lugar, los beneficios generales de un procedimiento de ventanilla
+       única7, una de las bases fundamentales del mecanismo de remisión, no son de
+6  Comunicación sobre la remisión, apartado 13.
+7  Véase el considerando 11 del Reglamento de concentraciones y la Comunicación sobre la remisión,
+   apartado 11.
+                                                  5
+
+       aplicación en el presente caso dado que la investigación sobre los efectos de la
+       concentración sería efectuada, en todo caso, por varias autoridades, ya que el
+       Reino Unido no se ha sumado a la solicitud presentada por Portugal y a la que
+       luego se sumaron las autoridades de la competencia francesa y española.
+(21)   En segundo lugar, por lo que se refiere al principio de autoridad más apropiada,
+       la Comunicación sobre la remisión establece que, a la hora de determinar la
+       autoridad mejor situada para analizar un asunto, hay que tener en cuenta, en
+       particular, los siguientes elementos: i) los medios y capacidad de la autoridad; ii)
+       el lugar en el que la concentración podría incidir en la competencia, y iii) la carga
+       administrativa que generaría una posible remisión8. Este último elemento puede
+       incluir el coste relativo, los retrasos, la inseguridad jurídica y el riesgo de que la
+       investigación o parte de la misma, al ser realizada por varias autoridades, dé lugar
+       a evaluaciones contradictorias9.
+(22)   Incluso si los elementos i) y ii), según se apunta en la solicitud portuguesa,
+       pudieran indicar que la Comisión es la autoridad más apropiada in abstracto para
+       examinar la operación, la Comisión considera que las consecuencias en términos
+       de carga administrativa para la parte notificante prevalecen e indican que, in
+       concreto, es más conveniente que la concentración se analice a nivel nacional.
+(23)   De hecho, tal como se ha mencionado anteriormente, la Comisión entiende que i)
+       el examen de la concentración por parte de la Autoridad de la competencia del
+       Reino Unido se encuentra ya en una fase avanzada de notificación previa, ii) la
+       concentración ya ha sido notificada en Portugal, y iii) se han celebrado con
+       España contactos iniciales previos a la notificación. A este respecto, hay que
+       destacar que LSEG, aunque inicialmente solicitó que la Comisión asumiese la
+       jurisdicción con arreglo a su solicitud del artículo 4.5, una vez informada de que
+       las notificaciones nacionales eran necesarias, ha dedicado unos recursos
+       considerables a la tramitación de las notificaciones pertinentes. Una remisión
+       supondría un considerable retraso de todo el proceso y una carga administrativa
+       adicional para reiniciar el procedimiento ante la Comisión después de haber sido
+       notificado ya en Portugal.
+(24)   En tercer lugar, por lo que se refiere al principio de seguridad jurídica, un nuevo
+       cambio de jurisdicción podría dar lugar a una mayor inseguridad para la parte
+       notificante y socavaría el marco jurisdiccional establecido en la red de
+       autoridades de competencia europeas tras la solicitud de remisión del artículo 4.5.
+(25)   Por lo tanto, a la luz de lo anterior, la Comisión considera que en el presente
+       asunto no hay «buenos motivos para descartar la "jurisdicción original"», tal
+       como exige la Comunicación sobre la remisión.
+ IV.   CONCLUSIÓN
+8   Comunicación sobre la remisión, apartado 9.
+9   Comunicación sobre la remisión, apartado 14.
+                                                  6
+
+(26) Por las razones anteriormente expuestas, la Comisión ha decidido desestimar la
+     solicitud de remisión cursada por la Autoridad española de la competencia con
+     arreglo a lo dispuesto en el artículo 22, apartado 3, del Reglamento de
+     concentraciones.
+                                                   Por la Comisión
+                                                     (firmado)
+                                                 Joaquín Almunia
+                                                 Vicepresidente
+                                           7

@@ -1,0 +1,911 @@
+                       EUROPEAN COMMISSION
+                                                                 Brussels, 22/12/2009
+                                                                 SG-Greffe(2009) D/12295
+                                                                 C(2009) 10714
+  In the published version of this decision, some
+  information has been omitted pursuant to Article
+  17(2) of Council Regulation (EC) No 139/2004                             PUBLIC VERSION
+  concerning non-disclosure of business secrets and
+  other confidential information. The omissions are
+  shown thus […]. Where possible the information                       MERGER PROCEDURE
+  omitted has been replaced by ranges of figures or a
+  general description.
+                                                                    ARTICLE 6(1)(b) DECISION
+To the notifying party:
+Dear Sir/Madam,
+Subject:      Case No COMP/M.5728 – Crédit Agricole/ Société Générale Asset
+              Management
+              Notification of 18.11.2009 pursuant to Article 4 of Council Regulation
+              No 139/20041
+1. On the 18th of November 2009, the Commission received a notification of a proposed
+    concentration pursuant to Article 4 of Council Regulation (EC) No 139/2004 (the
+    Merger Regulation) by which the undertaking Crédit Agricole Group ("CAG", France)
+    acquires within the meaning of Article 3(1)(b) of the Merger Regulation control of the
+    majority of activities of the undertaking Société Générale Asset Management ("SGAM",
+    France), as well as the undertaking Etoile Gestion ("EG", France) and 20% of the
+    undertaking The TCW Group, Inc. ("TCW", United States).
+2. After examination of the notification, the Commission has concluded that the notified
+    operation falls within the scope of Council Regulation No 139/2004 and does not raise
+    serious doubts as to its compatibility with the common market and the EEA Agreement.
+1   OJ L 24, 29.1.2004 p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+I.    THE PARTIES
+3. Crédit Agricole Group, the notifying Party, is one of the main banking groups in France.
+    CAG is present across the entire spectrum of banking and finance activities. It has a
+    network of branches worldwide and serves both retail and corporate customers. CAG is
+    present in 70 countries. In the field of asset management, CAG is mainly active through
+    its subsidiaries CAAM Group and BFT Gestion, which offer a wide range of products to
+    retail investors, institutions, corporate accounts and third-party distributors. CAAM
+    Group is active in more than 20 countries worldwide.
+4. Société Générale Asset Management is currently controlled by Société Générale ("SG"),
+    which is a financial services group based in France. SG is active in three key businesses,
+    namely retail banking and financial services, global investment management and
+    services, and corporate and investment banking. SGAM is SG's subsidiary offering
+    several asset management services, namely the creation and management of mutual
+    funds and the provision of portfolio management services.
+5. CAG and SG are collectively termed, for the purposes of this Decision, the “Parties”.
+II.   THE OPERATION
+6. The concentration consists in the acquisition of sole control by CAG of the majority of
+    the European and Asian activities of Société Générale Asset Management2 and a 20%
+    interest in SGAM's asset management subsidiary in the Unites States, the TCW Group
+    Inc. (the target assets are together referred to hereafter as "SGAM"). Excluded from the
+    scope of the acquisition are the non-"traditional" or "alternative" asset management
+    activities of Société Générale Asset Management in Europe3, as well as its asset
+    management businesses in China and Korea and SG's retail distribution network for
+    these products.
+7. The SGAM assets are to be pooled into a holding company4 together with the majority
+    of the asset management business of CAG (the "Holding Company"). CAG will hold
+    75% of the Holding Company and SG the remaining 25%. As minority shareholder, SG
+    will have no veto rights conferring it decisive influence over the Holding Company
+    under the terms of Article 3 of the EC Merger Regulation.
+8. As a result of the transaction, CAG would exercise sole control over the target assets of
+    SGAM. The proposed transaction therefore constitutes a concentration within the
+    meaning of Article 3 (1)(b) of the Merger Regulation.
+The distribution arrangements
+9. Both CAG and SG have also entered into a number of distribution agreements with the
+    Holding Company. The two distribution agreements with SG (hereafter the "SG
+    Distribution Agreements") provide the Holding Company long term, quasi-exclusive
+    access to SG's retail distribution network (including Credit du Nord but excluding its
+2   This will include therefore, for example, Étoile Gestion, currently held by Crédit du Nord.
+3   This excludes, for example, Lyxor Asset Management.
+4   It has been named Amundi Group.
+                                                                                                2
+
+    private banking network)5. The products of the combined undertaking will thus be
+    distributed inter alia through the retail networks of both Crédit Agricole (which includes
+    LCL) and Société Générale.
+10. As regards duration, the distribution agreements will be entered into for an initial period
+    of […] years, renewable for a further […] years. However, the Shareholder Agreement
+    sets out […].
+11. Under the SG Distribution Agreements, SG will undertake to procure asset management
+    products (excluding formula funds) from the holding company for at least […]% of
+    assets under management held by retail distribution clients6, subject to certain
+    obligations and limited exceptions. The exceptions are (i) if the Holding Company is
+    unable to supply a new type of product required by the SG network, but in this case only
+    whilst this inability lasts, i.e., once the Holding Company is in a position to supply it SG
+    will cease marketing such third party products (article 3.1 of both distribution
+    agreements) (ii) if the Holding Company's products do not meet certain performance
+    criteria, and (iii) for formula funds, where SG will maintain production through Lyxor,
+    and where SG distribution network is only obliged to procure its requirements for these
+    products on […].
+12. Whilst the prices for the products distributed through the SG networks will be set by
+    agreement between SG and the Holding Company, the SG Distribution Agreements
+    allow SG, should it so wish, to reduce the amount of the fee components that
+    corresponds to the remuneration of its distribution role (i.e., entry fees, exit fees where
+    applicable, and the portion of the management fees which is transferred to the
+    distributor on an ongoing basis by way of retrocession). These arrangements on fees are
+    described by the notifying Party as a "fundamental principle" of the agreement from
+    SG's perspective.
+Position of the notifying Party on the SG Distribution Agreements
+13. The notifying Party considers that the SG Distribution Agreements do not give CAG
+    control over the SG retail network7. Nonetheless, these agreements are considered by
+    the notifying Party to be a key component of the transaction as it considers access to
+    SG's distribution network to be critical for the success of the transaction, and suggesting
+    that these Agreements should be considered ancillary to the concentration agreements,
+    that is “directly related and necessary to” the transaction in the sense of Article 6(1)(b)
+    of the Merger Regulation.
+14. To support this claim, CAG points to the significance of the SG Distribution
+    Agreements in the overall value of SGAM, reflected in the price paid including the SG
+    ownership interest in the Holding Company.
+15. Equally, CAG indicates that it is "critical" for SG to have "long term" access to a
+    supplier of asset management products following the divestiture of SGAM. CAG also
+    argues that the ongoing relationship with the distribution network of SG provided for in
+    the SG Distribution Agreements goes beyond a typical distribution agreement as it also
+    has certain characteristics of a production outsourcing and specialisation agreement,
+5   Considered to be for clients with net worth above €1 million.
+6   Article 4.1 of both of the SG Distribution Agreements.
+7   Paragraphs 12 and 42 of the notification.
+                                                                                               3
+
+    since SG will "retain the ability to design and distribute exclusive, differentiated asset
+    management products".
+Analysis of the SG Distribution Agreements
+16. The Commission agrees with the notifying party's position that the SG Distribution
+    Agreements do not enable the Holding Company to control the management, resources
+    or commercial policy of SG's retail distribution networks, that therefore the Agreements
+    may not be said to lead to an acquisition of control over the SG retail distribution, and
+    that therefore there is no concentration at the distribution level. It is also clear that the
+    SG Distribution Agreements cannot be considered part of the main object of the
+    concentration, which is the acquisition of sole control by CAG over the production
+    assets of SGAM.
+17. In this context, the Commission observes that the SG Distribution Agreements clearly
+    fall outside the scope of the principles set out in the Commission Notice on restrictions
+    directly related and necessary to concentrations (the “Notice”)8.
+18. The SG Distribution Agreements clearly limit SG's ability and incentive to offer third
+    party asset management products to its retail clients.
+19. Whilst the SG Distribution Agreements may be considered economically related to the
+    concentration as they refer to the retail distribution of the production assets subject to
+    the concentration, the issue as to whether they are strictly necessary in the sense of the
+    Notice in order to ensure continuity of supply for a transitional period needs to be
+    assessed bearing in mind both the scope and duration of the Agreements.
+20. As regards the duration of the SG Distribution Agreements, […] the parties will, in all
+    likelihood, renew the agreements after the initial […] year contractual term for at least a
+    further […] year period. Further evidence of the intention of the parties that these
+    distribution arrangements stay in place for at least a […] year period may be found in a
+    number of internal documents of Crédit Agricole preparing the transaction9.
+21. The notifying Party has not pointed to any exceptional circumstances that may justify
+    such a long duration of the Agreements, […] exceeds the five year maximum period
+    foreseen in the Notice10. Such a period goes clearly beyond any transitory period that
+    might be required either for the replacement of the current relationship of dependency of
+    SG on SGAM's products or for CAG to develop distribution channels for the SGAM
+    products in addition to the SG retail distribution network, which in any case might
+    remain accessible to it on a non-exclusive basis.
+22. Furthermore, the scope of the Agreements is very wide, resulting in their having a quasi-
+    exclusive nature (referred to by CAG in the notification as a “preferred-supplier” status).
+    The […]% purchasing requirement for the SG retail distribution networks has the effect
+    of severely restricting the commercial freedom of SG to sell third party asset
+    management products to its retail customers, as well as similarly substantially
+    foreclosing the SG retail distribution network to such third party suppliers. Indeed, the
+    Notice clearly states at paragraph 34 that purchase and supply obligations providing for
+    "exclusivity or conferring preferred-supplier or preferred-purchaser status, are not
+    necessary to the implementation of the concentration."
+8   OJ C 56, 5.3.2005 p. 24.
+9   […]
+10  Paragraph 33 of the Commission Notice on restrictions directly related and necessary to concentrations cited above.
+                                                                                                                        4
+
+23. In conclusion, the wide scope and long duration of the SG Distribution Agreements
+    mean that they go significantly beyond what would be reasonably necessary to ensure a
+    transitory period of continuity of distribution (for CAG) and supply (for SG) after a
+    break-up of SGAM from the SG group.
+24. Therefore, as provided for in paragraph 7 of the Notice, the SG Distribution Agreements
+    cannot be considered directly related and necessary to the implementation of the
+    concentration and are therefore not covered by this Decision. Consequently such
+    Agreements remain subject to Articles 101 and 102 TFEU (formerly 81 and 82 of the EC
+    Treaty) without prejudice to their compatibility or otherwise with said Articles.
+25. Notwithstanding that the scope of the present Decision does not cover the SG
+    Distribution Agreements, these arrangements nonetheless need to be taken into
+    consideration when assessing the competitive effects of the transaction.
+III. COMMUNITY DIMENSION
+26. Whilst, the Parties’ combined worldwide turnover was approximately EUR 85 billion
+    and each of the parties had a turnover in the EU of more than €250 million in 2008
+    (thereby exceeding the thresholds under Article 1(2)(a) and (b) of the Merger
+    Regulation), the Parties each achieved more than two-thirds of their EU turnover in one
+    and the same Member State, namely France.
+27. As the transaction was capable of being reviewed under the national competition laws of
+    at least three Member States, namely France, [Czech Republic, Ireland and Italy, the
+    Parties requested on May 7th 2009, by means of a reasoned submission pursuant to
+    Article 4(5) of the Merger Regulation, that the concentration be examined by the
+    Commission. As no Member State competent to examine the concentration under its
+    national competition law expressed disagreement as regards the request to refer the case,
+    the concentration was deemed to have a Community dimension.
+IV. COMPETITIVE ASSESSMENT
+28. The Parties have argued in the notification that asset management comprises the creation,
+    establishment and marketing of retail pooled funds ("collective investment schemes") as
+    well as portfolio management services to pension funds, institutions, international
+    organizations and private investors. Collective investment schemes have the characteristic
+    that the client's assets are a share of all those collectively managed by the asset manager,
+    whereas in portfolio management the client delegates to the asset manager the task of
+    making investment choices and performing operational activities in connection with its
+    investment portfolio.
+29. According to the Parties, the differences between the various types of asset management are
+    not sufficient to conclude that they constitute separate markets.
+30. The Commission has in the past left open the question whether the retail and institutional
+    segments of asset management constitute separate product markets.
+31. The market investigation in the present case has, however, shown that, as far as the French
+    market is concerned, a distinction needs to be drawn between asset management for
+    institutional clients (and potentially also for high net worth private clients) and retail
+    collective investment schemes, as the conditions of competition are dissimilar between
+                                                                                               5
+
+    these two segments. Although such a conclusion might be drawn based on a variety of
+    considerations such as the need to build distribution networks and brands, it can in any case
+    be concluded definitively for the purposes of the present case as regards the French market
+    that these constitute separate segments on the basis of the situation of limited access to
+    French retail distribution as further described below, as a result of which supply-side
+    substitution does not exercise a sufficient and timely constraint in the retail segment, and all
+    the more so in the short term11.
+32. The competitive assessment can accordingly be carried out based on the broad separate
+    segments for institutional and retail clients. Within each of these segments certain further
+    distinctions may also be drawn as detailed below.
+A.    Asset Management for Institutional Clients
+Relevant product market
+33. Institutional clients can be defined as entities such as pension funds, banks or insurance
+    companies that purchase asset management products and services, for investment purposes,
+    directly from asset management companies rather than via a non-specialized intermediary
+    such as a retail bank. Such clients use portfolio management services but also may invest
+    directly in collective investment scheme products such as mutual funds. For the purpose of
+    this decision, both portfolio management services and collective investment schemes sold
+    to institutional clients can be considered to form part of an overall product market for asset
+    management for institutional clients.
+34. General corporate clients and in particular SMEs are not considered to be institutional
+    clients in this sense, since they are provided with asset management products and services
+    not directly by the asset management company itself but through general corporate banking
+    networks which act as distributors. Such clients are therefore considered as part of the retail
+    segment and discussed further in section B below.
+35. In recent decisions, the Commission has considered the possibility of further segmenting
+    the institutional asset management market based upon a distinction between active and
+    passive asset management12. Active asset management consists of strategies applied by
+    the investment manager with the goal of outperforming a benchmark, for instance an
+    index, while passive asset management merely seeks to replicate the performance of an
+    index.13 Passive asset management services rely much more on technology and as a
+    consequence normally have lower management fees than active asset management
+    services.14
+36. The transaction at hand primarily concerns the service of active asset management
+    which is the only segment in which the merging parties' activities overlap since SG's
+    Lyxor subsidiary, which is specialized in passive asset management, will remain outside
+    the scope of the planned transaction.
+11  Commission Notice on the definition of the relevant market for the purposes of Community competition law, OJ C372 of 9
+    December 1997, pp. 5ff., paragraph 20.
+12  COMP/M.5580 Blackrock/BGI, para 10, 13; COMP/M.5341 Allianz / Cominvest
+13  COMP/M.5580 Blackrock/BGI.
+14  COMP/M. 5341, Allianz/Cominvest; COMP/M.5580 Blackrock/BGI.
+                                                                                                                         6
+
+37. The notifying Party considers that active asset management and passive asset management
+    are simply different techniques and do not constitute separate markets. Furthermore, this
+    Party argues that active and passive asset management have the same customer base
+    because the same customers procure both actively and passively managed products. Finally,
+    the majority of the providers of asset management services have, in the view of the
+    notifying Party, the skills and the necessary IT equipment to provide both services.
+38. As mentioned above, however, the price level, in terms of entry and management fees,
+    differs significantly between the two segments. Moreover, as the market investigation in
+    previous decisions indicated15, the conditions of competition differ between these two
+    services and, for instance, switching between passive and active asset management does
+    not seem to be easy for the service providers in view of, for instance, the differing skill
+    sets needed, technology requirements and the importance of economies of scale in
+    passive products.16
+39. However, the exact product market definition in this respect can be left open since the
+    concentration does not raise serious doubts as to its compatibility with the common
+    market on any of the alternative market definitions considered.
+Relevant geographic market
+40. Asset management has previously been looked at on the basis of either a national or an
+    EEA-wide or even wider scope. The Commission, however, has not concluded on the
+    geographically relevant asset management market for institutional investors.17
+41. The market investigation in recent cases, as well as in the present case, has provided
+    support for the view of the parties that the market for institutional clients may be wider
+    than national, as these clients are often willing and able to procure asset management
+    products and services beyond their national borders in order to invest.
+42. However, for the purpose of the present decision it is not necessary to conclude on the
+    exact geographic scope of the asset management market for institutional investors
+    because the transaction does not raise serious doubts as to its compatibility with the
+    common market under any alternative market definition.
+Competition assessment
+43. Both Parties are providers of asset management services for institutional clients. According
+    to the notification, they would achieve a combined market share of just below [0-5]% on
+    the overall asset management market for institutional clients if an EEA-wide market was
+    considered and even less (about [0-5]%) on a global scale, in terms of total assets under
+    management ("AuM").18 With respect to France, the Parties submit for 2008 a combined
+15  COMP/M. 5341, Allianz/Cominvest; COMP/M.5580 Blackrock/BGI.
+16  COMP/M.5580 Blackrock/BGI.
+17  COMP/M.5580 Blackrock/BGI; COMP/M.3894 Unicredito/HVB; COMP/M.4844 Fortis/ABN Amro Assets; COMP/M. 5341,
+    Allianz/Cominvest.
+18  Notwithstanding the fact that AUM presents a balance sheet item rather than a flow measure and therefore may not entirely represent
+    the volume of business in any given year, it is used for the purposes of this decision as a practical approximation given that the
+    market situation in France has been relatively stable over recent years and also because of the practical difficulty in establishing asset
+    inflows on a gross annual basis.
+                                                                                                                                            7
+
+    share of about [10-20]%19 of the total assets under management invested in by France-
+    based institutions (€954 billion). This calculation is based on the total volume of AuM in
+    France minus the volume of assets invested in by French private individuals excluding of
+    the captive asset management20, i.e. the assets that are managed intra-group within French
+    financial institutions, as is the case, for instance, of the assets of Prédica, CAG's own
+    insurance company, which are managed by CAAM.
+44. The Parties are the market leaders in France, followed by Natixis, the asset management
+    subsidiary of the Groupe Banques Populaires and Caisses d'Epargne ("BPCE"), Axa, BNP
+    Paribas and the Banque Postale21.
+45. The Parties' market shares according to their own estimates would be higher ([20-30]%) if
+    only the segment of active asset management was considered. However, in view of the
+    market shares and, more importantly, the characteristics of the asset management market
+    for institutional investors, that are described in more detail in the next paragraph, the
+    market investigation confirmed that the concentration was unlikely to significantly impede
+    effective competition on either the overall asset management market or the active asset
+    management segment.
+46. Even if France is considered to be the relevant geographic market, it has to be borne in
+    mind that institutional investors, taking into account their volume of assets under
+    management, have a high degree of bargaining power. Such investors are also well-
+    informed buyers with the ability to benchmark the performance of the merged entity against
+    its competitors. Consequently, institutional investors can not only negotiate fees but also
+    other conditions of the investments and management in question. Furthermore, institutional
+    investors do not depend on retail distributors but have the means to directly access asset
+    managers including non-French service providers. Therefore, should the parties increase
+    fees or lower performance standards following the merger, the market investigation
+    indicated that institutional investors always have the possibility to negotiate better terms
+    with other French suppliers or to look cross-border for alternatives.
+47. In view of the above, it can be concluded that the transaction will not result in serious
+    doubts as to its compatibility with the common market and the EEA Agreement as
+    regards asset management for institutional clients, or any segment thereof.
+B.    Asset Management for Retail Clients
+Relevant product market
+48. Based on the Commission's decisional precedents, the Parties provided, in the notification,
+    separate information on assets under management for retail clients. The Parties nonetheless
+    argued that three further distinctions were not appropriate, namely (i) between mutual funds
+    sold on a standalone basis to private clients and mutual funds sold within a life insurance
+    envelope (assurance-vie en unités de compte, AVUC); (ii) between mutual funds
+    distributed through the general retail network and funds distributed through private
+    banking channels and (iii) between mutual funds sold to private customers on the one
+19  No change in comparison with 2007.
+20  The exclusion of captive production is in line with the Commission's practice when calculating market volume and shares.
+21  Comparative data for all market participants are based on volumes that include captive asset management.
+                                                                                                                             8
+
+    hand and funds sold to corporate retail clients on the other. The market investigation cast,
+    however, considerable doubt on each of these three assertions of the Parties.
+Mutual funds sold within a life insurance envelope
+49. In its decision in case M.5075 Vienna Insurance Group/EBV, looking at the market from
+    the insurance angle, the Commission concluded that, in the context of the Austrian
+    market, and contrary to the arguments brought by the Parties to that case, life insurance
+    products belonged to a separate relevant product market to investment products
+    managed by and sold through banks. In that instance, it was noted that life insurance had
+    in the past been analyzed on the basis of three distinct segments, namely risk products,
+    pension products and investment products. The need to further distinguish in the context
+    of that case between pension and investment products was left open.
+50. In the context of the present case, and concerning the potential distinction between
+    pension and investment products it is concluded that, within life insurance, pension
+    products do not need to be distinguished from investment products since there is no
+    general framework for the use of life insurance for pension purposes in France and that
+    the fiscal advantages linked to investments in life insurance accrue fully after a period of
+    eight years and independent of the absolute age of the policyholder.
+51. Concerning the distinction between life insurance products and other products managed and
+    sold through banks, in the Commission's decision in case M.5075, the conclusion that life
+    insurance products constituted a separate relevant market from products proposed by banks
+    was based on the fiscal treatment of such products, risk coverage elements within them, and
+    partly guaranteed investment incomes22.
+52. In the present case, the Parties pointed to a number of specificities of the French situation
+    which, in their view, would justify coming to other conclusions than in the earlier Austrian
+    case and including life insurance products within the relevant market as regards France.
+    They noted in particular that it was often the same funds that were sold within a life
+    insurance envelope as those sold on a standalone basis (held in ordinary safekeeping
+    accounts, comptes-titres ordinaires, CTO) and those sold through an alternative fiscal
+    envelope known as an equity savings plan (plan d'épargne en actions, PEA). Within
+    either of these envelopes, investors can substitute funds, albeit only amongst those
+    proposed by the asset manager with whom the envelope is held.
+53. The market investigation nonetheless showed that even in the absence of investment
+    guarantees and the consequent absence of any exposure on the part of the insurance
+    company to the event of the death of the policyholder23, AVUC is clearly distinct from the
+    demand side owing to its very different treatment under capital gains and inheritance taxes.
+    The fiscal advantages inherent to AVUC pertain principally to the situation in which the
+    policyholder dies during the lifetime of the investment, in which case the value of the
+    investment is free of inheritance duties up to a threshold of 152.500€, and this regardless of
+    the degree of relationship, if any, to the named beneficiary of the policy24. On the other
+    hand, the fiscal advantages of PEA are greater, and mature earlier, in the event of survival;
+22  M.5075 VIG/EBV, para 28
+23  Whilst such guarantees may on occasion be a part of the insurance contract, it was indicated that frequently AVUC was sold with no
+    guarantee of this type.
+24  Investment duties in France are otherwise progressive in the degree of relatedness to the deceased.
+                                                                                                                                     9
+
+    in the event of death, however, the value of the investment passes into the general estate of
+    the deceased and is subject to general inheritance duties as well as French rules relating to
+    the protection of the financial interests of legal heirs according to which the deceased is
+    limited in his or her ability to dispose of his or her estate by testament.
+54. The market investigation clearly confirmed that, from the demand side, investing in mutual
+    funds through an AVUC policy was not substitutable with the PEA/CTO route, with most
+    competitors considering it a separate market and almost all pointing to its very different
+    fiscal implications.
+55. The Commission nonetheless examined whether the market might be broadened to include
+    AVUC in virtue of supply-side substitution since insurers do, albeit only on a limited to
+    marginal basis, provide non-insurance funds (whilst all the major banks also offer funds
+    with a life insurance envelope).
+56. The market investigation indicated that such a broader definition of the relevant market on
+    the basis of supply-side substitution was not appropriate on the facts of the present case,
+    since insurers could not rapidly enter the PEA/CTO market due to the fact that they are
+    foreclosed access to bank distribution channels and appear not or only marginally to
+    distribute non-insurance funds themselves (except through captive insurance banks like
+    Axa Banque which have a very small banking market share), whereas bank distribution
+    channels constitute of the order of 90% of all mass market distribution of mutual funds
+    in France outside of those sold under insurance envelopes.
+57. The inclusion of otherwise of AVUC within the retail mutual fund market in France can
+    nonetheless be left open for the purposes of the present case since, notwithstanding the
+    somewhat stronger position of the Parties on a market defined to exclude AVUC, serious
+    doubts do not arise as to the compatibility of the notified transaction with the common
+    market on either alternative market definition.
+Money market funds
+58. Although they may be constituted with the legal form of a mutual fund (that is, as a unit
+    trust or as an incorporated fund), money market funds constitute relatively short-term
+    investment vehicles and are largely used by investors for optimizing working capital, i.e. for
+    cash management purposes as they are short-term, low volatility and low risk investment
+    instruments.
+59. The Parties have recognized that the vast majority of sales of mutual funds to retail
+    corporate customers consists of money market funds and also that only a minority of
+    individual investors purchase money market funds25. The possible recognition of a separate
+    market for money market funds therefore essentially coincides with all mutual funds sold,
+    through the retail banking network, to corporate investors and a subset of those sold to
+    individual investors.
+60. The Parties themselves recognized, in the course of the procedure, that money market
+    funds were arguably more closely related in competition terms to other instant-access
+25  According to the Parties approximately only 25% of individual clients purchasing mutual funds purchase money market funds,
+    although the Banque de France has a somewhat higher estimate of around one-third in terms of AuM, excluding AVUC.
+                                                                                                                           10
+
+    and short term savings instruments such as savings accounts and treasury bonds than
+    they were to other types of mutual fund.
+61. It would also appear for this reason that money market funds rarely if ever enter into the
+    composition of investments held within one of the fiscal envelopes, either AVUC or
+    PEA.
+62. Notwithstanding the fact that French investors hold significant amounts in money
+    market funds and that some of these funds are held for investment periods exceeding
+    one year, the market investigation nonetheless overwhelmingly confirmed that money
+    market funds should be considered in a separate market due to the fact that they address
+    very different investment needs. In this regard, the duration of holdings in money-
+    market funds viewed ex-post is of less relevance than the lack, ex-ante, on the part of
+    the investor, of an investment horizon for the corresponding assets sufficient to justify
+    their investment in mutual funds carrying a longer-term return profile and more
+    significant entry costs. Money market funds therefore constitute instruments used for the
+    management by investors of more liquid assets.
+63. From the supply side, it may also be noted that the range of providers of money market
+    funds is smaller than of other mutual funds owing to the fact that insurers and boutique
+    fund managers are present only to a very limited extent in the market and could not
+    easily enter it with a competitive offering.
+64. It can be concluded that money market funds should be considered to fall within a
+    separate relevant market from other mutual funds.
+65. The further definition of the relevant market for money market funds should be
+    considered on the basis of two possible segmentations, namely (i) between such funds
+    sold to corporate investors and such funds sold to retail investors and (ii) between
+    money market funds and other short-term savings instruments.
+66. As regards a distinction between private and corporate customers, it can be observed
+    that the Commission has in the past systematically made a general distinction between
+    retail and corporate banking for merger control purposes26. It can accordingly be
+    assumed as a starting point for analysis that from the demand and distribution
+    perspective these constitute separate segments, even if from a production standpoint
+    they are similar.
+67. As regards the possible inclusion of other savings instruments within the relevant
+    market, it can be observed that, as regards the present case, such alternative products
+    will continue to be distributed by Société Generale in full autonomy as they are not
+    affected by the current transaction and therefore, to the extent that they were deemed to
+    fall within the relevant market, the competitive assessment would necessarily result in a
+    lower level of potential concerns as a result of the transaction than if a market for money
+    market funds alone were identified. Accordingly, the competitive analysis below may be
+    based on the segment of money market funds alone since, even on this basis, the notified
+    transaction does not give rise to serious doubts as to its compatibility with the common
+    market.
+26  See case COMP/M.4844 Fortis/ABN AMRO Assets, paragraph 12 and cases cited there.
+                                                                                             11
+
+Closed funds and funds sold through private banking channels
+68. The notified transaction also raises the question of the inclusion or otherwise in the
+    relevant retail market for mutual funds of closed funds and funds sold through private
+    banking channels.
+69. Closed funds are funds which, although they may be held by private individuals, are
+    tailor-made for a small group of investors and not distributed through retail channels27.
+    Such funds are not open to the subscription of new capital by persons unknown to the
+    nominative shareholders. Owing to the amounts involved and the specific terms of the
+    mandate, such funds are more closely related to institutional funds, and their distribution
+    is dissimilar from mass market retail funds as a result of which the arguments relating to
+    a lack of supply-side substitutability may not apply.
+70. It may also be noted that the private banking clients of Société Générale are anyway
+    outside the scope of exclusivity of the SG Distribution Agreements, such clients having
+    access to private banking services from a threshold of […] in assets under management.
+    Accordingly, no concentration occurs as a result of the notified transaction in regard to
+    this segment of the market.
+71. In previous decisions, the Commission has tended towards recognizing the existence of
+    a distinct market for private banking, without, however, concluding on the matter. Thus
+    at paragraph 36 of the Commission's Decision in case M.4844 Fortis/ABN AMRO
+    Assets, a clear distinction is drawn between "mass market retail products" and those
+    distributed through private banking channels28. Nonetheless, the motivation in terms of
+    the market definition has been on the added value services provided by private banking
+    rather than a distribution view.
+72. In the present case, the Parties point out that there is no single threshold at which
+    individuals have access to private banking, which varies according to the commercial
+    policy of each bank. There is similarly no universal definition of the scope of private
+    banking services. The Parties argue that in France there has been a trend towards
+    broader access to private banking in recent years.
+73. It nonetheless remains the case that there is clearly a very large group of individuals
+    ("mass market") which has no access to private banking channels and is therefore unable
+    to prevail of the commercial conditions for mutual funds offered through such channels.
+    For this reason it is appropriate to consider the effects of the concentration on the mass
+    market segment separately.
+74. Whilst the Parties both have their own private banking subsidiaries, this is not the case
+    for a number of their retail banking competitors, with only BNP Paribas significantly
+    positioned on this channel.
+75. For this reason, it can be concluded that the exclusion of private banking distribution
+    from the overall market, at whatever threshold such services were defined, would not
+    result in a higher market share for the Parties.
+27  This is not the same as so-called "closed-end funds", which are in any case a minor phenomenon in the French retail market (outside
+    of real estate funds).
+28  See also COMP/M.5341 Allianz/Cominvest at footnote 7
+                                                                                                                                    12
+
+76. Moreover, in relation to mass market distribution, as already pointed out, the
+    predominance of the banking channel and of captive distribution whereby each major
+    bank distributes almost exclusively the asset management products of its affiliate asset
+    management company makes it unnecessary to make a distinction, as regards the mass
+    market, between production and distribution, with only a competitive fringe of third
+    party independent distributors29. In regards to this fringe, the notified transaction is
+    without relevant competitive effect, such that it is unnecessary to determine whether
+    distribution through private banking channels constitutes a separate market within the
+    mutual fund segment or whether it is to be considered together with other third party
+    distributors to which private banking customers also have access.
+77. It follows that the question of whether or not the relevant market in the present case
+    should be restricted to exclude distribution through private banking channels can be left
+    open since, regardless of the market definition adopted, the notified transaction does not
+    give rise to serious doubts as to its compatibility with the common market.
+Workplace savings schemes
+78. One specificity of the French market is the existence of so-called Fonds Communs de
+    Placement d' [Entreprise] ("FCPE") which are workplace savings schemes under which
+    mutual funds are distributed to final individual customers via their employer. They
+    constitute a (discretionary) component of the remuneration of employees who obtain
+    fiscal advantages for this investment. The final customer is thus the employee although the
+    choice of the provider of such mutual funds is made by the employer.
+79. FCPEs constitute a significant part of the total assets under management held by private
+    households and may be considered to form part of the retirement planning provisions of
+    the individuals concerned, although in common with other French retail investment
+    envelopes their fiscal benefits mature over a relatively limited period of time and
+    typically well in advance of statutory retirement.
+80. The market investigation indicated that once such a fund had been selected by an
+    individual's employer, the fiscal incentive to invest the relevant revenues in it was such
+    as to exclude, in the vast majority of cases, consideration of alternative investment
+    vehicles. Moreover, such funds are not distributed through the same channels as other
+    retail funds but rather the employer constitutes, in a sense, the channel of distribution.
+    Even if such funds are ultimately held by private individuals, the relevant commercial
+    relationship appears to be between the asset manager and the employer30.
+81. FCPEs, therefore, are mutual fund envelopes that combine elements of retail and corporate
+    distribution. This raises the question of whether FCPEs should be analysed as a separate
+    product market. Finally, however, this question can be left open since, regardless of the
+    market definition, the concentration does not raise serious doubts as to its compatibility
+    with the common market.
+Conclusions on the relevant market definition
+29  This is also acknowledged by the Parties at paragraph 102 of the notification where they deem a separation between production and
+    distribution to be "artificial" in the context of the transaction at hand.
+30  This does not exclude the possibility that employees are collectively involved, through their representative bodies, in the selection of
+    the asset managers to be retained for workplace savings schemes.
+                                                                                                                                         13
+
+82. In conclusion, a market can be identified for open retail mutual funds sold to private
+    customers, excluding money market funds and workplace savings schemes (FCPE). The
+    question of whether or not to include funds sold under a life insurance envelope and
+    funds (other than closed funds) sold through private banking channels within this market
+    can be left open.
+83. The notified transaction also needs to be assessed in regard to its impact on the market
+    for money market funds sold respectively to corporate and private customers through
+    retail banking networks. It nonetheless can be left open whether or not this market
+    includes other savings products offered by banks.
+Relevant geographic market
+84. Due to the importance of distribution in the market definition, the market for retail
+    mutual funds as well as for money market funds inherits the geographic scope of the
+    retail banking market and is therefore national in scope31. This approach is accepted by
+    the Parties32.
+Competition assessment
+(a) Retail mutual funds
+85. In regard to retail mutual funds, the French market is characterized by predominance of
+    the banking channel, which currently still accounts for at least 90% of distribution if
+    funds distributed under an insurance envelope are excluded. This has been fully
+    confirmed by the market investigation and is in contrast to some other Member States
+    where distribution through independent financial advisors and through on-line platforms
+    has achieved a higher share of the overall market and in certain cases an open
+    distribution architecture is mandated by law.
+86. In addition to this, the five large French retail banks all (prior to the transaction) have
+    their own asset management subsidiary and distribute almost exclusively products of
+    this subsidiary. In the case of the Parties this figure is around […]% for both CAG and
+    SG.
+87. Subsequent to the transaction, it is intended by the Parties that SG should still distribute
+    a similar proportion of products of the merged entity. It is accordingly appropriate to
+    consider that the vertically integrated model will, to all extents and purposes, persist
+    following the merger albeit by means of contractual rather than ownership relations, as
+    CAG will not acquire control over the SG retail distribution network.
+88. On this basis, the Commission is called upon to assess the limit scenario which is that
+    market position of the combined production entity post-merger will correspond to the
+    combined market shares of each entity pre-merger, on the assumption that the access of
+    products of the merged entity to the distribution network of SG will be, or is at least
+    intended by the Parties to be, essentially similar to that which prevailed when SGAM
+    was part of SG.
+31  See for instance case COMP/M.5363 Santander/Bradford and Bingley Assets at paragraph 17 and a number of earlier precedents.
+32  Paragraph 105 of the notification.
+                                                                                                                                14
+
+89. This notwithstanding, it should be recognized that the notified transaction does not
+    entail a complete merger at the distribution level. Insofar as the distribution level retains
+    autonomy to set prices in relation to the distribution margin, and as explained earlier
+    (see recital 12 above), the transaction does not entail a harmonization of practices in this
+    regard.
+Market shares
+90. In the notification, the Parties provided a combined market share of [20-30]% including
+    life insurance funds (AVUC), and [30-40]% excluding such funds33. This market share
+    was based on data collected by the Banque de France (the French central bank) for its
+    "Protide" database34.
+91. The Protide database (second and third column in the table below) makes a distinction
+    between money market and other funds and accordingly the Parties' data can be cited
+    from this source with this distinction included. However, the Protide database does
+    include closed funds as well as funds sold through private banking channels.
+92. The Commission's own market investigation based on the replies of competitors
+    provided a best estimate of the combined share of the Parties of slightly under [30-40]%
+    with or without AVUC included (first two columns, confidential information obtained
+    by the Commission during the market investigation has been replaced by ranges):
+33  This is also excludes SCPIs which are colletive investiment vehicles investing in real estate.
+34  Owing to concerns relating to confidentiality, the Commission was unable to obtain from the Banque de France figures for
+    competitors on an identifiable basis.
+                                                                                                                         15
+
+Table: Market shares of main players in the various possible segments at 31 December
+2008
+                 With AVUC            Standalone             Protide data          Protide and FFSA
+ CAG                  […]    [20-30]%       […]    [20-30]%       […]    [20-30]%      […]     [10-20]%
+ SGAM                 […]    [10-20]%       […]      [5-10]%      […]      [0-10]%     […]       [0-10]%
+ Combined             […]    [30-40]%       […]    [30-40]%      […]     [30-40]%      […]     [20-30]%
+ Axa                             0-5%                   0-5%
+ Natixis
+ (BPCE)                         5-10%                  5-10%
+ BNPP                          20-30%                10-20%
+ Poste                          5-10%                  5-10%
+ HSBC                            0-5%                   0-5%
+ Groupama                        0-5%                   0-5%
+ Dexia                           0-5%                   0-5%
+ Allianz                         0-5%                   0-5%
+ CM                             5-10%                  5-10%
+ Others                         5-10%                10-20%
+ SG Lyxor                        0-5%                   0-5%
+ Total                […]      100,0%       […]      100,0%      […]                   […]
+Note: The first two columns on the left regards data obtained from the market investigation and include
+SCPIs, and exclude in both cases both closed funds and money market funds. The third column refers to
+Protide database Secteur 14 data that refers to standalone funds held by individuals, without SCPIs and
+AVUCs. The last column includes AVUCs (source: French insurance association FFSA) to the Protide data.
+93. SCPIs (real estate mutual funds) are not included in the Protide database. The figures in
+      the market investigation do however include these funds. These are funds that are
+      subject to different rules and tax regimes and are regulated by the Institut de l'Epargne
+      Immobilière et Foncière, which also collects data on these funds. Ultimately it may be
+      left open whether to include such funds, as on the one hand, the AuM held in such funds
+      are marginal (less than 10% of the Protide database figures in the table above), and on
+      the other the Parties' hold significantly less AuM in this segment relative to mutual
+      funds in the strict sense.
+94. Should money market funds be included, the market share picture would not change
+      substantially and the competitive assessment would remain identical. The same applies
+      to considering money market funds separately, and even considering only retail
+      individual customers for money market funds, where the Parties' market shares would be
+      significantly lower.
+95. The overall picture which emerges from the transaction is, accordingly, a concentration
+      from five to four main players on the French retail mutual fund market with the prospect
+      for the consumer of a corresponding reduction in choice, even if the Parties have argued
+      that any such reduction (if they were to concede it) would be offset by efficiencies
+      resulting from the concentration. In this context, the Parties' banking reach is extensive,
+      with around 35 million customers, i.e. well over half the French bankable population
+      already having accounts with one or other of the Parties.
+96. The Commission received in the course of the investigation a number of representations
+      by third party fund managers regarding the difficulty of access to the French mass
+      market, a difficulty they feared would only be accentuated as a result of the transaction.
+97. Whilst there remains a competitive fringe made up of funds distributed through fund
+      supermarkets, direct banks and independent financial advisors, most of which funds
+                                                                                                       16
+
+    appear to do considerably better in terms of ranking by third-party organizations than
+    the funds of the Parties themselves, there remains in the market considerable uncertainty
+    as to the capacity of these alternative distribution channels to expand their market share
+    and thereby serve to increase the presence and brand recognition on the market of funds
+    produced by other entities than the main five, and post-merger four, asset management
+    subsidiaries of the major banks.
+98. It appears that the penetration of these smaller players is also impeded by the
+    importance of brand to the choice of the retail investor. The market investigation
+    showed almost unanimously – hereby directly contradicting the claims of the Parties –
+    that brand was a important factor in investor choice and also that the distributor's brand
+    was as important as that of the producer. The Parties have strong brands in both
+    production and distribution, particularly suited (or at least perceived to be particularly
+    suited) to the core investment needs of middle market and mass wealthy investors in
+    relation to retirement planning and other capital building needs
+99. There are nonetheless fewer barriers to expansion of the established players, namely
+    BPCE (Natixis), La Banque Postale and BNP Paribas, all of which have an important
+    retail footprint and significant share of voice, and may therefore compete for the
+    investment needs of the Parties' clients.
+100. Insofar as competition is partly based on investment returns, insurer-branded and
+    independent funds constitute at least a benchmark competitive constraint. The Parties'
+    funds do not seem to be the closest competitors in terms of performance expressed in
+    public rankings which the Commission was able to verify during its market
+    investigation; however, the nature of competition in the industry could not be fully
+    verified and may equally be on other variables such as price (entry/exit/management
+    fees), perceived security, flexibility, scope of fund offering, trading facilities etc.
+101. In relation to the variable of price, it can be observed that the reference entry and
+    management fees will be established by the merged entity and SG for the SG
+    distribution retail network. The entry price serves fully to remunerate the distributor and
+    according to the Parties may be discounted by the latter depending on its commercial
+    policy, so that competition could still exist on the distribution margin component of
+    price.
+102. Distributors also perceive ongoing commissions representing a fraction of the
+    management fee, on a basis which varies between the Parties but is typically on average
+    more than half (and varies in function of the value of the assets under management in
+    the fund, requiring therefore a non-trivial calculation to be performed). The amount of
+    these commissions is subject in the present case, […].
+103. In regard to such management commissions, the Parties also retain different
+    commercial conditions and they may forego a part of such commissions if they deem
+    this desirable in order to increase sales.
+104. Given that the combined market share of the Parties remains under [30-40]%, the
+    existence of three remaining competitor retail banks in France and of the fringe
+    competitors (insurers and fund supermarkets), the fact that the merger does not include
+    SG's retail distribution network and that the latter retains the possibility to compete on
+    price, the Commission has therefore come, on balance, to the conclusion that the
+                                                                                              17
+
+    transaction does not raise serious doubts as to its compatibility with the common
+    market.
+105. An important element in the Commission's conclusions is constituted by the
+    consideration that the distribution agreement entered into by the Parties, the precise
+    effects of which have been difficult for the Commission to determine, is in any case, as
+    set out above, not a necessary part of the transaction in the sense of the ECMR and
+    therefore falls outside the scope of the Commission's assessment under the ECMR and
+    of the present clearance decision pursuant to article 6(1)(b) thereof. Accordingly, the
+    question of the compatibility or otherwise of the said agreement with Article 101 TFEU
+    remains open.
+106. Potential coordinated effects in this market in relation to fund subscription and/or
+    management fees were not raised in the market investigation. The evidence available to
+    the Commission also provided no indications of a potential concern in this regard, since
+    a wide range in the pricing of ostensibly similar funds could be observed.
+(b) FCPEs
+107. If FCPEs, i.e. French workplace savings, were considered to form part of the market
+    of retail mutual funds, the above presented competition assessment would not change. In
+    such a scenario, according to the Commission's own market investigation, the parties
+    would achieve a slightly higher market share ([30-40]%) which, however, still remains
+    moderate. More importantly, the other factors discussed above also apply to a market
+    which includes FCPEs.
+108. The picture changes if FCPEs are analysed separately. First, according to the
+    Commission's own investigation, the combined market shares of the parties on the FCPE
+    market segment are somewhat higher (40-45%). Secondly, according to the
+    Commission's information FCPEs are almost exclusively provided by the large French
+    banks, whereas other financial service providers and non-domestic banks do not seem to
+    be active in this segment and smaller French banks only to a very limited extent.
+109. This market structure may perhaps be explained by the consideration that employers –
+    in cooperation with employees and their representatives - as the direct customers of the
+    fiscally advantageous FCPEs, buy these funds from the larger banks that offer these specific
+    asset management services as part of their overall corporate banking activities.
+110. Notwithstanding the somewhat higher combined market share, it needs to be considered
+    that many employers are responsible for making decisions on the investment of relatively
+    large volumes of assets, as a result of which they can be presumed to have a degree of
+    bargaining power. Employers are also better informed buyers than individual retail clients
+    which enables them better to compare the performance of competitors. Even though it is not
+    clear whether the market is effectively open to providers outside France due to the specific
+    fiscal treatment of FCPEs, French corporate clients can negotiate fees and other contractual
+    terms and also switch, in case of an under-performance of their asset manager, to
+    competitors.
+111. It can therefore be conclude that the notified transaction does not raise serious doubts as
+    to its compatibility with the common market on a hypothetical French market for workplace
+    savings schemes.
+                                                                                              18
+
+C.   Vertical relationships
+112. CAG is active, through its subsidiary CACEIS, on two markets that are vertically
+   related to asset management, namely custody services and fund administration.
+113. In addition, CAG has joint control, together with BNPP, over Fund Channel, a
+   logistic platform for the distribution of mutual funds vertically linked to the Parties'
+   asset management and mutual fund distribution activities.
+Relevant product market
+Custody services
+114. Custody services comprise the settlement, safekeeping and reporting of customers’
+   marketable securities. In previous cases the Commission has indicated that a market for
+   custody services within the asset management segment might be considered, and has left
+   open the question of whether custody services could be further subdivided into (i) global
+   custody services to investment institutions and (ii) domestic or local custody services,
+   and within this segment (a) institutional custody services, (b) sub-custody services35 and
+   (c) retail custody services.36
+115. The precise market definition can be left open in this case as it does not affect the
+   conclusions of the competitive assessment of the transaction with regard to vertical links.
+Fund administration
+116. Fund administration services include the accounting and analysis of the performance
+   of portfolios of financial instruments. In previous cases the Commission has considered
+   this activity to be one market.37
+117. The precise market definition can be left open in this case as it does not affect the
+   conclusions of the competitive assessment of the transaction with regard to vertical
+   links.
+Logistic platforms for the distribution of mutual funds
+118. Asset managers can distribute mutual funds through the networks of their own
+   group, through bilateral distribution agreements or through distribution platforms such
+   as Fund Channel. Distribution platforms are intermediaries between asset managers and
+   distributors of mutual funds.
+119. The services rendered by distribution platforms such as Fund Channel are the
+   calculation, collection and payment of distribution commissions and the management of
+   the contractual relationship between asset managers and the distributors. As mentioned
+   above, the calculation of the retrocession component of the management fee due to
+   distributors according to French market practice is relatively complex, since it requires,
+   inter alia, recalculation of the value of assets under management in the various funds
+35 M.3781 Crédit Agricole / Caísse d' Epargne / JV, recitals 11 and 20.
+36 M.5384 BNP Paribas / Fortis, recital 60, or M.4844 Fortis / ABN AMRO Assets, recital 69.
+37 M. 3781 Crédit Agricole / Caísse d' Epargne / JV, recital 21.
+                                                                                            19
+
+   sold by a given distributor to clients on a regular basis in order to determine the due
+   which is typically calculated on an ad valorem basis.
+120. The Commission examined the possible existence of a product market for logistic
+   platforms for the distribution of mutual funds in case COMP/M.5517 BNPPIP / CAAM /
+   Fund Channel38 but ultimately left the market definition open and decided the case in
+   simplified procedure.
+121. The precise market definition can also be left open in this case as it does not affect
+   the conclusions of the competitive assessment of the transaction with regard to vertical
+   links.
+Relevant geographic market
+Custody services
+122. The Commission has in previous cases left open whether the exact geographic scope
+   for the provision of custodian services is global, European-wide or national.39
+123. The precise market definition can also be left open in this case as it does not affect
+   the conclusions of the competitive assessment of the transaction with regard to vertical
+   links.
+Fund administration
+124. The Commission has in previous cases considered and left open whether the
+   geographic market of fund administration is worldwide or national in scope.40
+125. The precise market definition can also be left open in this case as it does not affect
+   the conclusions of the competitive assessment of the transaction with regard to vertical
+   links.
+Logistic platforms for the distribution of mutual funds
+126. In BNPPIP / CAAM / Fund Channel the notifying party submitted that the relevant
+   geographic market should be considered to be EEA-wide. The notifying party argued
+   that distribution platforms play an interface role between asset managers and mutual
+   fund distributors and that both of these operators act on a European level. The
+   Commission left the market definition open.
+127. The precise market definition can also be left open in this case as it does not affect
+   the conclusions of the competitive assessment of the transaction with regard to vertical
+   links.
+38 M.5517 BNPPIP / CAAM / Fund Channel.
+39 M. 3781 Crédit Agricole / Caísse d' Epargne / JV.
+40 M. 3781 Crédit Agricole / Caísse d' Epargne / JV, recital 22.
+                                                                                         20
+
+ Competition assessment
+128. The transaction does not give rise to any vertically affected markets for custody and
+   fund administration services if the relevant geographic markets are considered to be
+   global or EEA-wide in scope.
+129. Vertically affected markets for custody and fund administration services would only
+   arise in France if the relevant geographic markets were considered to be national in
+   scope. In that case, CAG’s market shares in custody and fund administration services
+   would be around [20-30]%.
+130. However, the market investigation has not uncovered any significant concerns
+   relating to input or customer foreclosure as a result of the vertical link between the
+   custody and fund administration services provided by CAG (through CACEIS) and the
+   asset management activities to be provided by the merged entity following the
+   transaction.
+131. In addition, according to the Securities Services Agreement concluded between
+   CAG and SG as part of the transaction (Accord Relatif aux Métiers Titres),41 […]. In
+   this way, the transaction will not lead to a change in demand for fund administration and
+   custody services by SGAM, once it has been combined with the CAAM Group in the
+   Holding Company, to CAG in the provision of such services by CACEIS.
+132. With regard to the distribution platform Fund Channel, vertically affected markets
+   arise in France given the Parties' significant market shares on the asset management and
+   fund distribution markets. This may also be the case in virtue of the role played by Fund
+   Channel in the distribution of French retail mutual funds and hence its market share on a
+   hypothetical French market, although reliable estimates hereof were not available to the
+   Commission in the course of the procedure.
+133. During the market investigation a few competitors expressed concerns that, as a
+   result of the concentration, the Holding Company as well as a strong competitor, BNP
+   Paribas, will be linked to the Fund Channel distribution platform thereby enjoying a
+   strong negotiation position in their dealings with third party asset managers;
+   consequently there was a concern that Fund Channel will have access to two of the
+   largest asset managers and that the different commissions currently applied to asset
+   managers might be subject to a uniform increase.
+134. However, the notifying Party has submitted a number of arguments as to why the
+   vertical link between the Parties and Fund Channel in the asset management and
+   distribution markets should not raise serious competition concerns. Firstly, Fund
+   Channel is only a logistic platform not involved in selecting the funds to be distributed
+   by distributors or in the decision by the asset manager as to which of its funds should be
+   distributed with the services of Fund Channel. Also, Fund Channel’s clients, that is,
+   distributors, are free to choose the extent to which they use Fund Channel’s services for
+   any or all of the third party funds that they distribute. Further, the use of Fund Channel
+   by asset managers and distributors is non-exclusive and voluntary. Likewise, Fund
+   Channel does not entirely replace the commercial relationship between its clients and
+   asset managers: although asset managers contract directly with Fund Channel rather
+41 Article 1.
+                                                                                           21
+
+   than with the distributors to administer the payment of commissions, the commercial
+   relationship remains between the asset manager and the relevant distributors. Finally,
+   Fund Channel does not currently give any preferential rights or treatment to either CAG
+   or BNPP, treating its parents in the same way as any of its other customers.
+135. On the basis of these arguments, which also underpinned the Commission's
+   clearance decision in case COMP/M.5517, the Commission is satisfied that Fund
+   Channel will operate and continue to operate in the future as a neutral distribution
+   platform as indicated by the notifying Party, therefore without any impact on
+   competition at the fund management or distribution level.
+V.   CONCLUSION
+136. For the above reasons, the Commission has decided not to oppose the notified operation
+   and to declare it compatible with the common market and with the EEA Agreement. This
+   decision is adopted in application of Article 6(1)(b) of Council Regulation (EC) No
+   139/2004.
+                                                    For the Commission
+                                                    (signed)
+                                                    Neelie KROES
+                                                    Member of the Commission
+                                                                                         22

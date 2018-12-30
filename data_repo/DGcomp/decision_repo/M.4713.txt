@@ -1,0 +1,165 @@
+                        COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 27.09.2007
+                                                                 SG-Greffe(2007) D/205768
+   In the published version of this decision, some                       PUBLIC VERSION
+   information has been omitted pursuant to Article
+   17(2) of Council Regulation (EC) No 139/2004
+   concerning non-disclosure of business secrets and
+   other confidential information. The omissions are
+   shown thus […]. Where possible the information
+   omitted has been replaced by ranges of figures or a
+                                                                      MERGER PROCEDURE
+   general description.                                            ARTICLE 6(1)(b) DECISION
+To the notifying party:
+Dear Sirs,
+Subject:        Case No COMP/M.4713 – Aviva/Hamilton
+                Notification of 23/08/2007pursuant to Article 4 of Council Regulation
+                No 139/20041
+1. On 23 August 2007, the Commission received a notification of a proposed concentration
+      pursuant to Article 4 of Council Regulation (EC) No 139/2004 ("Merger Regulation")
+      by which the undertaking Aviva Plc ("Aviva", UK) acquires within the meaning of
+      Article 3(1)(b) of the Council Regulation control of the whole of the undertakings
+      Hamilton Insurance Company Limited ("Hamilton General", UK) and Hamilton Life
+      Assurance Company Limited ("Hamilton Life", UK; Hamilton General and Hamilton
+      Life together: "Hamilton") by way of purchase of shares.
+I.      THE PARTIES
+2. Aviva, together with its subsidiaries, is active in the transacting of general insurance (non-
+      life insurance) and life assurance business. Other core businesses are long term savings and
+      fund management. It has activities in the UK, Ireland, continental Europe and elsewhere
+      around the world. The Aviva group also invests in securities, properties, mortgages and
+      loans and carries on a property trading business. Its UK insurance business is conducted
+      under the Norwich Union umbrella. Aviva's insurance activities in Ireland are conducted
+      through its Hibernian business.
+3. The principal activity of Hamilton Life is the underwriting of life assurance business in
+      the United Kingdom.
+1     OJ L 24, 29.1.2004 p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+4. Hamilton General principally underwrites accident and health, property and general
+    insurance business.
+II.   THE OPERATION AND THE CONCENTRATION
+5. The proposed transaction concerns the acquisition of sole control of Hamilton General
+    and Hamilton Life by Aviva and will be effected by a share purchase agreement.
+6. The acquisition takes place within the broader commercial context of an arrangement
+    between Aviva and HSBC that will result in their forming a joint venture company for
+    the marketing of HSBC branded insurance products (home and motor insurance and
+    associated “add-on” products) within HSBC’s network. This transaction is not part of
+    the proposed concentration.
+7. There will be a reinsurance arrangement between Aviva and HSBC whereby Aviva
+    group entities will, pursuant to commercial arrangements, reinsure with HSBC certain
+    risks underwritten by Hamilton General. This reinsurance arrangement is not part of the
+    proposed transaction either.
+III. COMMUNITY DIMENSION
+8. The transaction has a Community dimension pursuant to Article 1(2) of the Merger
+    Regulation. The parties have a combined aggregate worldwide turnover in excess of €
+    5,000 million (Aviva € 42,149 million, Hamilton € […] million), and at least two have a
+    Community-wide turnover in excess of € 250 million (Aviva € […] million, Hamilton €
+    […] million). Only Hamilton achieves more than two thirds of their Community-wide
+    turnover in one member state (in the UK).
+IV. RELEVANT MARKETS
+9. The Transaction concerns the provision of life and non-life insurance services in the UK
+    and Ireland. In previous decisions, the Commission has distinguished between the
+    provision of insurance products into non-life/general insurance, life assurance and
+    reinsurance. The present market investigation has also confirmed the division between
+    life assurance and non-life insurance. Although the Commission has not definitively
+    concluded on the matter, it has suggested that life and non-life insurance, can be divided
+    into as many product markets as there are different kinds of risks covered.
+10. The Commission has in a number of decisions acknowledged that there is a degree of
+    supply side substitutability in the non-life insurance segment, as certain insurance
+    products require a common set of skills and resources including risk management,
+    administration, IT systems and technology2. From a supply side perspective the
+    conditions for insurance of different types of risks are similar and most large insurance
+    companies are active in multiple risk types. However, there may be a difference as
+    regards the underwriting of different insurances. This suggests that there is some supply
+    side substitutability between the different segments of non-life insurance therefore many
+    different types of non-life insurance could be included in the same product market3.
+11. This substitutability does not exist from the customer’s perspective (demand side) and
+    the market could potentially be divided into as many products as there are different
+2   See Case No IV/M.1142 – Commercial Union/General Accident.
+3   Case No COMP/M.3035 – Berkshire Hathaway Converium/Gaum/JV; Case No COMP – M.2676
+    Sampo/Varma Sampo/If Holding/JV; Case No IV/M.1142 – Commercial Union/General Accident.
+                                                   2
+
+    risks4. From the demand side, the Commission has considered that there is limited
+    substitution for the insured between the different categories of policy offered5. The
+    market investigation in this case has confirmed this approach; however this question can
+    be left open as no competition concerns arise whichever definition is applied.
+12. As regards life assurance, the Commission has found that life assurance products can in
+    principle be divided into as many product markets as there are different kinds of risks
+    covered6. Their characteristics, premiums and purposes are distinct and there is typically
+    no substitutability for the consumer between the different risks insured7. As such the
+    Commission has looked at the various segments of the life assurance market, including
+    life assurance policies, investment policies and pensions. The Commission has not
+    found it necessary however to determine conclusively whether the market should be
+    subdivided accordingly. The exact product market definition can also be left open in this
+    case due to the fact that the proposed concentration does not raise competition concerns
+    in any alternative product market definition.
+13. In past decisions8, whilst recognising that insurance markets are becoming more open to
+    intra-Community competition, the Commission has held that the markets for non-life
+    insurance and life assurance products are generally national in scope due to the national
+    distribution channels, the established market structures, fiscal constraints and differing
+    regulatory systems9. Differences in regulatory regimes and legal obligations mean that
+    the conditions of competition are normally appreciably different in the various Member
+    States. In addition, basic terms and conditions of the policies are determined on a
+    national level and competition normally takes place on a nation-wide basis, with
+    national advertising and increasingly centralised sales functions. The market
+    investigation has confirmed that most market participants consider the relevant
+    geographic market as national in scope. However, the definition of the relevant
+    geographic market can be left open as the proposed transaction would not lead to
+    concerns irrespective of market definition.
+V.    COMPETITIVE ASSESSMENT
+14. The parties to the proposed transaction are active in a number of non-life insurance
+    areas as well as life assurance.
+15. As such, the proposed transaction leads to overlaps and affected markets only for the
+    parties' activities in Ireland and the United Kingdom. However, according to the
+    information received from the parties, the aggregate market shares of Aviva and
+    Hamilton do not exceed [17-22] % in any of the possible hypothetical product markets
+    at national level. Furthermore, the maximum increment is less than [1-5] % on any
+    alternative market definition. The market investigation broadly confirmed these figures.
+4   Case No COMP/M.759 – Sun Alliance/Royal Insurance and Case No COMP/M.862 – AXA/UAP.
+5   Case No COMP/M.3035 – Berkshire Hathaway Converium/Gaum/JV.
+6   Case No COMP/M.2676 – Sampo/Varma Sampo/If Holding/JV.
+7   Case No COMP/M.862 – AXA/UAP.
+8   See, for example, Cases No COMP/M.759 - Sun Alliance/Royal Insurance and COMP/M.2225 -
+    Fortis/ASR.
+9   Whilst not relevant to the markets in the present transaction, the Commission has indicated that some
+    differences in the geographic scope of different types of non-life/general insurance may exist (e.g. in
+    relation to transport liability and marine, aviation and transport (MAT) insurance for large corporate
+    customers and large risk respectively): see Case No COMP/M.3395 - Sampo/If Skadeförsäkring and Case
+    No COMP/M.2676 - Sampo/Sampo-Varma/If Holding/JV.
+                                                          3
+
+16. In Ireland the proposed concentration would lead to affected markets only on the basis
+    of a hypothetical overall non-life insurance market for which the parties estimate their
+    combined market share to about [15-20] %, and for life assurance overall with an
+    estimated combined market share of about [14-19] %. The data provided by the
+    competitors in the course of the market investigation confirmed these figures. The
+    increment to Aviva's market share is minor, less than [1-5] % in either segment. The
+    parties did not identify any affected market on a more narrow subdivision of the
+    markets.
+17. In the United Kingdom the proposed concentration would not lead to affected markets
+    on an overall non-life insurance markets or life assurance market but the parties
+    identified two affected markets on the basis of a national market for home insurance,
+    with an estimated combined market share of about [17-22] % and for creditor insurance,
+    with an estimated combined market share of about [17-22] %. These figures were also
+    confirmed by the market investigation. The increment to Aviva's market share is also
+    here minor; for home insurance less than [1-5] % and for creditor insurance less than [1-
+    5] %.
+18. There are some vertical relationships between the activities of the parties. In particular,
+    Aviva is present in the market of selling insurance products through its Norwich Union
+    Direct and RAC channels in the UK and through Hibernian Direct in Ireland. However
+    irrespective of market definition there would be no affected markets within the meaning
+    of Form CO.
+19. The Commission's investigation has confirmed that the proposed transaction would have
+    limited impacts on the markets involved by the proposed transaction and that it would
+    not raise serious doubts as to its compatibility with the common market.
+VI. CONCLUSION
+20. For the above reasons, the Commission has decided not to oppose the notified operation
+    and to declare it compatible with the common market and with the EEA Agreement.
+    This decision is adopted in application of Article 6(1)(b) of Council Regulation (EC) No
+    139/2004.
+                                                        For the Commission
+                                                        signed
+                                                        Vladimir Špidla
+                                                        Member of the Commission
+                                                   4

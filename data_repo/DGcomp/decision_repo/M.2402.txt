@@ -1,0 +1,195 @@
+                         KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+                                                                     Brüssel, den 02-07-2001
+In der veröffentlichten Version dieser Entscheidung
+wurden bestimmte Informationen gem. Art. 17 (2)
+der Ratsverordnung (EWG) Nr. 4064/89 über die
+Nichtveröffentlichung von Geschäftsgeheimnissen
+und      anderen       vertraulichen      Informationen                     ÖFFENTLICHE VERSION
+ausgelassen. Die Auslassungen sind durch
+Klammern […] gekennzeichnet. Soweit möglich
+wurden die ausgelassenen Informationen durch eine
+Bandbreite/Bereichsangabe von Zahlen oder eine                               FUSIONSVERFAHREN
+allgemeine Beschreibung ersetzt.                                      ARTIKEL 6(1)(b) ENTSCHEIDUNG
+An die anmeldenden Parteien
+Betrifft :       Fall Nr. COMP/M.2402 - Creditanstalt/RZB/JV
+                 Anmeldung vom 28.05.2001 gemäß Artikel 4 der Verordnung (EWG)
+                 Nr. 4064/89 des Rates (Fusionskontrollverordnung)
+1. Am 28.05.2001 ist die Anmeldung eines Zusammenschlußvorhabens gemäß Artikel 4
+     der Verordnung (EWG) Nr. 4064/89 des Rates1 bei der Kommission eingegangen.
+     Danach ist folgendes beabsichtigt: Die Unternehmen Creditanstalt AG („CA“) und
+     Raiffeisen Zentralbank Österreich AG („RZB“) erwerben im Sinne von Artikel 3
+     Absatz 1 Buchstabe b der Ratsverordnung die gemeinsame Kontrolle über ein neu
+     gegründetes Gemeinschaftsunternehmen („NewCo“). NewCo wird auf dem Gebiet
+     der elektronischen Rechnungserstellung und Bezahlung (Electronic Bill Presentment
+     and Payment, kurz „EBPP“) tätig sein.
+2. Nach Prüfung der Anmeldung hat die Kommission festgestellt, daß das angemeldete
+     Vorhaben in den Anwendungsbereich der Verordnung (EWG) Nr. 4064/89 des Rates
+     fällt und hinsichtlich seiner Vereinbarkeit mit dem Gemeinsamen Markt und dem
+     EWR-Abkommen keinen Anlaß zu ernsthaften Bedenken gibt.
+1    ABl. L 395 vom 30.12.1989, S.1, berichtigte Fassung ABl. L 257 vom 21.9.1990, S. 13; zuletzt
+     geändert durch Verordnung (EWG) Nr. 1310/97 (ABl. L 180 vom 9.7.1997, S. 1, Berichtigung in ABl.
+     L 40 vom 13.02.1998, S. 17.)
+Rue de la Loi 200, B-1049 Bruxelles/Wetstraat 200, B-1049 Brussel - Belgien
+Telefon: Zentrale 299.11.11
+Fernschreiber: COMEU B 21877. Telegrammadresse: COMEUR Brüssel.
+
+I.   DIE TÄTIGKEITEN DER PARTEIEN
+3. CA ist eine österreichische Universalbank und zu 100 % im Eigentum der
+    österreichischen Bank Austria Aktiengesellschaft („BA“). BA ist eine Universalbank,
+    die hauptsächlich in Österreich tätig ist und entweder direkt oder über
+    Tochtergesellschaften alle wesentlichen Bankgeschäfte betreibt. BA ist eine 100 %
+    Tochtergesellschaft der deutschen Hypo- und Vereinsbank Aktiengesellschaft
+    („HVB“), eine Universalbank, die zum überwiegenden Teil in Deutschland tätig ist.
+4. RZB ist der Repräsentant der österreichischen Raiffeisen-Bankengruppe. Die
+    österreichische Raiffeisen-Bankengruppe ist dreistufig aufgebaut. Die erste Stufe
+    umfaßt 623 rechtlich selbständige Raiffeisenbanken2 mit 1 885 Filialen, die
+    schwerpunktmäßig im Privatkundengeschäft und im Firmenkundengeschäft für
+    Klein- und Mittelbetriebe tätig sind.
+5. Als zweite Stufe fungieren auf der Ebene der österreichischen Bundesländer acht
+    regionale Raiffeisen-Landesbanken ("RLB‘s"), deren Anteile von den Primärbanken
+    gehalten werden. Die RLB's sind selbst im Privat- und Firmenkundengeschäft tätig
+    und fungieren darüber hinaus als Clearingstelle der Primärbanken, wobei sie diesen
+    umfangreiche Dienstleistungs- und Beratungsangebote zur Verfügung stellen. Die
+    dritte Ebene bildet die RZB, deren Anteile zu insgesamt ca. 76 % von den RLB’s
+    gehalten werden. Neben ihrer Funktion als Repräsentant der Raiffeisen-
+    Bankengruppe betreibt die RZB auch selbst Bankgeschäfte mit dem Schwerpunkt
+    Auslandsaktivitäten und Großkundenbetreuung.
+II. DAS VORHABEN
+6. Nach der Entwicklung einer EBPP Web-Anwendung wird NewCo diese betreiben
+    und vermarkten. Dabei sollen, basierend auf vertraglichen Vereinbarungen mit
+    Unternehmen oder anderen Institutionen, Rechnungen auf elektronischem Weg vom
+    Rechnungsleger zum Rechnungsempfänger weitergeleitet werden.                                   Der
+    Rechnungsempfänger soll über eine offene Internetplattform gesicherten Zugang zu
+    seinen Rechnungen erhalten und dabei die Möglichkeit haben, diese Rechnungen zu
+    bearbeiten und die betreffenden Zahlungen freizugeben. Dabei werden die folgenden
+    drei Wege der Zahlungsfreigabe zur Verfügung stehen:
+          1.    über das Internetkonto des Rechnungsempfängers;
+          2.    über NewCo gemäß den standardisierten Zahlungsverkehrspraktiken;
+          3.    auf traditionellem Weg durch Ausdruck der Rechnung und Überweisung
+               des      Rechnungsbetrages           mittels     Zahlschein       der    Bank       des
+               Rechnungsempfängers.
+2   Auch wenn die einzelnen Raiffeisenbanken aufgrund des vereinheitlichten Marktauftritts und des
+    Regionalitätsprinzips in einem eingeschränkten Wettbewerbsverhältnis zueinander stehen, so bleiben
+    sie dennoch rechtlich selbständige Einheiten. Weisungen der RLB's und/oder der RZB erfolgen nicht.
+                                                       2
+
+7. NewCo wird sowohl im Bereich Business to Business („B2B“) als auch im Bereich
+    Business to Consumer („B2C“) tätig sein. Als Kundenschicht will NewCo zunächst
+    Unternehmen ansprechen, welche laufend eine große Anzahl von Rechnungen an
+    Konsumenten erstellen, wie insbesondere Unternehmen im Bereich
+    Telekommunikation, Versicherungswesen, Medien, Energieversorgung und
+    öffentlicher Dienst.
+III. ZUSAMMENSCHLUSS
+8. CA und RZB werden jeweils 50 % an NewCo halten und NewCo gemeinsam
+    kontrollieren, wobei der Anteil von RZB über deren 100 % Tochtergesellschaft R-
+    Electronic-Bill-Presentment Beteiligungs GmbH gehalten werden soll. Im übrigen
+    wird das Gemeinschaftsunternehmen auf Dauer alle Funktionen einer selbständigen
+    Wirtschaftseinheit erfüllen, und seine Gründung wird keinen Anlaß zur
+    Koordinierung des Wettbewerbsverhaltens der Vertragsparteien untereinander oder
+    zwischen ihnen und dem Gemeinschaftsunternehmen geben.
+IV. GEMEINSCHAFTSWEITE BEDEUTUNG
+9. Die Unternehmen HVB und RZB haben zusammen einen weltweiten Gesamtumsatz
+    von mehr als 5 Mrd. EUR3 (HVB: [...] Mio. EUR und RZB: [...] Mio. EUR). Jedes
+    von ihnen hat einen gemeinschaftsweiten Gesamtumsatz von mehr als 250 Mio. EUR
+    (HVB [...] Mio. EUR und RZB [...] Mio. EUR). HVB erzielt nicht mehr als zwei
+    Drittel ihres gemeinschaftsweiten Gesamtumsatzes in ein und demselben
+    Mitgliedstaat. Der angemeldete Zusammenschluß hat daher gemeinschaftsweite
+    Bedeutung im Sinne von Artikel 1 Absatz 2 der Fusionskontrollverordnung und stellt
+    keinen Kooperationsfall nach Artikel 57 des EWR-Abkommens dar.
+V. VEREINBARKEIT MIT DEM GEMEINSAMEN MARKT
+A. Sachlich relevante Märkte
+10. Die Parteien definieren den sachlich relevanten Markt als den Markt für
+    Dienstleistungen im Bereich externer Buchhaltung. Allerdings deuten mehrere
+    Aspekte auf einen separaten Markt für EBPP-Dienstleistungen hin, wie insbesondere
+    die hohen Markteintrittskosten in Form der Entwicklungskosten für die Software für
+    EBPP-Dienstleistungen         oder      unterschiedliche        Kundenpräferenzen          und
+    Kundenschichten. Eine weitere Abgrenzung der sachlich relevanten Märkte ist jedoch
+    nicht notwendig, weil in allen untersuchten alternativen Märkten wirksamer
+3   Die Umsatzberechnung erfolgte auf der Grundlage von Artikel 5 (1) der Fusionskontrollverordnung
+    und der Bekanntmachung der Kommission über die Berechnung des Umsatzes (ABl. C 66 vom
+    2.3.1998, S.25).
+                                                   3
+
+    Wettbewerb weder im EWR noch in einem wesentlichen Teil dieses Gebietes
+    erheblich behindert würde.
+B. Räumlich relevante Märkte
+11. Der räumlich relevante Markt für EBPP-Dienstleistungen wird von den Parteien
+    zumindest in der Startphase als national angesehen, da NewCo anfangs ausschließlich
+    versuchen wird, österreichische Unternehmen als Kunden zu gewinnen. Mittelfristig
+    sollen allerdings mehrsprachige Web-Anwendungen entwickelt werden und versucht
+    werden, den Tätigkeitsbereich auf andere EU- und zentraleuropäische Länder
+    auszuweiten. Eine weitere Abgrenzung der räumlich relevanten Märkte ist jedoch
+    nicht notwendig, weil in allen untersuchten alternativen Märkten wirksamer
+    Wettbewerb weder im EWR noch in einem wesentlichen Teil dieses Gebietes
+    erheblich behindert würde.
+C. Wettbewerbliche Beurteilung
+12. Da es sich bei EBPP-Dienstleistungen um einen jungen, stark im Wachstum
+    begriffenen Bereich handelt, war es den Parteien nicht möglich, Umsatzdaten für
+    Österreich oder Europa beizubringen. Die Parteien lieferten jedoch Schätzungen über
+    die Volumina der im Jahr 2000 abgewickelten EBPP-Transaktionen, die wie folgt
+    zusammengefaßt werden können:
+                       Gesamtzahl der       Davon EBPP –          Anzahl der EBPP
+                       Rechnungen           Rechnungen            Anwender
+         Europa        35 000 Mio.          700 Mio. (2.0 %)      Nicht angeführt
+         Österreich    [...]                 [...]                [...]
+13. Das Vorhaben gibt keinen Anlaß zu ernsthaften Bedenken hinsichtlich seiner
+    Vereinbarkeit mit dem gemeinsamen Markt oder einem wesentlichen Teil desselben
+    und zwar aus folgenden Gründen:
+14. Der Zusammenschluß führt auf keinem der relevanten Märkte zu
+    Marktanteilsadditionen der Parteien, da diese bis dato noch nicht im EBPP-
+    Dienstleistungsbereich tätig sind. Nach Entwicklung der EBPP–Software wird
+    NewCo im Wettbewerb mit zwei bereits derzeit aktiv am Markt tätigen Mitbewerbern
+    stehen, nämlich einerseits mit „bezahlen.at“ der BAWAG/PSK-Gruppe und
+    andererseits mit dem Unternehmen „billbyclick.com“, welches von ehemaligen IBM
+    Mitarbeitern gegründet wurde. Zusätzlich bieten bereits sämtliche großen
+    österreichischen Telekommunikationsunternehmen (Telecom Austria, UTA,
+    max.mobil, Connect) ihren Kunden eine elektronisch gestützte Verrechnung ihrer
+    Dienstleistungen an.
+                                                 4
+
+15. Betreffend die vertikalen Auswirkungen des Zusammenschlusses ist festzustellen,
+    daß BA und die Raiffeisen-Gruppe gemeinsam eine sehr starke Marktposition am
+    österreichischen Bankenmarkt (Privatkunden- bzw. Firmenkundengeschäft) haben. So
+    beläuft sich ihr kumulierter Marktanteil sowohl im Privatkunden- als auch im
+    Firmenkundengeschäft auf zwischen 35% und 55% (siehe COMP/M.2125 – Hypo
+    Vereinsbank/Bank Austria). Allerdings stellen diese hohen Marktanteile auch dann
+    kein wettbewerbliches Problem dar, wenn man den Zahlungsverkehrsmarkt als einem
+    dem EBPP nachgeordneten Markt ansehen sollte. Da es sich bei der von NewCo
+    entwickelten Web-Anwendung um eine offene Plattform handeln wird, werden weder
+    der Rechnungsleger noch der Rechnungsempfänger verpflichtet sein, ein Bankkonto
+    bei einer der beiden Mütter von NewCo zu halten, um EBPP-Dienstleistungen in
+    Anspruch nehmen zu können.
+16. Die Tatsache, daß BA und RZB starke Wettbewerber im österreichischen
+    Bankenmarkt sind, stellt als solche keine Marktzugangsschranke für neue Anbieter
+    von EBPP-Leistungen dar. Obwohl einige Banken im EBPP-Dienstleistungsbereich
+    tätig sind, handelt es sich bei den Hauptanbietern innerhalb Europas und auch
+    Österreichs4 vornehmlich um Unternehmen der Telekommunikationsbranche oder
+    Softwarefirmen, also um Unternehmen mit zahlenmäßig großem Kundenstock.
+17. Aus den angeführten Gründen schafft oder verstärkt der beabsichtigte
+    Zusammenschluß keine beherrschende Stellung, als deren Ergebnis wirksamer
+    Wettbewerb im EWR oder einem wesentlichen Teil davon erheblich behindert würde.
+VI. NEBENABREDEN
+18. [............................] Diese Bestimmung, soweit sie überhaupt eine Einschränkung des
+    Wettbewerbsverhaltens darstellt, steht in unmittelbarem Zusammenhang mit dem
+    angemeldeten Vorhaben, ist zur Durchführung des Vorhabens unumgänglich und
+    stellt daher eine zulässige Nebenabrede dar [...].
+19. [...........] Die in [.........] vereinbarten Beschränkungen können insoweit als
+    Nebenabreden anerkannt werden, als sie sich auf den sachlich und geographisch für
+    NewCo vorgesehenen Rahmen beziehen.
+20. Was die Dauer der in Paragraph 8 und 9 vereinbarten Beschränkungen anbelangt, so
+    führen die Parteien keine besonderen Gründe für deren Fortbestehen während der
+    gesamten Laufzeit des Gemeinschaftsunternehmens an. Die genannten Nebenabreden
+    können jedoch jedenfalls bis zu [ ] als zulässig angesehen werden.
+4   Siehe billbyclick.com., Telecom Austria, UTA, max.mobil oder Connect.
+                                                        5
+
+VII.    SCHLUSS
+21. Aus diesen Gründen hat die Kommission beschlossen, keine Einwände gegen den
+    angemeldeten Zusammenschluß zu erheben und ihn mit dem Gemeinsamen Markt
+    und dem EWR-Abkommen für vereinbar zu erklären. Diese Entscheidung beruht auf
+    Artikel 6(1) b der Fusionskontrollverordnung und auf Artikel 57 des EWR-
+    Abkommens.
+                                              Für die Kommission
+                                                  Mario Monti
+                                            Mitglied der Kommission
+                                           6

@@ -1,0 +1,321 @@
+                       COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 03/10/2008
+                                                                 SG-Greffe(2008) D/206016
+                                                                 C(2008)5734
+   In the published version of this decision, some
+   information has been omitted pursuant to Article                      PUBLIC VERSION
+   17(2) of Council Regulation (EC) No 139/2004
+   concerning non-disclosure of business secrets and                  MERGER PROCEDURE
+   other confidential information. The omissions are
+   shown thus […]. Where possible the information                  ARTICLE 6(1)(b) DECISION
+   omitted has been replaced by ranges of figures or a
+   general description.
+To the notifying parties
+Dear Sirs,
+Subject:      COMP/M.5241 - AMERICAN EXPRESS/ FORTIS/ ALPHA CARD
+              Notification of 29 August 2008 pursuant to Article 4 of Council Regulation
+              No 139/20041
+1.    On 29.08.2008 the Commission received a notification of a proposed concentration
+      pursuant to Article 4 of Council Regulation (EC) No 139/2004 by which the
+      undertaking American Express Company (‘American Express’, U.S.) and Fortis Bank
+      S.A. / N.V. (‘Fortis’, Belgium) acquire within the meaning of Article 3(1)(b) of the
+      Council Regulation joint control of the undertaking Alpha Card S.C.R.L./ C.V.B.A.
+      (‘Alpha Card’, Belgium) by way of restructuring a joint venture.
+I.    THE PARTIES
+2.    American Express is active in payment card issuing and merchant acquiring
+      worldwide.
+3.    Fortis is an international provider of banking and insurance services to personal,
+      business and institutional customers.
+4.    Alpha Card is issuing American Express branded payment cards in Belgium and
+      Luxembourg. Through its wholly owned subsidiary Alpha Card Merchant Services
+      S.C.R.L./C.V.B.A. (‘ACMS’) it also provides merchant acquiring services in Belgium
+1   OJ L 24, 29.1.2004 p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+     and Luxembourg to merchants who wish to accept payments through American
+     Express branded payment cards.
+II.  THE OPERATION
+5.   Alpha Card/ACMS is an existing joint venture under joint control of American Express
+     and Fortis. Alpha Card is not carrying out all the functions of an autonomous economic
+     entity and is not therefore considered a full-function joint venture.
+6.   American Express and Fortis have agreed to change the underlying agreements of
+     Alpha Card and to grant it greater autonomy. Due to these changes Alpha Card would
+     become a full-function joint venture.
+7.   Accordingly, the transaction is notifiable under Article 3(4) of the Merger Regulation
+     and paragraph 109 of the Jurisdictional Notice2.
+     Full functionality
+8.   Alpha Card is a joint venture licensed by American Express to operate a payment card
+     issuing business and a merchant acquiring business for American Express branded
+     cards.
+9.   The joint venture operates from facilities which are separate from those of its parent
+     companies and it has its own management dedicated to the operation of its business.
+     Alpha Card sets up its own annual business plan and is responsible for most of its
+     investment decisions in order to expand its issuing and acquiring activities. Alpha Card
+     does not act as a mere agent of American Express, but is a named “issuer” (carries out
+     all sales, marketing and operational activities, in particular sets prices, credit and
+     financial criteria, decides which cards to issue, enters into contractual arrangements
+     with cardholders) pursuant to its license agreement with American Express.
+10. In Belgium and Luxembourg the cards issued by Alpha Card are distributed through
+     Fortis […]. Alpha Card is operating on the market on a lasting basis.
+11.   In the same way Alpha Card, via its subsidiary ACMS, acts as an “acquirer” in its
+     contracts with merchants (signs up the merchants, sets merchant discount rate, sets
+     credit and financial criteria, manages receivables) pursuant to its license agreement
+     with American Express.
+12. Currently Alpha Card outsources certain processing services, […] to American
+     Express. Although Alpha Card has the possibility to obtain the necessary processing
+     services from a third party, this option requires the express consent of American
+     Express and is subject to a veto by American Express at the meetings of the board of
+     directors of Alpha Card.
+13. Therefore, in the past Alpha Card did not operate as a full function joint venture within
+     the meaning of Article 3(4) of the Merger Regulation. However, as a result of the
+     present transaction, i.e. the change of certain Alpha Card's corporate governance and
+2   Commission Consolidated Jurisdictional Notice under Council Regulation (EC) No 139/2004 on the
+    control of concentrations between undertakings of 10 July 2007.
+                                                         2
+
+     contractual provisions3, Alpha Card will acquire autonomy to select an independent
+     provider of the processing services that are currently provided by American Express.
+14. According to the Amended and Restated Card Operator Agreement and the Merchant
+     Acquirer Agreement the requirement to obtain the prior written consent of American
+     Express before outsourcing card processing functions would be removed. The
+     Shareholders Agreement would be amended to delegate to the General Manager of
+     Alpha Card the power to terminate the services agreements with American Express and
+     appoint an alternative provider […]. The Amended and Restated Financial Services
+     Agreement and the Merchant Acquirer Agreement would also be amended to permit
+     Alpha Card and ACMS to terminate the agreementson […] notice. […].
+15. On the basis of the above it has to be concluded that American Express would no
+     longer be able to veto a decision on selecting an independent processing services
+     provider. Alpha Card would be able to exercise full autonomy in its choice of third
+     party service provider and it would gain further independence from its parent company.
+     This would result in Alpha Card being a full function joint venture.
+     Joint control
+16. According to the Amended and Restated Shareholders Agreement American Express
+     and Fortis each hold 50 % of the voting shares of Alpha Card. Board resolutions are
+     made on the basis of a majority vote. Each ofAmerican Express and Fortis appoint four
+     of eight directors in the board of directors of Alpha Card. A quorum for a meeting is
+     […] directors, […] from each of American Express and Fortis.
+17. The board of ACMS comprises […] directors,[…] and requires […]for board
+     resolutions (with a quorum of […] directors) […]. In the event of deadlock at the board
+     level that cannot be resolved at the level of senior executives or through mediation,
+     […].
+18. The notifying parties confirmed that the ownership structure would remain unchanged
+     post transaction.
+19. Based on the above, the notified operation leads to the acquisition of joint control and
+     constitutes a concentration within the meaning of Article 3(1)(b) of the Merger
+     Regulation.
+III. CONCENTRATION
+20. As a result of the notified transaction involving restructuring of the Alpha Card joint
+     venture, the notifying parties would acquire joint control over the full-function joint
+     venture. The proposed transaction therefore constitutes a concentration within the
+     meaning of Article 3(1)(b) of the Merger Regulation.
+3   Pursuant to the transaction the following agreements will be amended: the Amended and Restated Card
+    Operator Agreement, the Merchant Acquirer Agreement, the Shareholders Agreement, the Amended and
+    Restated Financial Services Agreement and the Merchant Acquirer Financial Services Agreement.
+                                                        3
+
+IV. COMMUNITY DIMENSION
+21. The operation has a Community dimension pursuant to Article 1(2) of the Merger
+     Regulation. The parties have a combined aggregate worldwide turnover in excess of
+     EUR 5,000 million (American Express EUR 20,234 million, Fortis EUR 120,457
+     million, Alpha Card EUR […] million), and two of them have a Community-wide
+     turnover in excess of EUR 250 million (American Express EUR […] million, Fortis
+     EUR […] million). Each of the undertakings does not achieve more than two-thirds of
+     its Community-wide turnover in one and the same Member State.
+22. The transaction thus has a Community dimension within the meaning of Article 1(2) of
+     the Merger Regulation.
+V.   RELEVANT MARKETS
+23. In the previous decisions4 the Commission has defined the payment card issuing
+     market as being separate from the merchant acquiring market. The proposed
+     transaction concerns the markets for payment card issuing, and its possible sub-
+     segments, and merchant acquiring in Belgium and Luxembourg.
+Payment Card Issuing
+24. In previous decisions5 the Commission ultimately left open whether the market for
+     payment card issuing should be further sub-divided. The Commission considered in
+     those decisions that payment card issuing could possibly be split into the following
+     markets:
+        - cards issued to households and cards issued to commercial customers6;
+        - international7 and national cards;
+        - debit8 and credit cards;
+4  See Commission decisions of 3 October 2007 in Case COMP/M.4844 Fortis/ABN AMRO Assets, 2 June
+   2005 in Case M.3740 Barclays Bank/Foreningssparbanken/JV, para. 11. In the context of antitrust
+   proceeding see Commission decision of 19 December 2007 in Cases COMP/34.579 MasterCard,
+   COMP/36.518 EuroCommerce and COMP/38.580 Commercial Cards.
+5  See COMP/M.4844 Fortis/ABN AMRO Assets, cited above, at para.48, Commission decisions of 29
+   September 2006 in Case COMP/M.4316 Atos Origin/Banksys/BCC, para. 22-23, 18 October 2005 in
+   Case COMP/M.3894 Unicredito/HVB, para. 13, and of 8 November 2001 in Case Nordbanken/Postgirot,
+   para.15-16 and following.
+6  The cards issued to commercial customers consist of the cards issued to SMEs and large corporate
+   customers.
+7  Cards that belong to international network and/or carry international acceptance trademark such as
+   MasterCard/Maestro, Visa/Electron, American Express or Diners and can be used at POS and ATMs
+   internationally. National cards can only be used within one country whereas international cards may be
+   used in several countries.
+                                                       4
+
+         - selective and general cards.9
+25. In addition, the previous cases may also suggest the possibility of alternative market
+      segmentation in respect of intra-brand competition, where the issuing market would
+      comprise issuing cards of a particular brand only.10
+26. The Commission has previously defined the market of payment card issuing as being
+      likely national in scope11, although it has also recognized the possibility of widening
+      the market in the future. The notifying Parties followed this approach and provided
+      data based on national geographic markets.
+27. For the purposes of the present case the exact product and geographical market
+      definitions can be left open since the proposed transaction does not raise serious
+      competition concerns in the narrowest market definition.
+Merchant Acquiring
+28.    In a similar vein in the previous case practice12 it has been indicated that the merchant
+      acquiring market may further be subdivided according to the type of scheme
+      organisation (international / domestic), customer type (consumer/commercial), type of
+      card (debit/credit) or according to the brand (American Express Personal Green
+      Card/Personal Gold Card/Personal Platinum Card/Corporate Card/Visa/Visa
+      electron/V pay/MasterCard/Maestro etc.).
+29. The previous cases also suggest the possibility of alternative market segmentation in
+      respect of intra-brand competition, where the acquiring market would comprise
+      acquiring of merchants for a particular brand of cards.13
+8   The only distinguishing feature of credit/charge cards vis-à-vis debit cards is that the former allows the
+    cardholder to defer payments. Store cards are marketed via retailers to help to finance specific purchases
+    and although they may have revolving credit functionality they are typically used by consumers only to
+    fund the original transaction.
+9   General cards can be used at all points of sales that accept cards belonging to the system as a method of
+    payment and to make withdrawals from automatic teller machines. Selective cards however can only be
+    used with certain merchants.
+10  In antitrust context see the Commission decision of 17 October 2007 in case COMP/38606 Groupement
+    des Cartes Bancaires. A similar approach in the context of merchant card acquiring has been taken in the
+    Commission decisions of 19 December 2007 in Cases COMP/34.579 MasterCard,
+    COMP/36.518 EuroCommerce and COMP/38.580 Commercial Cards (the "MasterCard decision") and 3
+    October 2007 in case COMP/37860 Morgan Stanley/Visa International and Visa Europe.
+11  See cases COMP/M.2567 Nordbanken/Postgirot, COM/M.3740 Barclays Bank/Foreningssparbanken/JV,
+    and COMP/M.4844 Fortis/ABN AMRO Assets.
+12  See cases COMP/M.4316 Atos Origin / Banksys / BCC, paras. 21-23, COMP/M.2567
+    NordBanken/Postgirot,         para.18      Commission       investigation  in     Case     COMP/M.2390
+    SEB/Föreningssparbanken (the case was closed before a formal decision was taken due to the withdrawal
+    of the merger notification). In context of antitrust proceedings the Commission has recently identified a
+    market for merchant acquiring in the MasterCard decision (id. footnote 9), but it was stated that further
+    subdivision of the market can be left open.
+13  In antitrust context see, inter alia, the "MasterCard decision"
+                                                            5
+
+30. In line with previous Commission decisions14 the notifying Parties provided data based
+     on national geographic markets, although the Commission has acknowledged the
+     possibility of widening the market in the future.
+31. For the purposes of the present case the questions on whether the merchant acquiring
+     market should be further segmented and what is its exact geographic market definition
+     can be left open, since the proposed transaction does not raise serious doubts as to the
+     existence of a significant impediment of effective competition on any of the alternative
+     markets.
+ VI. COMPETITIVE ASSESSMENT
+     Horizontal effects in payment card issuing
+32. The activities of the Parties overlap in the overall payment card issuing market and in
+     its potential segments, i.e. segment for credit card issuing, segment for card issuing to
+     commercial customers and segment for card issuing to consumers. In essence, by
+     having joint control over Alpha Card, Fortis, which is active in the issuing of other
+     debit and credit cards in Belgium and Luxembourg, will also have a decisive influence
+     on the issuing of American Express credit cards in those Member States.
+33. If the overall payment card issuing market definition is to be considered, Alpha Card,
+     American Express and Fortis are active in this market in Belgium and in Luxembourg.
+     The combined market share of the Parties in Belgium is [40-50] %% (Fortis [40-50] %,
+     Alpha Card [0-5%] and American Express [0-5] %). The combined market share in
+     Luxembourg is [30-40] % (Fortis [30-40] %, Alpha Card [0-5] %, American Express
+     [0-5] %).
+34. The market share increment "added" by the transaction to the market share of Fortis in
+     the market for payment card issuing is small on both national markets (Belgium: [0-5]
+     % and Luxembourg: [0-5] %). Furthermore, there is a number of payment card issuers
+     active both in Belgium (Dexia: [20-30] %, KBC Bank: [10-20] % and ING Groep: [10-
+     20] %) and in Luxembourg (Banque and Caisse d'Epargne pour Etat: [30-40] %, Dexia:
+     [20-30] %, ING Groep: [5-10] %).
+35. Considering the possible segments of payment card issuing as indicated above, the
+     only relevant overlaps between the parties would occur in the segment of credit card
+     issuing, and in particular in credit card issuing for commercial and consumer cards.
+36. Alpha Card and American Express issue only American Express cards that are general
+     international credit cards for consumers and commercial customers, whereas Fortis
+     issues both credit and debit general international cards for consumers and commercial
+     customers.15 Therefore there is no overlap between Alpha Card and the Parent
+     companies in the segments of national cards, debit cards and selective cards.
+14  See cases COMP/M.2567 Nordbanken/Postgirot, COM/M.3740 Barclays Bank/Föreningssparbanken/JV,
+    and COMP/M.4844 Fortis/ABN AMRO Assets. In the context of antitrust proceeding see the MasterCard
+    decision (id. footnote 9).
+15  Fortis issues Visa, MasterCard, Maestro, Bancontact/Proton, the latter being co-branded with the Visa or
+    MasterCard international schemes.
+                                                        6
+
+37. In the possible segment of credit card issuing the market share of the Parties in
+    Belgium is [40-50] % (Fortis [30-40] %, Alpha Card [5-10] % and American Express
+    [0-5] %).
+38. Considering that both American Express and Alpha Card are only active in the
+    segment of credit card issuing, the narrower segment where the overlap between the
+    Parties could occur would be the segments of credit cards issued to commercial
+    customers and credit cards issued to consumers.
+39. If the market would be sub-divided into further sub-segments, in the segment of
+    payment card issuing to commercial customers the Parties would have combined
+    market share of [40-50] % (Fortis [30-40] %, Alpha Card [5-10] %, American Express
+    [0-5] %) in Belgium, whereas in the segment of payment card issuing to consumers the
+    market share of the Parties in Belgium would be [40-50] % (Fortis [30-40] %, Alpha
+    Card [10-20] %, American Express [0-5] %). Concerning the market shares for all
+    relevant segments, the Parties confirmed that their market shares in Luxembourg do
+    not differ significantly from their market shares in Belgium. This approach has been
+    also reflected in the overall market shares on the payment card issuing market in
+    Luxembourg.
+40. In any event, Alpha Card has been active already in the past in the issuing of American
+    Express cards under joint control of Fortis and American Express as the present
+    transaction is notifiable under the Merger Regulation only since Alpha Card will
+    become a full-function joint venture. The present transaction will not change the
+    incentives of Fortis in relation to the issuing of other (credit) cards itself or of
+    American Express cards by Alpha Card. Therefore, the transaction does not constitute
+    a significant change in the market compared to the past.
+41. Furthermore, in the course of market investigation the majority of respondents did not
+    raise any competition concerns with regard to the transaction, namely no increase in
+    fees or product availability has been foreseen. A number of respondents stated that the
+    impact of the transaction on the payment card issuing market in Belgium and in
+    Luxembourg would be limited due to a small market share of American Express in the
+    above mentioned markets.
+42. Even in case of hypothetical market segmentation for cards of the American Express
+    brand, where Alpha Card and American Express are already issuing American Express
+    branded cards (American Express has retained its issuing business only for cards in
+    respect of certain multi-national accounts, whereas it has transferred the majority of its
+    business in Belgium and Luxembourg to Alpha Card), the transaction would not have
+    impact in the alternative segment of the market, as Fortis is not active in issuing
+    American Express branded cards.
+    Horizontal effects in merchant acquiring
+43. The activities of the Parties (American Express and Alpha Card) could only overlap in
+    respect of merchant acquiring for the American Express cards. Fortis itself does not
+    carry out any acquiring activities in Luxembourg and Belgium.
+44. The Parties have provided the market shares for the overall merchant acquiring
+    markets in Belgium and Luxembourg. Any possibly overlapping activities in this field
+    would come from acquiring for American Express cards as American Express has
+    retained its acquiring business only for cards in respect of certain multi-national
+                                                7
+
+     accounts, whereas it has transferred the majority of its business in Belgium and
+     Luxembourg to Alpha Card. The combined market shares of the Parties are very low:
+     in Belgium [0-5] % (Alpha Card [0-5] % and American Express [0-5] %) and in
+     Luxembourg around [0-10] % (Alpha Card: [0-5] % and American Express: [0-5] %).
+     Furthermore, there is a number of very large competitors active on the markets: Atos
+     Worldline ([80-90] %) and Elavon ([10-20] %) in Belgium and CETREL ([80-90] %)
+     in Luxembourg.
+45. Also on any other delineation of the market the transaction does not raise competition
+     concerns as combined market shares are low and Fortis is anyhow not active on any of
+     those possible markets. Furthermore, even in case of hypothetical market segmentation
+     for cards of the American Express brand, where Alpha Card and American Express are
+     already acquiring merchants for American Express branded cards, the transaction
+     would not have impact in the alternative segment of the market, as Fortis is not active
+     in acquiring for American Express branded cards (and neither for any other cards in
+     Belgium and Luxembourg).
+46. In the course of market investigation, none of the competitors of the Parties identified
+     any competitive concerns related to the transaction in both markets for payment card
+     issuing and for merchant acquiring. The respondents found that the notified transaction
+     is not likely to give rise to any competitive concerns due to the fact that it only
+     constitutes a restructuring of Alpha Card and the current market shares of American
+     Express in Belgium and in Luxembourg remain low.
+47. In view of the above, the proposed transaction does not raise serious doubts as to its
+     compatibility with the common market.
+VII. CONCLUSION
+48. For the above reasons, the Commission has decided not to oppose the notified
+     operation and to declare it compatible with the common market and with the EEA
+     Agreement. This decision is adopted in application of Article 6(1)(b) of Council
+     Regulation (EC) No 139/2004.
+                                                    For the Commission
+                                                    (signed)
+                                                    Neelie KROES
+                                                    Member of the Commission
+                                                8

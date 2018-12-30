@@ -1,0 +1,210 @@
+                      COMMISSION OF THE EUROPEAN COMMUNITIES
+                                                                 Brussels, 03.05.2005
+                                                                 SG-Greffe(2005) D/202060 - 202061
+    In the published version of this decision, some                      PUBLIC VERSION
+    information has been omitted pursuant to Article
+    17(2) of Council Regulation (EC) No 139/2004
+    concerning non-disclosure of business secrets and                 MERGER PROCEDURE
+    other confidential information. The omissions are
+    shown thus […]. Where possible the information
+                                                                   ARTICLE 6(1)(b) DECISION
+    omitted has been replaced by ranges of figures or
+    a general description.
+                                                                   To the notifying parties
+Dear Sir/Madam,
+Subject:      Case No COMP/M.3772 – AVIVA/RAC
+              Notification of 29.03.2005 pursuant to Article 4 of Council Regulation
+              No 139/20041
+1.   On 29.03.2005, the Commission received a notification of a proposed concentration
+     pursuant to Article 4 of Council Regulation (EC) No 139/2004 (“the Merger
+     Regulation”) by which the undertaking Aviva plc (“Aviva”, United Kingdom),
+     belonging to the Aviva group, acquires control of the whole of the undertaking RAC
+     plc (“RAC”, United Kingdom) by way of public bid announced on 9 March 2005.
+2.   After examination of the notification, the Commission has concluded that the operation
+     falls within the scope of Council Regulation (EC) No 139/2004 and does not raise
+     serious doubts as to its compatibility with the common market and the EEA agreement.
+I.   THE PARTIES
+3.   Aviva is active primarily in the life and non-life insurance sector. Other businesses
+     include long term savings and fund management. Aviva is present worldwide. In the
+     UK, it conducts its business under the Norwich Union (“NU”) brand.
+4.   RAC provides a range of motoring and vehicle related products and services to
+     individual and business customers. Its core activities are roadside assistance (and
+1  OJ L 24, 29.1.2004 p. 1.
+Commission européenne, B-1049 Bruxelles / Europese Commissie, B-1049 Brussel - Belgium. Telephone: (32-2) 299 11 11.
+
+     related car repair services), driving tuition, vehicle leasing and fleet management. RAC
+     has activities in the UK, Ireland and France.
+II.  THE OPERATION
+5.   Aviva has announced a recommended cash and share offer for the entire issued and to
+     be issued share capital of RAC. As a result of the transaction, Aviva will acquire sole
+     control of RAC.
+III. CONCENTRATION
+6.   The operation concerns the acquisition by Aviva of sole control over RAC. The
+     proposed transaction therefore constitutes a concentration within the meaning of
+     Article 3(1)(b) of Council Regulation (EC) No 139/2004.
+IV. COMMUNITY DIMENSION
+7.   The undertakings concerned have a combined aggregate world-wide turnover of more
+     than EUR 5 billion2. Each of Aviva and RAC has a Community-wide turnover in
+     excess of EUR 250 million, but they do not achieve more than two-thirds of their
+     aggregate Community-wide turnover within one and the same Member State. The
+     notified operation therefore has a Community dimension.
+V.   COMPETITIVE ASSESSMENT
+8.   The parties have overlapping activities in the non-life insurance market and in the roadside
+     assistance services market.
+     Insurance market
+     Product market
+9.   Pursuant to past Commission decisions, the provision of insurance products may be
+     subdivided into life insurance, non-life insurance and reinsurance. Further, from a
+     demand side perspective, both life and non-life insurance can, in principle, be divided
+     into as many product markets as risks covered because of their distinct characteristics,
+     purposes and premiums and there is typically no substitute for the consumer among the
+     different risks insured.3
+10. Given that the activities of the parties either do not overlap or their overlap does not
+     exceed 15%, irrespective of market definition, the product market definition may in
+     this case be left open.
+2   Turnover calculated in accordance with Article 5(1) of the Merger Regulation and the Commission Notice
+    on the calculation of turnover (OJ C66, 2.3.1998, p25).
+3   See Case IV/M. 759 Sun Alliance/Royal Insurance and Case IV/M. 1043 BAT/Zürich.
+                                                         2
+
+    Geographic market
+11. The Commission has generally considered that the geographical definition of the
+    market in life and non-life insurance business is national in scope.4
+12. However, given that the activities of the parties either do not overlap or their overlap
+    does not exceed 15% irrespective of market definition, the geographic market
+    definition may be in this case left open.
+    Roadside assistance services
+    Product market
+13. The parties have submitted that there is a separate market for the provision of roadside
+    assistance services. The Commission already analysed this market in the
+    CVC/Permira/AA case5 but left open the exact product market definition. However, the
+    Commission referred to the 1999 UK Monopolies and Merger Commission report (the
+    MMC report) published on this issue. The MMC report concluded that the supply of
+    insured breakdown services for light vehicles constitutes a single economic market6.
+14. In their submission, the parties consider that ad hoc roadside assistance services
+    provided to uninsured drivers should be excluded from the product market definition.
+    The parties further consider that the roadside assistance services market should only
+    take into account the sales of stand alone roadside assistance services, therefore
+    excluding services bundled with motor insurance policies, given that in the latter case
+    the predominant purpose of the contract is motor insurance. Additionally, the parties
+    also submit that the product market definition should include both direct sales to
+    individuals by operators that have their own fleet or which use an independent network
+    of affiliated but independently owned and operated assistance vehicles, and indirect
+    sales, through intermediaries which purchase in bulk from a supplier with a fleet or
+    network and sell it on to end-user customers.
+15. The market investigation indicated that as far as ad hoc services are concerned, many
+    consider that such services should be excluded from the product market but that both
+    direct and indirect sales should be included. Further, the replies to the market
+    investigation seem to suggest that both bundled and stand alone services should be
+    considered as part of the roadside assistance services market.
+16. As far as a possible sub-segmentation of the market on the basis of customer
+    preferences and demands is concerned, the parties have suggested that the market
+    could be further divided into services provided to (i) consumers who purchase
+    contracts on an individual basis and (ii) corporate customers who purchase roadside
+    assistance services to cover their own fleet or to resell such services to their own
+4  See Case IV/M. 1043 BAT/Zürich and Case M. 2491 Sampo/Storebrand.
+5  Case No COMP/M. 3517 CVC/Permira/AA.
+6  Cendant Corporation and RAC Holding Limited, February 1999.
+                                                    3
+
+     customers, often bundled with another product7. During the market investigation it was
+     also suggested that a distinction could be made between customers who buy services
+     based upon brand strength and reassurance and those who buy purely on price and
+     view the service as a commodity.
+17. However, for the purposes of the present case, the exact definition of the product
+     market can be left open because in all alternative market definitions, the proposed
+     transaction would not significantly impede effective competition (see further below).
+     Geographic market
+18. Aviva submits that the market for contracted roadside assistance services is national in
+     scope. In CVC/Permira/AA the Commission referred to the MMC report which
+     concluded that the market was national, on the basis that there were no indications that
+     the market conditions varied between different parts of the UK. However, the
+     Commission left open the exact geographic market definition.
+19. The market investigation confirmed the definition of a national market. In the present
+     case, however, the exact geographic market definition can be left open because the
+     transaction would not raise any competition concerns in any possible alternative
+     geographic markets.
+     Assessment
+     Horizontal overlaps
+20. The proposed transaction will lead to overlaps in the parties' activities for the provision of
+     non-life insurance products and roadside assistance services.
+     Non-life insurance
+21. As regards the insurance market, the parties’ activities only overlap in the non-life
+     insurance segment in the UK. According to the parties’ estimates, in the UK Aviva’s
+     market share in the non-life insurance market is estimated to be around [5-15%]. RAC’s
+     market share is below [5%] (around [<5%]), all attributed to the underwriting of legal
+     expenses insurance, a segment where Aviva is not present. In the distribution of non-life
+     insurance by third parties in the UK, Aviva’s market share is estimated to be below [5%]
+     whilst RAC’s market share is estimated to be below [5%]. Given the parties’ limited
+     combined market share irrespective of market definition, the proposed transaction does not
+     raise any competition concerns regarding non-life insurance products.
+     Roadside assistance services
+22. In the UK, Aviva (through NU) provides contracted roadside assistance services on the
+     basis of […]8 relationship with RAC under which RAC provides the underlying
+     services that NU sells under the “NU Rescue” brand, without any mention of RAC as a
+7  Corporate customers mainly comprises vehicle fleet owners, car manufacturers, larger retailers and
+   insurers who buy the services in bulk and either resell these services to their own customers or pass on the
+   benefit to individual employees or customers.
+8  Deleted business secrets.
+                                                          4
+
+    service provider. NU Rescue is sold by NU both as a stand-alone product or bundled
+    with NU’s insurance products. The parties combined market share for the overall
+    roadside assistance services market is below 25%. In the segment for services to
+    consumer end users, the combined market share is below 15%.
+23. The only market where the parties have a significant market share is in the segment for
+    services to corporate customers where RAC has a market share of [30-40%]. This
+    market share includes NU contracts won in competition with other motor insurance
+    providers where the roadside assistance part of the policy is provided by RAC
+    (representing [<5%] of the segment). The parties argue that the transaction will not
+    create any competitive concern given that RAC faces strong competition from
+    companies such as AA ([30-40%]), Mondial ([10-20%]) and Green Flag ([0-10%]) as
+    well as from recent entrants such as Europ Assistance ([0-10%]). Further, NU does not
+    sell standalone services to corporate customers but only services bundled with motor
+    insurance where NU competes for the motor insurance contract and not for the
+    provision of roadside assistance services.
+24. The answers to the market investigation have confirmed the parties’ view of the current
+    situation of competition in the market. Most of RAC's competitors consider the market
+    to be "healthy" and "competitive". The market investigation has also confirmed that
+    there have been new entries into the market (e.g. NCI Vehicle Rescue). Moreover, it is
+    generally considered that further entry will take place.
+25. In Ireland, RAC’s leading competitors are Ireland Assist and AA with market shares
+    of around [50-60%] and [20-30%] respectively in the overall contracted roadside
+    assistance market. According to information provided by the parties, their combined
+    market share would not exceed 25% in any possible market segmentation. RAC’s
+    market share in the overall market is well below 15% (around [0-10%]). As far as the
+    consumer end user segment is concerned, RAC's market share is [0-10%] whilst it has
+    a lower market share ([0-10%]) in the corporate segment. Aviva is active in Ireland
+    through its subsidiary Hibernian. However, Hibernian provides roadside assistance
+    services bundled with its motor insurance contracts to corporate customers only. The
+    roadside assistance element of Hibernian’s insurance is currently provided by Ireland
+    Assist and not by RAC. The policies sold by Ireland Assist to Hibernian and then
+    resold by Hibernian to end users bundled together with motor insurance represent
+    around [10-20%] of the overall market and [10-20%] of the corporate segment. Given
+    the parties’ limited presence in any possible market segmentation and that they face a
+    number of significant competitors the proposed operation does not raise any
+    competition concerns as regards the Irish market either.
+    Vertical assessment
+26. Concerns have been raised as to whether the non-insurance market, and more
+    specifically the motor insurance segment, will be affected by the proposed operation
+    given that Aviva will benefit from access to RAC’s customer base and could use it to
+    cross sell its own insurance products to these customers. However, the information
+    submitted by the parties shows that in the UK, Aviva faces strong competition in the
+    motor insurance segment where Aviva’s market share is below 15% in the UK and
+    below 25% in Ireland. Therefore, the risk of foreclosure is very limited. Moreover,
+    some of RAC major competitors are also vertically integrated companies with
+    insurance companies (e.g. Green Flag and Direct Line belongs to the Royal Bank of
+                                                 5
+
+    Scotland Group, More Th>an is owned by Royal Sun Alliance Insurance Group and
+    Mondial is owned by Allianz).
+VI. CONCLUSION
+27. For the above reasons, the Commission has decided not to oppose the notified
+    operation and to declare it compatible with the common market and with the EEA
+    Agreement. This decision is adopted in application of Article 6(1)(b) of Council
+    Regulation (EC) No 139/2004.
+                                                  For the Commission
+                                                  [signed]
+                                                  Neelie KROES
+                                                  Member of the Commission
+                                             6

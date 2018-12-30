@@ -1,0 +1,960 @@
+                                   COMMISSION EUROPÉENNE
+                                                                             Bruxelles, le 10.11.2010
+                                                                             SG-Greffe(2010) D/17961
+                                                                             C(2010) 7941
+Dans la version publique de cette décision, des
+informations ont été supprimées conformément à
+l'article 17 (2) du règlement du Conseil (CE) n°
+139/2004 concernant la non-divulgation des
+secrets d'affaires et autres informations                                                    VERSION PUBLIQUE
+confidentielles. Les omissions sont donc
+indiquées par [...]. Quand cela était possible, les
+informations omises ont été remplacées par des
+fourchettes de chiffres ou une description
+générale.
+                                                                                  PROCÉDURE DE CONTRÔLE DES
+                                                                                OPÉRATIONS DE CONCENTRATION
+                                                                               DÉCISION EN VERTU DE L'ARTICLE 6,
+                                                                                        PARAGRAPHE 1, POINT B)
+                                                                            A la partie notifiante:
+            Madame, Monsieur,
+            Objet:         Affaire n° COMP/M.5960 – CREDIT AGRICOLE / CASSA DI
+                           RISPARMIO DELLA SPEZIA / AGENCES INTESA SANPAOLO
+                           Notification du 20 septembre 2010 en application de l’article 4 du
+                           règlement (CE) n° 139/2004 du Conseil1
+            1. Le 20 septembre 2010, la Commission Européenne a reçu notification, conformément à
+                l’article 4 du règlement (CE) n° 139/2004 du Conseil, d’un projet de concentration par
+                lequel l'entreprise Crédit Agricole SA, (France), société à la tête du groupe bancaire et
+                financier français Crédit Agricole, acquiert, au sens de l'article 3, paragraphe 1, point b),
+                du règlement sur les concentrations, le contrôle exclusif de Cassa di Risparmio della
+                Spezia S.p.A. (Italie), ainsi que d’un réseau constitué de 96 agences appartenant
+                actuellement à Intesa SanPaolo S.p.A. ou à des sociétés du groupe de celle-ci
+                (collectivement le «Cible »), par achat d'actions et achat d'actifs.
+            1        JO L 24 du 29.1.2004, p. 1 («le règlement UE sur les concentrations», ou "le Règlement"). Applicable
+                     à compter du 1er décembre 2009, le traité sur le fonctionnement de l’Union européenne («TFUE») a
+                     introduit divers changements, parmi lesquels le remplacement des termes «Communauté» par «Union»
+                     et «marché commun» par «marché intérieur». Les termes du TFUE seront utilisés dans cette décision.
+            Commission européenne, 1049 Bruxelles / Europese Commissie, 1049 Brussel - Belgique. Téléphone: +32 22991111.
+
+I.    LES PARTIES
+2. Crédit Agricole SA ("CA") est l'organe central d'un groupe bancaire et financier
+    multinational présent en 66 pays. Le groupe est présent dans tous les segments des
+    marchés bancaires et financiers, destinés aux particuliers, aux entreprises et aux
+    collectivités locales mais aussi dans le secteur de l'assurance-vie. En Italie, CA est actif
+    sur le marché de la banque de détail par le biais de Cariparma/Friuladria, dont
+    l’acquisition a été autorisée sous l'angle du contrôle des concentrations par la
+    Commission le 27 février 2007 (Affaire M.4511). CA y est également actif dans le
+    secteur de la banque d'investissement (CA-CIB, anciennement Calyon), de
+    l’intermédiation financière (Crédit Agricole Cheuvreux Italia SIM S.p.A.), de
+    l’assurance vie et I.A.R.D.2 (Crédit Agricole Vita S.A., Crédit Agricole Assicurazioni
+    S.p.A.), du leasing et du factoring (Crédit Agricole Leasing Italia S.p.A., Eurofactor
+    Italia S.p.A.) ainsi que, par le biais d’entreprises communes spécialisées, dans le secteur
+    du crédit à la consommation (Agos Ducato S.p.A.), du financement auto (FGA Capital
+    S.p.A. ), et de la gestion d’actifs (Amundi SGR S.p.A.) .
+3. Cassa di Risparmio della Spezia S.p.A ("Carispe") est une banque surtout active dans la
+    province de la Spezia en Italie mais avec une présence aussi dans les régions limitrophes
+    de Ligurie, Emilie-Romagne et Toscane. Elle offre tous les services liés aux services de
+    paiement, à l’épargne et aux crédits aux particuliers et aux ménages, ainsi qu’aux petites
+    et moyennes entreprises. Elle dispose d’un réseau de 76 agences de détail, 5 agences
+    "entreprises", un centre "private banking" et un centre de trésorerie. Carispe est
+    actuellement indirectement contrôlée par Intesa SanPaolo S.p.A. ("ISP").
+4. ISP possède des agences bancaires de détail dont l'activité consiste en la distribution de
+    services bancaires, d'épargne et de crédit aux particuliers ainsi qu'aux petites et
+    moyennes entreprises. Les 96 Agences ISP sujets de la présente transaction sont des
+    agences bancaires de détail appartenant au réseau d’ISP dont l’activité consiste en la
+    distribution de services bancaires, d’épargne et de crédit aux particuliers ainsi qu’aux
+    petites et moyennes entreprises. Ces agences sont principalement situées dans les régions
+    de Lombardie, Latium, Toscane et Frioul-Vénétie Julienne. ISP est une société à la tête
+    d’un des principaux groupes bancaires italiens actif dans l’offre des services bancaires,
+    financiers et d’assurance.
+II.   L’OPÉRATION
+5. Aux fins de la présente transaction, CA et ISP ont souscrit un contrat de vente le 17
+    février 2010 et un accord complémentaire le 7 juillet 2010, aux termes desquels
+    Cariparma, filiale de CA, acquerra 79,99% du capital social de Carispe, actuellement
+    détenu par ISP par le biais de la Banca CR Firenze S.p.A. Une tierce partie, la fondation
+    bancaire Fondazione CR Spezia, détient, et continuera à détenir suite à l’opération
+    envisagée, la participation restante de 20,01%.
+6. Par la suite, ISP transférera, ou fera en sorte que les autres banques du groupe intéressées
+    transfèrent, les 96 Agences ISP à Cariparma ou à une filiale de celle-ci, Banca Popolare
+    Friuladria S.p.A. Le transfert se fera par le biais d’apports en nature en échange d’un
+    nombre d’actions de Cariparma et Friuladria correspondant à la valeur de ces apports en
+2   Assurance pour Incendie, Accidents et Risques Divers
+                                                        2
+
+    nature. Par la suite, les banques contributrices revendront respectivement à CA et à
+    Cariparma leurs actions dans le capital de Cariparma et Friuladria.
+7. Suite à ces acquisitions, CA détiendra par le biais de Cariparma et Friuladria le contrôle
+    exclusif de Carispe et des Agences ISP, soit un total de 172 agences. Les transactions
+    décrites étant étroitement liées entre elles, elles doivent être considérées comme
+    constituant une seule et même opération de concentration au sens des dispositions du
+    Règlement concentrations.
+8. Deux de ces contrats de vente sont encadrés dans un accord-cadre ("Master Agreement")
+    qui prévoit l'engagement de CA à adopter une série de comportements relatifs à sa
+    participation dans le capital social d'ISP dans le contexte d'une procédure d'infraction
+    ouverte par l'autorité italienne de la concurrence ("Autorità Garante della Concorrenza et
+    del Mercato", ou "AGCM") le 14 mai 2009. ISP/CA est reproché de n'avoir pas respecté
+    les conditions imposées dans le cadre de l'autorisation de la fusion entre Banca Intesa et
+    Sanpaolo (aujourd'hui ISP) en 2006. Notamment, l'AGCM a déterminé que CA aurait pu
+    acheter certaines agences concernées par les remèdes imposés à Intesa/SanPaolo
+    exclusivement en respectant certaines conditions qui avaient pour objet d'identifier CA
+    en tant qu'opérateur concurrent indépendant. En particulier, parmi les conditions
+    requises, il y avait celle de la réduction de la participation de CA dans le capital social
+    d'Intesa/Sanpaolo en dessous de 5% pour le […] et puis en dessous de 2% pour le […],
+    la non participation directe ou indirecte des membres de CA dans les organes de
+    gestion/administration de ISP et l'interdiction pour CA de participer à d'éventuels pactes
+    d'actionnaires relatifs à ISP.
+9. Cette procédure en cours au niveau national est juridiquement distincte, concerne
+    d'autres agences, et n'est pas liée a la présente Décision qui ne la préjuge pas.
+III. DIMENSION UE
+10. La transaction envisagée qualifie comme une concentration au sens de l'article 3
+    paragraphe 1(b) du règlement (CE) n° 139/2004 du Conseil et possède une dimension
+    communautaire au sens de l’article 1, paragraphe 2 de ce règlement. En effet, les chiffres
+    d'affaire du CA sont de EUR 90.205 million, dont EUR […] dans l'Union Européenne;
+    ceux du Carispe sont d' EUR […] et ceux des agences ISP sont d' EUR […] (ces chiffres
+    d'affaires réalisés uniquement en Italie)3. Les parties ne réalisent pas plus des 2/3 de leurs
+    chiffres d'affaires communautaires dans un seul et même Etat membre, puisque CA fait
+    moins que deux tiers de son chiffre d’affaires en Italie.
+IV. PROCEDURE
+11. Le 7 octobre 2010, la Commission a reçu une lettre de l'AGCM (ci-après aussi
+    "l'Autorité requérante") demandant un renvoi de l'opération au titre de l'article 9 du
+    Règlement UE sur les concentrations, afin d'en faire une analyse aux termes de la loi
+    italienne de contrôle des fusions (la "Demande de Renvoi").
+12. La Demande de Renvoi n'a pas spécifié si elle se basait sur le paragraphe 2(a) ou 2(b) de
+    l’article 9 du Règlement, ni si elle concernait un renvoi partiel ou complet de l'opération,
+3   Le cible constitue, au sens de la deuxième alinéa de l'article 5, paragraphe 2 du règlement, une seule
+    entreprise concernée.
+                                                       3
+
+    et enfin manquait d'éléments permettant d'identifier les marchés sur lesquels, dans l'avis
+    de l'Autorité requérante, l'opération aurait pu avoir un impact sur la concurrence4. Pour
+    ces raisons, la Commission la considère comme insuffisamment motivée,.
+13. Le 26 octobre 2010, lorsque le délai pour formuler une demande de renvoi spécifié à
+    l'article 9(2) du Règlement était déjà échu, la Commission a pourtant reçu une deuxième
+    communication de l'AGCM au sujet de la Demande de Renvoi. Cette communication
+    semble préciser que la base juridique de la demande serait l'article 9(2)(b) et non pas
+    9(2)(a) du Règlement et fait part de certaines hypothèses plus concrètes sur l'impact
+    possible de l'opération.
+14. Dans la mesure où les délais étaient révolus, la Commission considère cette
+    communication comme ne faisant pas partie de la demande de renvoi sur laquelle elle est
+    appelée à se prononcer. Il n'a pas été possible de la prendre en considération lors de la
+    formulation de l'investigation du marché au vu des contraintes de calendrier auxquelles
+    l'analyse au titre du Règlement UE sur les concentrations est confrontée. Cette
+    communication n'apporte pourtant pas d'éléments matériels nouveaux, se limitant
+    essentiellement à formuler quelques hypothèses que la Commission avait déjà
+    considérées dès la demande initiale. L'analyse qui suit n'ignore donc aucun élément
+    matériel de cette communication.
+15. Le 28 octobre 2010, le Commissaire chargé de la concurrence a écrit à l'AGCM pour
+    indiquer qu'il entendait proposer à la Commission la rejection de la Demande de Renvoi.
+16. Le 3 novembre 2010, l'AGCM a envoyé une lettre par laquelle elle a maintenu sa
+    demande.
+17. Au cours de la présente Décision, et bien que, pour les raisons précitées, elle n'y soit pas
+    obligée, la Commission fait référence, là où c'est pertinent, à la pratique décisionnelle
+    aussi de l'Autorité requérante afin d'établir que l'opération n'affecte pas la concurrence
+    dans un possible marché à l'intérieur de l'Italie, et ne soulève pas de doutes sérieux quant
+    à sa compatibilité avec le marché intérieur.
+18. Le jour même de l'adoption de la présente Décision, la Commission a adopté une
+    Décision rejetant la Demande de renvoi présentée par l'Italie, en application de l'Article
+    9(3) dernier alinéa du Règlement UE sur les concentrations.
+V.    ANALYSE CONCURRENTIELLE
+19. D'après la pratique decisionelle antérieure de la Commission, le seul segment
+    potentiellement affecté par la présente transaction est celui du crédit à la consommation,
+    marché considéré au niveau national. Néanmoins, en considerant la Demande de Renvoi,
+    et malgré la manque de motivation de cette dernière, la Commission a regardé
+    l'opération également à la lumière de la pratique décisionnelle de l'AGCM, sans pourtant
+    s'aligner sur cette pratique.
+20. Les segments de marché sur lesquels il résulte un chevauchement des activités des deux
+    Parties sont ceux de la banque de détail.
+4   S'agissant, le cas échéant, de l’ alinea b) du paragraph 2 de l’article 9, la Demande de Renvoi ne spécifie
+    pas non plus s’il y aurait des marchés qui ne constituent pas une partie substantielle du marché commun.
+                                                           4
+
+21. La Commission n'a pas encore pris de position définitive quant au marché de produit
+    pertinent pour la banque de détail, et a généralement conduit l'analyse au niveau
+    nationale, tout en prenant en considération la distribution territoriale des agences des
+    parties à la transaction et, dans certains cas sur base conservatrice, a regardé aussi
+    d'autres indicateurs de leur présence au niveau régional5. Dans sa pratique décisionnelle
+    dans le domaine de la banque de détail, la Commission n'a jamais eu à considérer qu'il
+    puisse exister effectivement un marché régional et ne s'est même pas penché sur la
+    question de délimiter le marché de manière encore plus étroite, c'est-à-dire au niveau
+    provincial.
+22. En ce qui concerne la gestion de comptes courants personnels, de comptes d’épargne, de
+    placements et en ce qui concerne les services de banque privée, l'opération ne donne pas
+    lieu à des marchés affectés au niveau national, avec des parts de marché dans tous les cas
+    bien inférieur à 5%.
+23. Même si on devait considérer dans le présent cas la situation au niveau régional ou
+    provincial, comme dans certains précédents de l'Autorité requérante6, les
+    chevauchements resteraient très limités car la répartition géographique de CA et du
+    Cible est largement complémentaire.
+24. Au niveau régional, réclamé comme marché pertinent géographique pour certains
+    services bancaires par l'Autorité requérante, les Parties auraient, suite à l'opération, 14%
+    des agences bancaires en Emilie-Romagne, 9% en Ligurie, et partout ailleurs
+    sensiblement moins de 5%. Au niveau provincial, réclamé comme marché pertinent
+    géographique pour d'autres services bancaires par l'Autorité requérante, mais jamais
+    rétenu ni même considéré par la Commission dans sa pratique, elles auraient, dans toutes
+    les provinces d'Italie où l'on constate des chevauchements de leur activité, moins de 15%
+    du total des agences, à trois exceptions près, c'est-à-dire dans les provinces de La Spezia,
+    Parme et Massa-Carrare.
+25. Même au niveau de ces trois provinces, il s'agit d'un chevauchement très limité qui
+    n'excède jamais 1% en termes d'agences. Ainsi, dans la province de La Spezia, le Cible,
+    dont c'est le territoire d'origine, possède 54 agences, un peu moins de 40% du total toutes
+    banques confondues, tandis que CA n'en a qu'une seule. Dans la province de Parme, CA,
+    a travers sa filiale Cariparma, possède avant l'opération 91 agences (légèrement plus de
+    25% du total), tandis que le Cible n'en a que deux. Dans la province de Massa-Carrare,
+    enfin, le Cible possède 16 agences, un peu moins de 15% du total, tandis que CA n'en a,
+    de nouveau, qu'une seule.
+26. Le fait que, dans les provinces de la Spezia et de Massa-Carrare, ce soit la Partie avec
+    une part de marché minoritaire qui reprend les activités de la Partie dont les activités
+    sont bien plus développées n'altère en rien l'analyse par rapport à la situation contraire,
+    qui se manifeste par exemple en province de Parme, où l'acquisition concerne des
+    activités de faible étendu, les chevauchements dans les deux cas étant très limités et
+5   Voir par exemple COMP/M.4844 Fortis/ABN AMRO ASSETS; COMP/M. 3894 UNICREDITO/HVB;
+    COMP/M.5811 – Erste Bank/ASK, ou les données de la région de Haute-Autriche ont été examinées, et
+    plus récemment COMP/M.5948 - Santander / Rainbow.
+6   Voir par exemple l'affaire C8027B BANCA INTESA/SAN PAOLO IMI de l'AGCM, décision du 20
+    décembre 2006.
+                                                    5
+
+    aucun autre élément ne permettant de croire que l'opération aurait malgré cela un impact
+    sur la concurrence différent dans les deux cas.
+27. Quant à la soumission de l'AGCM, elle ne cite que la considération que les
+    consommateurs italiens seraient peu enclins à se déplacer pour obtenir des services
+    bancaires. Dans sa Décision dans le cas Intesa/SanPaolo, citée dans la Demande,
+    l'Autorité encore une fois ne mentionne, à l'appui d'une dimension géographique
+    restreinte du marché pertinent, que la demande de proximité émanant des
+    consommateurs.
+28. Or, la Commission, dans toutes les affaires sous sa juridiction, a toujours considéré une
+    dimension essentiellement nationale du marché de la banque de détail, en ce compris en
+    Italie7. Cette conclusion ne nie donc pas une prétendue demande de proximité de la part
+    des consommateurs, mais est le résultat de l'ensemble des considérations figurant dans sa
+    Notice sur le marché pertinent8, y compris de la chaine de substitution et de
+    l'homogénéité des conditions de concurrence au-delà des confins administratifs, qui ne
+    représentent nullement d'entraves à l'entrée sur de nouveaux territoires au sein du même
+    Etat. L'investigation poursuivie dans le présent cas n'a pas fourni d'éléments indiquant
+    qu'une définition du marché géographique pertinent au niveau des trois provinces citées
+    serait appropriée, en constatant qu'il n'existe de barrières à l'entrée si ce ne sont celles
+    liées à l'acquisition de nouveaux clients et donc de la rentabilité, des barrières qui n'ont
+    pas forcément un lien aux confins d'une entité territoriale donnée. En plus, les services
+    concernés ne diffèrent pas d'une province ou région à une autre, et l'environnement
+    juridique et réglementaire est uniforme sur tout le territoire national. En tout état de
+    cause il n'est pas nécessaire de conclure quant à la définition du marché géographique
+    pertinent puisque, quelle que soit la définition retenue, et même au niveau provincial,
+    l'opération ne soulève pas de doutes sérieux quant à sa compatibilité avec le marché
+    intérieur.
+29. Dans la province de La Spezia, d'ailleurs, il résulterait de l'opération même une
+    déconcentration puisque ISP garde une présence directe dans cette province par le biais
+    d'agences portant son nom propre et aura une part de marché plus importante suite à la
+    transaction que n'avait Crédit Agricole avant. Dans chacune des provinces considérées,
+    d'ailleurs, on constate la présence de la plupart des autres grandes banques italiennes dont
+    l'étendu des opérations est national, telles que Unicredit, Monte dei Paschi di Siena,
+    Banco Popolare, Ubibanca, BNL et ISP même, ainsi que des acteurs de dimension plus
+    réduite (l'un des concurrents importants des Parties à la Spezia est Carige, une banque à
+    l'origine de la province avoisinante de Gênes, qui a désormais aussi des opérations sur
+    l'entière territoire nationale).
+7   Voir les affaires IV/M.1712 Generali/INA; COMP/M.3067 - INTESA / CAPITALIA / IMI INVESTIMENTI
+    / UNICREDITO / FIDIS RETAIL, paragraphes 48 et COMP/M.4511 CREDIT AGRICOLE / CARIPARMA
+    / FRIULADRIA
+8   JOUE C 372 du 9 décembre 1997, paragraphes 29-31.
+                                                     6
+
+30. En sommaire, le seul marché qui s'avère affecté par la présente transaction est celui du
+    crédit à la consommation. Une analyse plus en détail des autres marchés de la banque de
+    détail aux fins de la présente Décision n’est donc pas nécéssaire9.
+31. Sur le segment du crédit à la consommation, la part de marché de CA au niveau national
+    pourrait atteindre jusqu'à [20-30%] avant l’opération10, notamment due à sa participation
+    à deux joint-ventures, (i) AgosDucato, avec Banco Popolare et (ii) FGA Capital avec
+    FIAT AUTO, active particulièrement dans les prêts affectés accordés au point de vente,
+    dans l'espèce le financement automobile. Il en résulte un chevauchement, bien que
+    minime (très largement en deçà de 1% de part de marché), avec l'activité de prêt
+    personnel des agences cédées.
+32. Les activités en question ont pourtant des caractéristiques distinctes puisque la
+    distribution de prêts au point de vente, dans laquelle est spécialisée FGA Capital, est une
+    activité ayant principalement pour interlocuteur des personnes morales tels que les
+    réseaux de concessionnaires de voitures, et revêt une dimension géographique plus large,
+    tandis que l'activité des agences est destinée en particulier à ces clients ainsi qu'à d'autres
+    personnes vivant à proximité de l'agence en question, que ces prêts soient affectés à
+    l'achat en question ou sans affectation particulière. La société AgosDucato est
+    spécialisée dans le crédit à la consommation notamment a travers les cartes de crédit de
+    type renouvelable. Il est donc probable que ces différents types de crédit servent des
+    besoins de crédit à la consommation largement distincts même si une certaine
+    substituabilité au niveau de la demande ne peut être exclue.
+33. En tout cas, à la lumière de la part de marché absolument marginale du Cible ainsi qu’en
+    raison de la présence de plusieurs opérateurs qualifiés sur le marché du crédit à la
+    consommation en Italie, l’opération proposée ne semble pas susceptible de soulever de
+    doutes significatifs quant à sa compatibilité avec le marché intérieur ou une partie
+    substantielle de celui-ci. La part de marché combinée des Parties resterait suivant toute
+    hypothèse inférieure à 25% indépendamment de la définition du marché de produits
+    retenue. Conformément à la notice sur les fusions horizontales11, en-dessous de ce seuil
+    de 25%, l’absence de restriction de la concurrence peut être présumée.
+9   Certains éléments d'analyse pertinents uniquement à l'analyse de la Demande de Renvoi figurent
+    uniquement dans la Décision adressée à l'Autorité italienne rejetant cette Demande.
+10  Source: Assofin; selon les Parties les données pourraient du fait de la méthodologie employée ne pas être
+    complètes et surestimer par conséquent leur part de marché réelle; ces chiffres ne comprennent pas
+    l'activités des deux banques contrôlées par Crédit Agricole – Cariparma et Friuladria – qui devrait pourtant
+    être inférieur à 1% du marché.
+11 JOUE C31 du 5 février 2004, paragraphe 18
+                                                           7
+
+VI. CONCLUSION
+34. La Commission européenne a donc décidé, pour les raisons exposées ci-dessus, de ne
+    pas s’opposer à l’opération notifiée et de la déclarer compatible avec le marché intérieur
+    et avec l’accord EEE. La présente décision est prise sur la base de l’article 6,
+    paragraphe 1, point b), du règlement sur les concentrations.
+                                                       Par la Commission
+                                                       (signé)
+                                                       Joaquín ALMUNIA
+                                                       Vice Président
+                                                   8
+ <<--NEW VERSION-->>                         COMMISSIONE EUROPEA
+                                                              Bruxelles, 10.11.2010
+                                                              C(2010) 7893 definitivo
+ Nella versione pubblicata di questa decisione sono
+ state omesse alcune informazioni ai sensi dell'art.
+ 17(2) del Regolamento del Consiglio (CE)
+ N. 139/2004 riguardante la non divulgazione di                VERSIONE PUBBLICATA
+ segreti professionali ed altre informazioni riservate.
+ Le omissioni sono dunque cosi' evidenziate [...].
+ Laddove possibile, l'informazione omessa é stata
+ sostituita dall'indicazione di una scala di valori o da
+ una indicazione generale.
+                             DECISIONE DELLA COMMISSIONE
+                                              del 10.11.2010
+che respinge il rinvio del caso COMP/M.5960 - CREDIT AGRICOLE / CASSA DI
+           RISPARMIO DELLA SPEZIA / AGENCES INTESA SANPAOLO
+  alle autorità competenti dell'Italia a norma dell'articolo 9 del Regolamento (CE)
+                                                n.139/2004
+                               (Il testo italiano è il solo facente fede)
+
+                           DECISIONE DELLA COMMISSIONE
+                                            del 10.11.2010
+  che respinge il rinvio del caso COMP/M.5960 - CREDIT AGRICOLE / CASSA DI
+           RISPARMIO DELLA SPEZIA / AGENCES INTESA SANPAOLO
+   alle autorità competenti dell'Italia a norma dell'articolo 9 del Regolamento (CE)
+                                              n.139/2004
+                             (Il testo italiano è il solo facente fede)
+LA COMMISSIONE EUROPEA,
+visto il trattato sul funzionamento dell'Unione europea (in appresso "TFUE"),
+visto il regolamento (CE) n. 139/2004 del Consiglio, del 20 gennaio 2004, relativo al
+controllo delle concentrazioni tra imprese1 (in appresso il "regolamento sulle
+concentrazioni"), in particolare l'articolo 9, paragrafo 3,
+vista la notifica presentata da Crédit Agricole S.A. il 20 settembre 2010, ai sensi
+dell'articolo 4 di detto regolamento,
+vista la richiesta di rinvio da parte dell'Autorità Garante della Concorrenza e del Mercato
+della Repubblica italiana del 7 ottobre 2010,
+CONSIDERANDO QUANTO SEGUE:
+1.     In data 20 settembre 2010 è pervenuta alla Commissione europea la notifica di un
+       progetto di concentrazione ai sensi del quale Credit Agricole S.A., società a capo
+       del gruppo bancario e finanziario francese Crédit Agricole, acquisisce, ai sensi
+       dell'articolo 3, paragrafo 1, lettera b), del regolamento sulle concentrazioni, il
+1   GU L 24 del 29.1.2004, pag.1. A decorrere dal 1º dicembre 2009, il trattato sul funzionamento
+    dell'Unione europea (“TFUE”) ha introdotto determinati cambiamenti, quale la sostituzione del
+    termine “Comunità” con il termine “Unione” e dell’espressione “mercato comune” con l’espressione
+    “mercato interno”. Nella presente decisione viene utilizzata la terminologia del TFUE.
+                                                    2
+
+   controllo esclusivo della Cassa di Risparmio della Spezia S.p.A. (Italia), una banca
+   italiana attualmente indirettamente controllata da Intesa SanPaolo S.p.A., e di una
+   rete costituita da 96 agenzie appartenenti a Intesa SanPaolo S.p.A., o a società del
+   gruppo, mediante acquisto di quote e di attivi (il "progetto di concentrazione").
+2. Con lettera del 7 ottobre 2010 l'Autorità Garante della Concorrenza e del Mercato
+   (in seguito, "AGCM") ha informato la Commissione, ai sensi dell'articolo 9 del
+   regolamento sulle concentrazioni, che a suo parere la concentrazione in oggetto
+   potrebbe produrre effetti critici in diversi mercati provinciali in Italia soprattutto
+   nel mercato della raccolta bancaria e di altri servizi bancari al dettaglio connessi
+   con la stessa.
+3. Pertanto l'AGCM con la suddetta lettera ha chiesto il rinvio del progetto di
+   concentrazione per esaminarlo in applicazione della legislazione nazionale sulla
+   concorrenza (la "Richiesta di Rinvio").
+I  LE PARTI DELLA CONCENTRAZIONE E L'OPERAZIONE
+4. Crédit Agricole SA ("CA") è la parte notificante ed è l’organo centrale di un
+   gruppo bancario e finanziario multinazionale presente in 66 paesi. Il gruppo opera
+   in tutti i segmenti dei mercati bancari e finanziari rivolti a privati, imprese e enti
+   locali, ma anche nel settore dell'assicurazione vita. In Italia, con specifico
+   riferimento al settore della banca al dettaglio, CA è attiva attraverso le controllate
+   Cariparma (principalmente nella provincia di Parma) e Friuladria (principalmente
+   nella regione Friuli-Venezia-Giulia), così come nel credito al consumo attraverso
+   due joint venture, Agos Ducato S.p.A., che fornisce servizi generali di credito al
+   consumo, e FGA Capital S.p.A. specializzata nel finanziamento dell'acquisto di
+   automobili presso il punto vendita.
+5. Cassa di Risparmio della Spezia S.p.A. ("Carispe") è una banca che offre, nella sua
+   area geografica di attività, tutti i servizi legati ai servizi di pagamento, al risparmio
+   e al credito per privati e famiglie, nonché per le piccole e medie imprese. Carispe è
+   una banca di piccole dimensioni attiva nel segmento retail e PMI. È presente
+   principalmente nella provincia di La Spezia (con 54 sportelli), ma possiede alcuni
+   sportelli anche nelle adiacenti regioni dell'Emilia Romagna (2 sportelli nella
+   provincia di Parma e 2 in quella di Reggio Emilia) e della Toscana (16 sportelli
+                                             3
+
+    nella provincia di Massa-Carrara). È attualmente controllata da Intesa SanPaolo
+    ("ISP").
+6.  Agenzie appartenenti a Intesa SanPaolo S.p.A. ("Agenzie Intesa Sanpaolo", e
+    insieme a Carispe la "Target") sono 96 agenzie bancarie al dettaglio appartenenti a
+    ISP o a società del suo gruppo, la cui attività consiste nella distribuzione di servizi
+    bancari, di risparmio e di credito ai privati e alle piccole e medie imprese, e situate
+    principalmente nelle regioni della Lombardia, Lazio, Toscana, Liguria e Veneto.
+7.  Il progetto di concentrazione concerne l'acquisizione ai sensi dell'art. 3, paragrafo
+    1, lettera b) del regolamento sulle concentrazioni del controllo esclusivo di Carispe
+    e di una rete di 96 agenzie appartenenti a ISP o a società del suo gruppo tramite
+    acquisto di quote e di attivi.
+II  DIMESIONE UE
+8.  Il progetto di concentrazione ha una dimensione UE ai sensi dell'articolo 1,
+    paragrafo 2 del detto regolamento. Il fatturato totale realizzato a livello mondiale
+    dalle parti è superiore a 5 miliardi di Euro e il fatturato totale realizzato
+    individualmente nell'Unione da ciascuna delle parti è superiore a 250 milioni di
+    Euro nel 2009. Le parti della concentrazione non realizzano oltre i due terzi del
+    loro fatturato totale nell'Unione all'interno di un solo e medesimo Stato membro
+    poiché CA realizza meno dei due terzi del suo fatturato in Italia.
+III LA RICHESTA DI RINVIO E IL PROCEDIMENTO
+9.  Con lettera del 7 ottobre 2010, ricevuta dalla Commissione il medesimo giorno,
+    l'AGCM ha chiesto il rinvio del progetto di concentrazione ai sensi dell'articolo 9
+    del regolamento sulle concentrazioni per esaminarlo in applicazione della
+    legislazione italiana sulla concorrenza.
+10. Nella sua Richiesta di Rinvio l'AGCM non ha indicato la precisa base giuridica ai
+    sensi della quale richiedeva il rinvio (ovvero ex art. 9, paragrafo 2, lettera a), o ex art.
+    9, paragrafo 2, lettera b)), del regolamento sulle concentrazioni, come pure se
+    intendesse richiedere un rinvio parziale o totale del caso.
+11. Ai sensi dell'art. 9, paragrafo 2, lettera a), entro 15 giorni lavorativi a decorrere
+    dalla data di ricezione della copia della notifica, uno Stato membro, di sua
+                                              4
+
+       iniziativa o su invito della Commissione, può comunicare alla Commissione, che a
+       sua volta ne informa le imprese interessate, che a suo parere la concentrazione in
+       oggetto rischia di incidere in misura significativa sulla concorrenza in un mercato
+       all'interno del suo Stato membro che presenta tutte le caratteristiche di un mercato
+       distinto.
+12.    Ai sensi dell'art. 9, paragrafo 2, lettera b), nel medesimo termine uno Stato
+       membro, di sua iniziativa o su invito della Commissione, può comunicare alla
+       Commissione, che a sua volta ne informa le imprese interessate, che a suo parere la
+       concentrazione incide sulla concorrenza in un mercato all'interno del suo Stato
+       membro che presenta tutte le caratteristiche di un mercato distinto e non costituisce
+       una parte sostanziale del mercato comune.
+13.    Come espressamente previsto ai paragrafi 35 e 36 della Comunicazione della
+       Commissione sul rinvio2, lo Stato membro che basa la sua richiesta ex art. 9,
+       paragrafo 2, lettera a) ha l'onere di dimostrare che, in base ad un'analisi
+       preliminare, vi è un rischio reale che l'operazione incida negativamente sulla
+       concorrenza in modo significativo, giustificando quindi un attento esame. Le
+       indicazioni preliminari in tal senso possono essere solo indizi a prima vista di un
+       eventuale impatto negativo significativo e non pregiudicano l'esito dell'indagine
+       completa. Lo Stato membro è altresì tenuto a dimostrare che il mercato in cui la
+       concorrenza verrebbe influenzata dall'operazione presenti tutte le caratteristiche di
+       un mercato distinto all'interno dello stesso Stato membro, facendo riferimento ai
+       criteri indicati al paragrafo 7 dell'articolo 9 del regolamento sulle concentrazioni e
+       ai principi adottati nella Comunicazione sulla definizione di mercato rilevante3.
+14.    Parimenti, se la richiesta è basata sull'art. 9, paragrafo 2, lettera b), lo Stato membro
+       richiedente deve dimostrare che, in base ad un'analisi preliminare, la
+       concentrazione potrebbe avere un'incidenza sulla concorrenza in un dato mercato,
+       ed è tenuto a dimostrare non solo che il mercato geografico nel quale l'operazione
+       incide sulla concorrenza costituisce un mercato distinto all'interno del suo territorio
+       seguendo i criteri sopra enunciati, ma anche che tale mercato non costituisce una
+2   Comunicazione della Commissione sul rinvio in materia di concentrazioni, in Gazzetta ufficiale n. C
+    56 del 5/03/2005 pag. 2 -23.
+3   Comunicazione della Commissione sulla definizione di mercato rilevante ai fini dell'applicazione del
+    diritto comunitario in materia di concorrenza, in GU C 372 del 9.12.1997, pag. 5. Tale Comunicazione
+    è citata alla nota 33 della Comunicazione sul rinvio.
+                                                      5
+
+      parte sostanziale del mercato comune4. A tale proposito, la Comunicazione sul
+      rinvio specifica che in base all'esperienza e alla giurisprudenza comunitaria risulta
+      che tale situazione si verifichi generalmente solo nel caso di mercati che hanno un
+      ambito geografico circoscritto all'interno di uno Stato membro5.
+15.   Nella Richiesta di Rinvio sono identificati in maniera generale i mercati provinciali
+      italiani della raccolta bancaria, degli impieghi, del credito al consumo, del
+      risparmio gestito, come i settori in cui il progetto di concentrazione "potrebbe
+      produrre effetti critici". Non sono tuttavia indicati con precisione i mercati
+      geografici provinciali italiani (o latri mercati geografici) su cui il progetto di
+      concentrazione potrebbe avere un tale impatto negativo. Non è dato conoscere,
+      altresì, la motivazione su cui l'AGCM fonda le proprie conclusioni circa gli effetti
+      critici prodotti dall'operazione in oggetto su diversi mercati provinciali dei servizi
+      di banca al dettaglio, se si esclude il breve cenno fatto nella Richiesta di Rinvio alla
+      circostanza che le parti del progetto di concentrazione "rappresentano importanti
+      operatori attivi nel settore bancario in Italia, sia per capitalizzazione che per rete
+      sportelli". Né tantomeno vi è menzione di quali effetti critici possano derivare dal
+      progetto di concentrazione in esame.
+16.   L'AGCM ricorda, al contrario, il procedimento di inottemperanza C8027 B, tuttora
+      in corso davanti alla stessa, volto alla verifica del mancato rispetto delle misure
+      imposte dall'AGCM ad ISP con la decisione nel caso C8027 Banca Intesa/SanPaolo
+      IMI per il superamento dei legami azionari, personali e strutturali tra ISP e CA.
+      L'AGCM sostiene che le parti del progetto di concentrazione non sarebbero
+      qualificabili come concorrenti effettivi in pendenza del procedimento di
+      inottemperanza6.
+17.   La Richiesta di Rinvio dell'AGCM non appare, pertanto, correttamente fondata e
+      sufficientemente motivata, e per ciò solo deve essere considerata irricevibile.
+      Infatti, non appare soddisfatto l'onere della prova che incombe sull'autorità
+      richiedente il rinvio ai sensi del combinato disposto dell'articolo 9 del regolamento
+4   Cfr. paragrafi 39 e 40 della Comunicazione sul rinvio.
+5   Cfr. paragrafo 40 della Comunicazione sul rinvio.
+6   Si nota che il procedimento di inottemperanza avviato dall'AGCM in data 14 maggio 2009 si
+    concluderà il 15 luglio 2011. La presenta decisione non presenta alcun effetto sul procedimento in
+    corso a livello nazionale.
+                                                     6
+
+       sulle concentrazioni e dei paragrafi 35 e ss. e 39 e ss. della Comunicazione sul
+       rinvio, non essendo stati menzionati nella Richiesta di Rinvio la base giuridica su
+       cui si fonda il rinvio, i distinti mercati (del prodotto e geografici) interessati dalla
+       concentrazione, né l'analisi, seppure preliminare, da cui si evinca un rischio che
+       l'operazione incida negativamente sulla concorrenza in mercati distinti determinati
+       (ivi incluse sia la dimensione del prodotto che quella geografica).
+18.    Tale onere della prova è tanto più giustificato in quanto, alla luce della
+       Comunicazione sul rinvio7 nonché della giurisprudenza della Corte generale8, la
+       scelta di accettare un rinvio post-notifica dovrebbe essere operata solo quando vi
+       siano motivi impellenti per derogare alla competenza dell'autorità originaria e
+       contemperando i diversi interessi, quale quello della certezza del diritto delle parti
+       notificanti.
+19.    In data 12 ottobre 2010 la Commissione ha lanciato una indagine di mercato
+       inviando dei questionari ai principali concorrenti nel mercato e alla Banca d'Italia,
+       al fine di verificare la posizione di mercato di tutti gli operatori nei vari segmenti
+       del mercato dei servizi bancari al dettaglio a livello nazionali, provinciale e
+       regionale e al fine di raccogliere le loro osservazione sul potenziale impatto del
+       progetto di concentrazione.
+20.    In data 19 ottobre 2010, CA, in qualità di parte notificante, ha presentato ai servizi
+       della Commissione le proprie osservazioni sulla Richiesta di Rinvio9. CA sostiene
+       che il respingimento della Richiesta di Rinvio dovrebbe essere basato sia su
+       motivazioni di carattere formale che su motivazioni di carattere sostanziale. Infatti,
+       da una parte la mancata identificazione da parte dell'AGCM dei distinti mercati
+       locali così come dei possibili effetti su tali mercati, rende oltremodo difficile una
+       corretta valutazione della Richiesta di Rinvio e la configura come di per sé
+       irricevibile in quanto carente di motivazione ai sensi dell'articolo 9 del regolamento
+       concentrazioni. Dall'altra parte, dal punto di vista dei requisiti sostanziali, nessuno
+7   Si veda il par. 13 della Comunicazione sul rinvio.
+8   Si veda la sentenza nel caso T-119/02 Royal Philips Electronics NV, punto 354, secondo cui "le
+    condizioni di rinvio previste dall'art. 9, n. 2, lett. a) e b), del regolamento n. 4064/89 devono essere
+    interpretate restrittivamente di modo che i rinvii di concentrazioni di dimensioni comunitarie alle
+    autorità nazionali siano limitati a casi eccezionali”.
+9   CA ha successivamente presentato in data 28 ottobre 2010 ulteriori osservazioni ad integrazione delle
+    precedenti a seguito della successiva comunicazione inviata dall'AGCM.
+                                                        7
+
+       di essi ricorre nel presente caso, mentre un rinvio comporterebbe un ritardo nella
+       chiusura dell'operazione che arrecherebbe pregiudizio all'interesse delle parti.
+21.    In data 26 ottobre 2010 l'AGCM ha inviato una ulteriore comunicazione (al
+       "Comunicazione") in cui sembra precisare che la base giuridica della Richiesta di
+       Rinvio dovrebbe essere identificata nell'articolo 9, paragrafo 2, lettera b) e non
+       nell'articolo 9, paragrafo 2, lettera a) del regolamento sulle concentrazioni e
+       fornisce qualche ulteriore informazione in relazione a quale mercato del prodotto e
+       geografico potrebbe essere negativamente interessato dalla transazione. Tale
+       Comunicazione dell'AGCM è stata inviata e ricevuta 7 giorni lavorati dopo lo
+       scadere del termine dei 15 giorni per la formulazione del rinvio ai sensi dell'art. 9,
+       paragrafo 210.
+22.    L'AGCM sostiene che il primo criterio previsto dall'art. 9, paragrafo 2, lettera b)
+       sarebbe soddisfatto almeno per quanto concerne il mercato della raccolta bancaria
+       nella provincia di La Spezia a causa delle sovrapposizioni nelle attività delle parti,
+       diventando CA il leader del mercato con una quota del [40-50]%, mentre il secondo
+       operatore avrebbe una quota del [10-20]%. Le perplessità dell'AGCM riguardano
+       anche i servizi bancari quali il mercato degli impieghi, dal momento che ritengono
+       che normalmente tale mercato sia fortemente condizionato dalla posizione che
+       l'operatore finanziario detiene sul mercato della raccolta. Per quanto concerne il
+       secondo requisito, l'AGCM fa riferimento alla propria pratica decisionale secondo
+       cui molti dei mercati dei servizi finanziari sono usualmente definiti a livello
+       provinciale e pertanto non costituirebbero una parte sostanziale del mercato
+       comune.
+23.    Se da una parte è vero che tali considerazioni, poiché giunte ad uno stadio molto
+       avanzato della procedura, oltre che dopo la scadenza del termine per la
+       presentazione della richiesta di rinvio, non hanno potuto essere oggetto
+       dell'indagine di mercato condotta dopo aver ricevuto la Richiesta di Rinvio, e
+       conseguentemente ben si potrebbero ritenere non ammissibili, d'altra parte si nota
+       che la Comunicazione inviata dall'AGCM non sembra aver apportato elementi
+       materiali nuovi tali da modificare i presupposti sostanziali su cui si fondava la
+       Richiesta di Rinvio così come formulata inizialmente, avendo fornito in effetti solo
+10  I 15 giorni lavorativi dalla data di ricezione della copia della notifica da parte dell'AGCM sono decorsi
+    dal 24 settembre 2010 e sono scaduti pertanto il 15 ottobre 2010.
+                                                        8
+
+     una serie di ulteriori ipotesi che la Commissione aveva comunque già formulato
+     quando aveva preso in esame, in via cautelativa, l'eventualità che la Richiesta di
+     Rinvio fosse basata sull'articolo 9 paragrafo 2, lettera a) e/o sull'articolo 9 paragrafo
+     2, lettera b).
+24.  In data 28 ottobre 2010, il Commissario responsabile della politica della
+     concorrenza ha inviato una lettera all'AGCM nella quale indica la sua intenzione di
+     proporre al Collegio dei Commissari una decisione che respinga la Richiesta di
+     Rinvio, con indicazione del ragionamento sottostando a detta intenzione, ed
+     offrendo all'AGCM la possibilità di sommettere eventuali commenti ed
+     osservazioni. L'AGCM ha inviato in data 3 novembre 2010 le sue osservazioni (le
+     "Osservazioni"). Dette Osservazioni non aggiungono, pertanto, nuove informazioni
+     o argomenti che cambierebbero materialmente la richiesta iniziale. L'analisi
+     condotta quindi nella presente Decisione non ignora nessuno degli elementi
+     materiali presenti nella Richiesta di Rinvio e nella Comunicazione e Osservazioni
+     successivamente pervenute.
+IV     VALUTAZIONE DELLA RICHIESTA DI RINVIO
+25.  Senza alcun pregiudizio quanto alla ammissibilità della Richiesta di Rinvio, si nota
+     che nella valutazione della Richiesta di Rinvio che segue sono state prese in esame
+     tutte le argomentazioni ricevute dalla parte notificante, dall'AGCM e i commenti
+     dei terzi.
+Valutazione ai sensi dell'articolo 9, paragrafo 2, lettera b)
+26.  A norma dell'articolo 9 paragrafo 2, lettera b), perché un caso possa essere oggetto
+     di rinvio, la concentrazione deve incidere sulla concorrenza in un mercato che si
+     trova all'interno dello Stato membro richiedente, e che presenta tutte le
+     caratteristiche di un mercato distinto e non costituisce una parte sostanziale del
+     mercato comune.
+27.  Lo Stato membro è tenuto, come detto, a dimostrare che il mercato geografico (o i
+     mercati geografici) nel quale l'operazione incide costituisce un mercato distinto
+     all'interno del suo territorio e che lo stesso non costituisce una parte sostanziale del
+                                               9
+
+       mercato comune, mentre resta inteso che la Commissione dispone il rinvio allorchè
+       consideri che l'operazione incida sulla concorrenza in un mercato distinto che non
+       costituisce una parte sostanziale del mercato comune.
+      “Incidere sulla concorrenza”
+28.    L'articolo 9 paragrafo 2, lettera b), deve essere letto alla luce della giurisprudenza
+       del Tribunale11 come anche in connessione con gli scopi che il Regolamento
+       concentrazioni si prefigge di raggiungere e con i principi stabiliti nella
+       Comunicazione sul rinvio. Se il concetto di "incidere sulla concorrenza" fosse
+       costruito in maniera troppo lata tanto da risultare soddisfatto con la sola verifica
+       dell'esistenza (anche minima) di una certa sovrapposizione orizzontale tra le attività
+       delle parti, e fosse sufficiente per una autorità di concorrenza nazionale solo
+       asserire che una certa entità territoriale costituisce un mercato geografico rilevante
+       (in questo caso anche in contrasto con la pratica decisionale della Commissione
+       sulla definizione del mercato geografico rilevante), questo comporterebbe che
+       numerosi casi ora rientranti nella competenza della Commissione potrebbero
+       potenzialmente essere soggetti a una modifica della competenza giurisdizionale
+       anche dopo essere stati notificati. Ciò indebolirebbe l'intento del regolamento sulle
+       concentrazioni di garantire la certezza del diritto quanto alla indicazione
+       dell'autorità competente, ai tempi e alla legge applicabile alla transazione.
+29.    Dalla considerazione di cui sopra deriva che qualsiasi riattribuzione di competenza
+       dovrebbe essere eccezionale e dovrebbe essere necessariamente basata su
+       significativi e dimostrabili seri dubbi sollevabili anche prima facie, e sull'assunto
+       che l'autorità richiedente sia la più idonea a trattare il caso. A tale riguardo la
+       Comunicazione sul rinvio richiede al par. 13 "motivi impellenti per derogare alla
+       competenza originaria" e in rispetto dell'articolo 9, paragrafo 2, lettera b) stabilisce
+       al par. 39 che tali "indicazioni preliminari […] posso essere solo indizi a prima
+       vista di un eventuale impatto negativo"12.
+30.    I segmenti di mercato su cui risulta una sovrapposizione delle attività delle due
+       parti sono quelli dei servizi di banca al dettaglio.
+11  Si veda la nota 8 supra.
+                                               10
+
+31.    La Commissione non ha ancora assunto una posizione definitiva quanto al mercato
+       del prodotto relativo alla banca al dettaglio, e ha generalmente condotto l'analisi a
+       livello nazionale, prendendo in considerazione la distribuzione territoriale degli
+       sportelli delle parti dell'operazione e, in alcuni casi in via conservativa, ha anche
+       tenuto conto di altri indicatori della loro presenza a livello regionale13.
+32.    Nella sua pratica decisionale nel settore dei servizi bancari al dettaglio, la
+       Commissione non ha mai definito un mercato regionale. Una delimitazione del
+       mercato in maniera ancora più ristretta, vale a dire a livello provinciale, non è stata
+       considerata dalla Commissione.
+33.    Per quanto concerne la gestione dei conti correnti personali, dei conti di risparmio,
+       degli impieghi e per quanto concerne i servizi di banca privata, l'operazione non dà
+       luogo a mercati rilevanti a livello nazionale, con quote di mercato in tutti i casi
+       inferiori al 5% in ogni possibile segmento di mercato, con la sola eccezione del
+       credito al consumo, in cui, a causa delle due joint venture di cui CA è parte, l'entità
+       risultante dalla concentrazione avrebbe circa il [20-30]% del mercato complessivo
+       del credito al consumo, ma una quota molto inferiore sul segmento dei prestiti
+       effettuati presso le agenzie bancarie, il quale è l'unico segmento in cui la Target è
+       attiva e si configurerebbe quindi una sovrapposizione .
+34.    In Italia CA controlla al momento 730 agenzie bancarie (circa il 2% delle agenzie
+       bancarie presenti sul territorio nazionale), mentre la Target detiene 172 agenzie
+       (molto meno dell'1% di tutte le agenzie). La distribuzione degli sportelli tra CA e la
+       Target è comunque in larga misura complementare con solo minori sovrapposizioni
+       a livello regionale o provinciale. Gli sportelli della Target sono principalmente
+       situati nel centro-nord Italia, e in particolare nelle regioni della Liguria, Lombardia,
+       Toscana e Lazio. La Target ha qualche sportello anche in Emilia Romagna (4
+       sportelli) e in Veneto (11 sportelli). CA possiede un totale di 242 sportelli nelle
+       regioni in cui la Target è presente, circa il 40% dei quali sono situati in Emilia
+       Romagna. In termini di sportelli bancari a livello regionale, le parti deterrebbero
+12  Allo stesso modo secondo la Comunicazione sul rinvio (para. 39) è onere dello Stato membro
+    richiedente dimostrare che in base ad un'analisi preliminare esiste un rischio reale ce la transazione
+    possa avere un impatto negativo sulla concorrenza.
+13  Si veda per esempio il caso COMP/M.5811 – Erste Bank/ASK, in cui sono stati esaminati i dati della
+    regione dell'Alta-Austria, COMP/M. 3894 UNICREDITO/HVB in cui dati sono stati sommessi relativi
+    alle vojvod, cioè regioni, polacche; e più recentemente il caso COMP/M.4948 - Santander / Rainbow.
+                                                      11
+
+       una quota di mercato totale del 9% in Liguria, 2% in Lombardia, 3% in Veneto,
+       14% in Emilia Romagna, 3% in Toscana e 2% in Lazio. Se si considerasse la
+       dimensione provinciale, le quote delle parti sulla base degli sportelli rimarrebbe
+       sotto il 15% in quasi tutte le province italiane, con solo tre eccezioni (La Spezia,
+       Parma e Massa Carrara). Anche in tali province, la sovrapposizione sarebbe
+       relativamente bassa e comunque sotto l'1% in termini di numero di sportelli. A La
+       Spezia CA ha 1 agenzia (0.74%) e la Target ha 54 agenzie (39.71%). A Parma CA
+       ha 91 agenzie (25.42%) e la Target 2 agenzie (0.56%). A Massa Carrara, CA ha 1
+       agenzia (0.88%) e la Target ha 16 agenzie (14.16%).
+35.    Nonostante questi chiari presupposti, e in considerazione della Richiesta di Rinvio,
+       sebbene la stessa sia non sufficientemente motivata, la Commissione ha
+       considerato l'operazione anche alla luce della pratica decisionale dell'AGCM, senza
+       tuttavia accogliere la definizione del mercato adottata dall'AGCM.
+36.    Secondo i dati forniti dalla Banca d'Italia14, la quota complessiva delle parti nel
+       mercato provinciale dei conti correnti, depositi a risparmio, buoni fruttiferi,
+       certificati di deposito, sarebbe la seguente:
+       La Spezia
+       Parti [40-50]% (CA [0-5]%, Target [40-50]%); UBI [10-20]%; Carige [5-10]%;
+       Monte dei Paschi [5-10]%; Unicredit [5-10]%; ISP [0-5]%
+       Parma
+       Parti [30-40]% (CA [30-40]%, Target [0-5]%)
+       Massa Carrara
+       Parti [10-20]% (CA [0-5]%, Target [10-20]%).
+37.    Dal momento che ISP manterebbe post-merger una quota di mercato di quasi il [0-
+       5]% a La Spezia15 e CA aveva pre-merger l'[0-5]%, l'operazione a livello
+       provinciale comporterebbe in realtà un grado complessivo di concentrazione del
+14  Si farà sempre riferimento ai dati raccolti per provincia di sportello, e non quelli raccolti per residenza
+    di controparte.
+15  L'unica provincia esplicitamente citata dall'AGCM (e solo nella comunicazione successivamente
+    pervenuta).
+                                                      12
+
+    mercato inferiore a quello iniziale (con delta HHI negativo). Come detto,
+    l'incremento a seguito del progetto di concentrazione consisterebbe in un solo
+    sportello, comportando una situazione post-merger pro concorrenziale, che
+    vedrebbe il costituirsi di un leader di mercato più debole di quello attualmente
+    presente (al momento ISP ha una quota di mercato pari al [40-50]%), mentre,
+    secondo CA, ISP, che a seguito della concentrazione resta attiva nel mercato,
+    godrebbe della capacità di crescita interna ed esterna derivante dalla forza del
+    marchio e della struttura finanziaria legata alla precedente posizione di leadership.
+38. Nel mercato considerato dall'AGCM degli impieghi alle famiglie consumatrici, le
+    parti a livello provinciale avrebbero, secondo i dati forniti dalla Banca d'Italia, le
+    seguenti quote di mercato:
+    La Spezia
+    Parti [40-50]% (CA [5-10]%, Target [40-50]%); Carige [10-20]%; UBI [10-20]%;
+    Monte dei Paschi [5-10]%; ISP [5-10]%; Deutsche Bank [0-5]%.
+    Parma
+    Parti [30-40]% (CA [30-40]%; Target [0-5]%)
+    Massa Carrara
+    Parti [10-20]% (CA [0-5]%, Target [10-20]%).
+39. Anche in questo caso l'operazione comporterebbe nella provincia di La Spezia un
+    grado complessivo di concentrazione del mercato inferiore, dal momento che ISP
+    manterebbe il [5-10]% del mercato mentre CA pre-merger aveva il [5-10]% del
+    mercato (un indice HHI di [2500-3000] e un delta di –[0-50]). Il leader di mercato
+    sarebbe post-merger leggermente meno forte di quello attuale, mentre ISP, che
+    resta presente nel mercato, godrebbe, secondo CA, della capacità di crescita interna
+    ed esterna derivante dalla forza del marchio e della struttura finanziaria legata alla
+    precedente posizione di leadership.
+40. Per quanto concerne il mercato regionale degli impieghi alle imprese considerato
+    dall'AGCM, ulteriormente segmentato in impieghi alle PMI e impieghi alle
+    imprese, la quota di mercato aggregata delle parti non supererebbe in nessun caso
+    [5-10%] a livello regionale con una sovrapposizione minima.
+                                            13
+
+41.    Anche per quanto concerne il mercato del credito al consumo, ritenuto dall'AGCM
+       regionale solo con riferimento al segmento relativo al credito diretto16, la quota di
+       mercato aggregata delle parti non supererebbe in nessun caso [5-10%] a livello
+       regionale con una sovrapposizione minima di meno del [0-5%].
+42.    Nel mercato considerato dall'AGCM della distribuzione dei prodotti del risparmio
+       gestito, la quota di mercato aggregata delle parti sarebbe la seguente:
+      Parma
+      [40-50]% (incremento di meno del [0-5]%)
+      La Spezia
+      [10-20]% (incremento del [0-5%])
+      Massa-Carrara
+      [5-10]% (incremento del [0-5%]).
+43.    Dai dati esposti appare evidente la mancanza di un incremento trascurabile della
+       quota di mercato dell'entità risultante dalla concentrazione.
+44.    Come rilevato dall'analisi condotta supra a livello provinciale e regionale, anche
+       volendo considerare un ipotetico mercato geografico locale seguendo nel presente
+       caso l'approccio dell'AGCM in alcuni suoi precedenti17, non si potrebbe
+       configurare a prima vista alcun impatto negativo sulla concorrenza. Questo poiché
+       le sovrapposizioni tra le attività delle parti, laddove esistenti, sono estremamente
+       limitate o poiché, dove le sovrapposizioni sono leggermente più significative in
+       termini di valore (anche se consistenti comunque in un solo sportello) come nella
+       provincia di La Spezia, l'operazione comporterebbe in realtà una diminuzione del
+       grado di concentrazione dal momento che Intesa SanPaolo, se da una parte
+16  Secondo l'AGCM il credito diretto è erogato prevalentemente da banche sotto forma di prestiti
+    personali senza vincolo di destinazione e come tale non differisce in maniera sostanziale dalla
+    categoria degli impieghi alle famiglie erogati dalle banche (mercato rilevante che quindi l'AGCM
+    considera due volte sotto differenti titoli). L'AGCM considera invece a livello nazionale il secondo
+    segmento del credito al consumo finalizzato all'acquisto di beni specifici (autoveicoli, motocicli,
+    mobili, ecc.), così come definisce nazionale il mercato aggregato del credito al consumo
+    (comprendente sia il segmento del credito diretto che quello del credito finalizato).
+17  Voir par exemple l'affaire C8027B BANCA INTESA/SAN PAOLO IMI de l'AGCM, décision du 20
+    décembre 2006.
+                                                     14
+
+      dismetterebbe Carispe, manterrebbe post-merger una presenza nel mercato
+      attraverso propri sportelli. Inoltre, in ciascuna delle province in questione sono
+      presenti le maggiori banche nazionali (Unicredit, Monte dei Paschi di Siena, Banco
+      Popolare, Ubibanca, BNL e la stessa ISP).
+45.   Sulla base dei dati raccolti nell'indagine di mercato e sopra esposti, la Commissione
+      è dell'avviso che il progetto di concentrazione non abbia alcun effetto critico
+      possibile sui mercati provinciali e regionali italiani della banca al dettaglio.
+46.   Questa sola conclusione potrebbe essere sufficiente al fine del respingimento della
+      Richiesta di Rinvio italiana visto che le condizioni dell'articolo 9(2)(b) sono
+      cumulative. Le altre considerazioni stabilite dall'articolo 9, paragrafo 2, lettera b)
+      sono comunque prese in esame di seguito. In particolar modo, si farà menzione
+      della correttezza della definizione di un mercato geografico sub-nazionale.
+Mercato distinto
+47.   Nel valutare una richiesta ai sensi dell'articolo 9 paragrafo 2, lettera b) del
+      regolamento concentrazioni, la Commissione deve innanzitutto verificare se
+      all'interno dello Stato membro richiedente esista un mercato che presenta tutte le
+      caratteristiche di un mercato distinto. Secondo la giurisprudenza del Tribunale18 la
+      Commissione deve effettuare una tale valutazione sulla base della definizione del
+      mercato rilevante del prodotto e di quello geografico.
+48.   Il progetto di concentrazione interessa il mercato della banca al dettaglio e sono
+      stati identificati, secondo la prassi decisionale della Commissione, una serie di
+      possibili segmenti, non concludendo se gli stessi costituiscano mercati separati:
+      conti correnti, conti risparmio, prestiti personali, credito al consumo, carte di
+      credito, carte di debito, mutui e distribuzione dei fondi di investimento19.
+49.   Se è vero che nei casi sottoposti alla sua competenza, ivi compresi i casi
+      coinvolgendo l'Italia20, il mercato geografico è stato considerato solitamente a
+18  Cause riunite T-346/02 e T-347/02 Cableuropa SA e altri.
+19  M.4844 - Fortis/ABN AMRO ASSETS.
+20  Si vedano i casi IV/M.1712 Generali/INA; COMP/M.3067 - INTESA / CAPITALIA / IMI
+    INVESTIMENTI / UNICREDITO / FIDIS RETAIL, paragrafi 48 e 49; COMP/M.4511 CREDIT
+    AGRICOLE / CARIPARMA / FRIULADRIA.
+                                                 15
+
+       livello nazionale, e comunque non più ampio di quello nazionale, la Commissione
+       ha comunque generalmente analizzato alcuni dati di settore riguardanti la
+       distribuzione geografica degli sportelli delle imprese parti della concentrazione e in
+       alcuni casi, su base conservativa, ha anche considerato aree geografiche più
+       ristrette21. Il fattore principale preso in esame è l'esistenza di un network di
+       sportelli e la loro distribuzione territoriale. Nei casi in cui l'entità acquirente aveva
+       un impatto regionale, la Commissione ha considerato la distribuzione territoriale
+       della rete di sportelli interessati al fine di valutare la pressione competitiva
+       specifica che si sarebbe potuta determinare in certe regioni, senza per questo,
+       tuttavia, definire mercati sub-nazionali.
+50.    Sebbene nella Richiesta di Rinvio e nella Comunicazione non siano state sollevate
+       specifiche motivazioni per considerare una definizione del mercato più ristretta di
+       quella nazionale, si nota che la passata prassi decisionale dell'AGCM nel campo dei
+       servizi bancari al dettaglio ha seguito una definizione geografica provinciale dei
+       mercati dei conti correnti, depositi a risparmio, buoni fruttiferi, certificati di
+       deposito e impieghi a famiglie consumatrici, mentre una definizione a livello
+       regionale per i mercati degli impieghi alle imprese (ivi inclusi gli impieghi alle
+       pubbliche amministrazioni e agli enti non profit)22. Le ragioni invocate per tale
+       definizione del mercato rilevante risiedono nella scarsa propensione della clientela
+       bancaria alla mobilità. Tuttavia la Comunicazione della Commissione sulla
+       definizione del mercato chiarisce che questo è solo uno dei fattori da prendere in
+       esame e non è di per sé sufficiente per stabilire l'esistenza di mercati geografici più
+       ristretti23. La definizione dei mercati rilevanti generalmente stabilita dalle indagini
+       di mercato condotte dalla Commissione nei precedenti casi bancari, non prende in
+       esame alcuna propensione della clientela allo spostamento per fruire dei servizi
+       bancari, che sarebbe probabilmente abbastanza bassa anche in altri Stati membri,
+21  Si vedano i casi COMP/M.5811 – Erste Bank/ASK, in cu furono forniti dati per la regione dell'austria
+    settentrionale; COMP/M.3894 Unicredit/HVB in cui i dati furono forniti a livello delle regioni
+    polacche; e più recentemente il caso COMP/M.4948 - Santander / Rainbow.
+22  Si veda ad esempio il caso C8027B BANCA INTESA/SAN PAOLO IMI, decisione del 20 dicembre
+    2006.
+23  Paragrafi 29-31.
+                                                 16
+
+       ma risiede sull'osservazione di condizioni di concorrenza omogenee sul territorio
+       nazionale (o almeno in una parte sostanziale del medesimo)24.
+51.    La prassi dell'AGCM di analizzare l'impatto competitivo a livello delle regioni e
+       province italiane trova altresì esplicito fondamento sulla precedente pratica della
+       Banca d'Italia nel campo della tutela della concorrenza nel settore bancario nonché
+       sull'accordo tra la Banca d'Italia e l'AGCM relativo, inter alia, alla definizione dei
+       mercati rilevanti strettamente bancari al tempo in cui la stessa Banca d'Italia aveva
+       competenza per i casi antitrust nel settore dei servizi finanziari.La definizione del
+       mercato geografico cui fa riferimento l'AGCM è inoltre la medesima utilizzata
+       dalla Banca d'Italia per la raccolta delle informazioni e dei dati per le funzioni di
+       vigilanza prudenziale. Tali definizioni sono pertanto basate su confini
+       amministrativi formali e non considerano necessariamente considerazioni relative a
+       condizioni di concorrenza comparabili sull'intero territorio nazionale come viene
+       riferito al paragrafo 50 sopra.
+52.    Altroché la bassa disponibilità dei clienti a spostarsi a fine di ottenere servizi
+       bancari, l'AGCM non ha fornito alcuna altra argomentazione nella Richiesta di
+       Rinvio, nella Comunicazione o nelle Osservazioni a supporto di tale definizione del
+       mercato.
+53.    Nel caso presente, in tutte le regioni e province in cui vi sono sovrapposizioni tra le
+       parti c'è una presenza di sportelli di tutti i principali concorrenti nazionali come
+       Unicredit, Monte dei Paschi di Siena, Banco Popolare, Ubi Banca, BNL and ISP
+       così come di operatori minori (uno dei maggiori concorrenti a La Spezia è Carige,
+       una banca originaria della attigua provincia di Genova ma ora con presenza
+       nazionale). I servizi offerti non differiscono da una provincia o regione all'altra, il
+       contesto legale e regolamentare è uniforme in tutta Italia e le condizioni
+       commerciali sono omogenee sul territorio nazionale. Questo viene sostenuto anche
+       dalla parte notificante il progetto di concentrazione in esame, la quale aggiunge
+       anche che la diffusione di servizi di home-banking e di operatori esclusivamente o
+       quasi esclusivamente attivi su internet (come per esempio ING Direct, Fineco
+24  As esempio l'AGCM ha definito a livello nazionale il mercato del credito al consumo proprio in
+    considerazione del fatto che le caratteristiche di produzione e di commercializzazione dei prodotti e
+    servizi finanziari risultano essere omogenee sull'intero territorio nazionale.
+                                                     17
+
+       Banca, Chebanca), che hanno reso possibile l'offerta dei servizi tradizionali della
+       banca al dettaglio senza recarsi fisicamente presso lo sportello, ha contribuito a
+       questo fenomeno di omogeneizzazione delle condizioni di offerta dei servizi
+       bancari in Italia, sottolineando altresì come non sia possibile riscontrare barriere
+       all'entrata nel settore bancario italiano.
+54.    Visto che (i) incombe all'autorità nazionale di fornire le prove che le condizioni per
+       cambiare la giurisdizione originaria sono riunite come figura all'articolo 9(2)(b),
+       (ii) la consolidata prassi decisionale della Commissione nel settore e (iii) le
+       indicazioni raccolte nell'esame del mercato, l'AGCM non ha presentato un
+       ragionamento e prove sufficienti da permettere alla Commissione di concludere nel
+       caso presente che le province e le regioni possano essere considerate mercati
+       geografici distinti e pertanto che il criterio previsto dall'articolo 9, paragrafo 2,
+       lettera b) sia soddisfatto.
+      Parte non sostanziale del mercato comune
+55.    Nel valutare se un determinato mercato formi una parte sostanziale del mercato
+       comune la Commissione nel passato ha considerato fattori quali l'importanza
+       economica dei servizi e dei territori interessati, il volume del commercio infra-
+       comunitario, così come generali fattori geografici. L'AGCM, d'altra parte, non ha
+       fornito alcuna motivazione che possa giustificare perché le province (o regioni) in
+       questione non costituiscano una parte sostanziale del mercato comune.
+56.    Come menzionato anche al paragrafo 40 della Comunicazione sul rinvio, tali
+       situazioni si verificano generalmente solo nel caso di mercati che hanno un ambito
+       geografico circoscritto all'interno di uno Stato membro, anche se tale ristretto
+       ambito geografico non preclude a priori alla Commissione di considerare i mercati
+       interessati come costituenti una parte sostanziale del mercato comune25.
+57.    Dal momento che secondo la prassi consolidata della Commissione i mercati dei
+       servizi bancari al dettaglio sono considerati nazionali, e che tale orientamento è
+       stato espresso anche in relazione al mercato italiano, la Commissione potrebbe
+       deviare dalla propria pratica decisionale solo nel caso in cui l'AGCM avesse
+       presentato argomentazioni sufficienti a contrastare tale costante orientamento della
+25  A tale proposito si veda la giurisprudenza comunitaria citata nella nota 34 della Comunicazione sul
+    rinvio.
+                                                  18
+
+       Commissione, giustificando puntualmente una diversa definizione del mercato
+       tramite evidenze documentali e fattuali legate al caso di specie.
+58.    La Commissione non può infatti basare un tale radicale cambiamento di
+       impostazione solo facendo riferimento alla diversa prassi decisionale dell'autorità
+       richiedente il rinvio per quanto concerne la definizione del mercato.
+59.    E se pure la Commissione avesse fatto propria nel caso di specie la definizione del
+       mercato adottata nei precedenti dell'AGCM, sarebbe rimasto onere della stessa dare
+       prova che le province e le regioni interessate dall'operazione non costituiscano una
+       parte sostanziale del mercato comune26.
+60.    Oltretutto, è solo il caso di menzionare che l'AGCM non ha neppure indicato
+       precisamente quali siano i mercati distinti interessati dall'operazione e non
+       costituenti una parte sostanziale del mercato comune. Non sono infatti elencate le
+       province e le regioni su cui l'AGCM ritiene che l'operazione possa avere un effetto
+       critico, né tanto meno gli esatti segmenti del prodotto.
+61.    Sebbene l'AGCM non abbia fornito alcuna motivazione che sia in grado di
+       corroborare l'assunto per cui alcune province o regioni italiane non costituiscano
+       una parte sostanziale del mercato comune, in questa sede non è necessario
+       affrontare la questione dal momento che le tre condizioni previste dall'articolo 9,
+       paragrafo 2, lettera b) sono cumulative e, come già indicato, non si ritiene che
+       nessuna delle prime due condizioni sia soddisfatta27.
+62.    La Commissione ritiene pertanto che le condizioni di rinvio ex articolo 9, paragrafo
+       2, lettera b) non siano soddisfatte.
+26  La Corte di giustizia ha contribuito alla creazione di una vasta nozione di cosa costituisce una parte
+    sostanziale del mercato comune (si veda il paragrafo 40 della Comunicazione sul rinvio) considerando
+    che anche piccole parti di uno Stato membro possono essere considerate parti sostanziali del mercato
+    comune.
+27  Si veda la Comunicazione sul rinvio, paragrafo 37.
+                                                    19
+
+    Valutazione ai sensi dell'articolo 9, paragrafo 2, lettera a)
+63. Secondo l'articolo 9, paragrafo 2, lettera a) una concentrazione deve rischiare di
+    incidere in maniera significativa sulla concorrenza di un mercato all'interno di uno
+    Stato membro e che presenti tutte le caratteristiche di un mercato distinto.
+64. Tali criteri sono cumulativi e dal momento che la formula utilizzata nell'articolo 9,
+    paragrafo 2, lettera a) fa riferimento al "rischiare di incidere in maniera
+    significativa sulla concorrenza", si ritiene che la soglia minima per operare il rinvio
+    sia più elevata rispetto a quella dell'articolo 9, paragrafo 2, lettera b).
+65. Come mostrato sopra, il progetto di concentrazione non desta alcuna seria
+    prospettiva di dubbi qualunque sia la definizione del mercato rilevante presa in
+    esame, anche seguendo la definizione propria dell'AGCM, e d'altronde l'AGCM
+    non ha neppure dimostrato che, in base ad un'analisi preliminare, ci siano rischi che
+    l'operazione possa avere alcun impatto, né tanto meno un impatto negativo
+    significativo, sulla concorrenza.
+66. La Commissione ritiene pertanto che anche le condizioni ex articolo 9, paragrafo 2,
+    lettera a) non siano soddisfatte. Conseguentemente non è necessario procedere ad
+    una analisi degli altri fattori considerati nella Comunicazione sul rinvio.
+V   CONCLUSIONI
+67. Da quanto sopra consegue che le condizioni per la richiesta di rinvio ai sensi
+    dell'articolo 9, paragrafo 2, lettera a), e ai sensi dell'articolo 9, paragrafo 2, lettera
+    b) del regolamento sulle concentrazioni non sono soddisfatte. Ne deriva che in
+    applicazione dell'articolo 9, paragrafo 3 del regolamento sulle concentrazioni, la
+    Commissione non dispone il rinvio del caso.
+                                              20
+
+     HA ADOTTATO LA PRESENTE DECISIONE:
+                                          Articolo 1
+Il progetto di concentrazione notificato, consistente nell'acquisizione del controllo di
+Carispe e delle Agenzie Intesa SanPaolo da parte di Credit Agricole non è rinviato alle
+autorità competenti della Repubblica Italiana, ai sensi dell'articolo 9, paragrafo 3, ultimo
+capoverso, del regolamento (CE) n. 139/2004 del Consiglio.
+                                          Articolo 2
+La Repubblica Italiana è destinataria della presente decisione.
+Fatto a Bruxelles, 10.11.2010
+                                                        (firma)
+                                                        Per la Commissione
+                                                        Joaquin ALMUNIA
+                                                        Vice Presidente
+                                               21
