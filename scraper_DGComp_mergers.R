@@ -304,7 +304,7 @@ DGComp_data <- DGComp_data %>%
 ### Second method of filtering, we extract all decisions which mention "german", "retail" and "bank".
 
 DGComp_filtered <- DGComp_data %>% 
-  filter((str_detect(decision_txt, regex("germany", ignore_case = TRUE)) & str_detect(decision_txt, regex("retail", ignore_case = TRUE)) & str_detect(decision_txt, regex("bank", ignore_case = TRUE))) | decision_lang == "de")
+  filter((str_detect(decision_txt, regex("german", ignore_case = TRUE)) & str_detect(decision_txt, regex("retail", ignore_case = TRUE)) & str_detect(decision_txt, regex("bank", ignore_case = TRUE))) | decision_lang == "de")
 
 ## export
 save(DGComp_data,
