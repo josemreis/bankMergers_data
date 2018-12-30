@@ -290,4 +290,25 @@ if(!dir.exists("data_repo/DGcomp/decision_repo")){
 
 ## write them and save them
 map2(DGComp_data$case_id, DGComp_data$decision_txt, function(id, txt) cat(txt,
-                                                                          file = paste0("data_repo/DGcomp/decision_repo/", id, ".txt")) )
+                                                                          file = paste0("data_repo/DGcomp/decision_repo/", id, ".txt")))
+
+
+#### Identify decisions related with German retail banks--------------------------------------------------------------------
+
+#### Getting the decisions between german banks in the retail sector (relevant geographic market: Germany).
+
+### first filtering method, get all the decisions written in German. So we code the language of the deciion using cld3::detect_language(decision_txt)
+DGComp_data <- DGComp_data %>%
+  mutate(decision_lang = cld3::detect_language(decision_txt))
+
+### Second method of filtering, we extract all decisions which mention "german", "retail" and "bank".
+
+DGComp_filtered <- DGComp_data %>% 
+  filter((str_detect(decision_txt, regex("germany", ignore_case = TRUE)) & str_detect(decision_txt, regex("retail", ignore_case = TRUE)) & str_detect(decision_txt, regex("bank", ignore_case = TRUE))) | decision_lang == "de")
+
+## export
+save(DGComp_data,
+     file = paste0("data_repo/DGcomp/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_filteredGermanRetailBank_mergerCases.Rdata"))
+write.xlsx(DGComp_data,
+           file = paste0("data_repo/DGcomp/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_filteredGermanRetailBank_mergerCases.xlsx"))
+
