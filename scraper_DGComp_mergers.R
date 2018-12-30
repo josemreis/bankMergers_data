@@ -126,6 +126,7 @@ DGComp_cases$decision_url[DGComp_cases$case_id == "M.7492"] <- "not published"
 
 
 DGComp_data <- DGComp_cases
+
 ### export it
 save(DGComp_data,
      file = paste0("data_repo/DGcomp/", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_NACE_K_ALL_mergerCases.Rdata"))
@@ -266,3 +267,27 @@ decision_txt <- map2_chr(DGComp_data$decision_url, DGComp_data$case_id, function
   return(parsed_txt)
   
   })
+
+### Assign it to the dataset and save it
+DGComp_data$decision_txt <- decision_txt
+
+### remove all the ocr pages
+file.remove(list.files()[str_detect(list.files(), regex("\\.png", ignore_case = TRUE))])
+
+### export it
+save(DGComp_data,
+     file = paste0("data_repo/DGcomp/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_NACE_K_ALL_mergerCases.Rdata"))
+write.xlsx(DGComp_data,
+           file = paste0("data_repo/DGcomp/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_NACE_K_ALL_mergerCases.xlsx"))
+
+### Save each decision as a .txt file
+## decision_repo
+if(!dir.exists("data_repo/DGcomp/decision_repo")){
+  
+  dir.create("data_repo/DGcomp/decision_repo")
+  
+}
+
+## write them and save them
+map2(DGComp_data$case_id, DGComp_data$decision_txt, function(id, txt) cat(txt,
+                                                                          file = paste0("data_repo/DGcomp/decision_repo/", id, ".txt")) )
