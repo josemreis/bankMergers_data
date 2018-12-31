@@ -16,6 +16,7 @@
 require(tidyverse)
 require(rvest)
 require(xlsx)
+require(pdftools)
 
 ## data repo
 if(!dir.exists("data_repo")){
@@ -31,20 +32,23 @@ if(!dir.exists("data_repo/germany")){
 #### Scrape the relevant case metadata----------------------------------------------------------------------
 
 ## set the base page
-query_url <- "https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/EN/Entscheidungssuche_Formular.html?nn=3589950&cl2Categories_Format=Fallberichte+Entscheidungen&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc"
+query_url <- "https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/Entscheidungssuche_Formular.html?nn=3589936&cl2Categories_Format=Entscheidungen&gts=3598628_list%253Dheader_text_sort%252Basc&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc"
 
-
-## extract the urls of the subpages
+## subpage vector
 subpages_url <- query_url %>%
   read_html() %>% 
-  html_nodes("#searchResultIndex li:nth-child(3) a , #searchResultIndex li:nth-child(2) a") %>%
-  html_attr("href") %>%
-  paste0("https://www.bundeskartellamt.de/", .) %>%
-  c(query_url, .) # add the first page
+  html_nodes(xpath = '//li[following-sibling::li[@class = "forward"]]/a') %>%
+  html_text() %>%
+  as.numeric() %>%
+  max(.) %>%
+  seq_len(.) %>%
+  paste0("https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/Entscheidungssuche_Formular.html?nn=3589936&cl2Categories_Format=Entscheidungen&gts=3598628_list%253Dheader_text_sort%252Basc&gtp=3598628_list%253D", .,"&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc")
+
 
 ### scrape the case table
 cases_table <- map_df(subpages_url, function(page){
   
+  ### extract the cases from the table
   output <- page %>%
     read_html() %>%
     html_node("#searchResultTable") %>%
@@ -55,13 +59,135 @@ cases_table <- map_df(subpages_url, function(page){
              html_nodes("td a") %>%
              html_attr("href") %>%
              paste0("https://www.bundeskartellamt.de/" ,.) %>%
-             str_trim())
+             str_trim()) %>%
+    set_names(c("case_id", "case_summary", "date", "product_market", "decision", "case_page"))
+  
+  ### go to each case page and extract the decision text url
+  output$decision_url <- map2_chr(output$case_page, output$case_id, function(page, id){
+    
+    print(paste0("Scraping case: ", id))
+    
+    decision_url <- try(page %>%
+                          read_html() %>%
+                          html_node(".FTpdf") %>%
+                          html_attr("href") %>%
+                          paste0("https://www.bundeskartellamt.de" ,.), silent = TRUE)
+    
+    if(class(decision_url) == "try-error"){
+      
+      decision_url <- NA_character_
+      
+    }
+    
+    
+    return(decision_url)
+    
+    Sys.sleep(runif(2,1,3))
+    
+  })
+  
   
   return(output)
   
-  Sys.sleep(3)
 })
 
 ### export it
+save(cases_table,
+           file = paste0("data_repo/germany/1_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.RData"))
+
 write.xlsx(cases_table,
-                 file = paste0("data_repo/germany/", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.xlsx"))
+                 file = paste0("data_repo/germany/1_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.xlsx"))
+
+#### Scrape all the decisions-----------------------------------------------------
+
+### the scraper
+cases_table$decision_url <- map2_chr(bka_data$case_page, bka_data$Reference, function(page, id){
+
+  print(paste0("Scraping case: ", id))
+  
+  decision_url <- try(page %>%
+    read_html() %>%
+    html_node(".FTpdf") %>%
+    html_attr("href") %>%
+      paste0("https://www.bundeskartellamt.de/" ,.), silent = TRUE)
+  
+  
+  
+  
+})
+
+
+#### Parse all the decisions-----------------------------------------------------
+
+bka_data <- cases_table 
+
+bka_data$decision_txt <- map2_chr(bka_data$decision_url, bka_data$case_id, function(dec_pdf, id){
+  
+  print(paste0("parsing case: ", id))
+  
+  ### nto a website, missing the url
+  if(!is.na(dec_pdf) & str_detect(dec_pdf, "\\.pdf")){
+      
+      ## parse it
+      parsed_txt <- try(pdf_text(dec_pdf) %>% 
+                          paste(., collapse = "\r\n"), silent = TRUE)
+      
+      # if couldn't parse it, try ocr
+      if(class(parsed_txt) == "try-error"){
+        
+        parsed_txt <- try(tesseract::ocr(dec_pdf) %>% 
+                            paste(., collapse = "\r\n"), silent = TRUE)
+        
+        
+      }
+      
+      # if yet again it fails, assign NA
+      if(class(parsed_txt) == "try-error"){
+        
+        parsed_txt <- NA_character_
+        
+      }
+      
+    } else {
+        
+    
+    ## no decision
+    parsed_txt <- "no decision text"
+    
+    
+    
+  }
+  
+  
+  ## print str for double checking
+  str(parsed_txt, nchar.max = 1000)
+  
+  ## rest time for the server
+  Sys.sleep(runif(2,1,3))
+  
+  return(parsed_txt)
+  
+})
+
+
+### remove all the ocr pages
+file.remove(list.files()[str_detect(list.files(), regex("\\.png", ignore_case = TRUE))])
+
+### export it
+save(DGComp_data,
+     file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.Rdata"))
+
+write.xlsx(DGComp_data,
+           file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.xlsx"))
+
+### Save each decision as a .txt file
+## decision_repo
+if(!dir.exists("data_repo/DGcomp/decision_repo")){
+  
+  dir.create("data_repo/DGcomp/decision_repo")
+  
+}
+
+## write them and save them
+map2(DGComp_data$case_id, DGComp_data$decision_txt, function(id, txt) cat(txt,
+                                                                          file = paste0("data_repo/DGcomp/decision_repo/", id, ".txt")))
