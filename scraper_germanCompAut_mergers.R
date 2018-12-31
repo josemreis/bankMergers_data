@@ -6,8 +6,7 @@
 
 # Date: 28/12/2018
 
-# Purpose: scrape all relevant data on merger decisions from the Bundeskartellamt website. Lexidale project. 
-
+# Purpose: scrape all relevant data on merger decisions from the Bundeskartellamt website.
 ########################################################################
 
 #### Setting things up----------------------------------------------------------------------
