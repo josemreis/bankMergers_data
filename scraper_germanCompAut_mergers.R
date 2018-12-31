@@ -163,6 +163,9 @@ save(bka_data,
 write.xlsx(bka_data,
            file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.xlsx"))
 
+write.csv(bka_data,
+                 file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.csv"))
+
 ### Save each decision as a .txt file
 ## decision_repo
 if(!dir.exists("data_repo/germany/decision_repo")){
