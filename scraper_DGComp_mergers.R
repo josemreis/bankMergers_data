@@ -301,14 +301,13 @@ map2(DGComp_data$case_id, DGComp_data$decision_txt, function(id, txt) cat(txt,
 DGComp_data <- DGComp_data %>%
   mutate(decision_lang = cld3::detect_language(decision_txt))
 
-### Second method of filtering, we extract all decisions which mention "german", "retail" and "bank".
-
+### Second method of filtering, we extract all decisions which mention germany or which are in german.
 DGComp_filtered <- DGComp_data %>% 
-  filter((str_detect(decision_txt, regex("german", ignore_case = TRUE)) & str_detect(decision_txt, regex("retail", ignore_case = TRUE)) & str_detect(decision_txt, regex("bank", ignore_case = TRUE))) | decision_lang == "de")
+  filter((str_detect(decision_txt, regex("german|deutsch", ignore_case = TRUE)) | (str_detect(decision_txt, "no decision") == FALSE & decision_lang == "de")))
 
 ## export
-save(DGComp_data,
+save(DGComp_filtered,
      file = paste0("data_repo/DGcomp/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_filteredGermanRetailBank_mergerCases.Rdata"))
-write.xlsx(DGComp_data,
+write.xlsx(DGComp_filtered,
            file = paste0("data_repo/DGcomp/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","dgComp_filteredGermanRetailBank_mergerCases.xlsx"))
 
