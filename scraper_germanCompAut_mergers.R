@@ -31,7 +31,7 @@ if(!dir.exists("data_repo/germany")){
 #### Scrape the relevant case metadata----------------------------------------------------------------------
 
 ## set the base page
-query_url <- "https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/Entscheidungssuche_Formular.html?nn=3589936&cl2Categories_Format=Entscheidungen&gts=3598628_list%253Dheader_text_sort%252Basc&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc"
+query_url <- "https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/Entscheidungssuche_Formular.html?nn=3589936&gts=3598628_list%253Dheader_text_sort%252Basc&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc"
 
 ## subpage vector
 subpages_url <- query_url %>%
@@ -41,7 +41,7 @@ subpages_url <- query_url %>%
   as.numeric() %>%
   max(.) %>%
   seq_len(.) %>%
-  paste0("https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/Entscheidungssuche_Formular.html?nn=3589936&cl2Categories_Format=Entscheidungen&gts=3598628_list%253Dheader_text_sort%252Basc&gtp=3598628_list%253D", .,"&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc")
+  paste0("https://www.bundeskartellamt.de/SiteGlobals/Forms/Suche/Entscheidungssuche_Formular.html?nn=3589936&gts=3598628_list%253Dheader_text_sort%252Basc&gtp=3598628_list%253D", .,"&cl2Categories_Arbeitsbereich=Fusionskontrolle&resultsPerPage=45&sortOrder=score+desc%2C+dateOfIssue_dt+desc")
 
 
 ### scrape the case table
@@ -155,7 +155,6 @@ bka_data$decision_txt <- map2_chr(bka_data$decision_url, bka_data$case_id, funct
 file.remove(list.files()[str_detect(list.files(), regex("\\.png", ignore_case = TRUE))])
 
 
-
 ### export it
 save(bka_data,
      file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.Rdata"))
@@ -177,7 +176,28 @@ if(!dir.exists("data_repo/germany/decision_repo")){
 ## write them and save them
 map2(bka_data$case_id, bka_data$decision_txt, function(id, txt){
   
-  print(paste0("parsing case: ", id)) 
-  cat(txt, file = paste0("data_repo/germany/decision_repo/", str_replace_all(id, "\\/", "_"), ".txt"))
+  print(paste0("Writing case: ", id)) 
+  cat(txt, file = paste0("data_repo/germany/decision_repo/", str_replace_all(str_trim(id), "\\/|;|\\s+", "_"), ".txt"))
   
   })
+
+
+#### Subset the ank related cases-----------------------------------------------
+
+### just regex matching using the product market variable
+bka_filtered <- bka_data %>%
+  filter(str_detect(product_market, regex("bank|geld|finanz|kredit" , ignore_case = TRUE)) | str_detect(parties, regex("bank|geld|finanz|kredit" , ignore_case = TRUE))) %>%
+  mutate(hc_finished = NA,
+         relevant = NA) %>%
+  select(hc_finished, everything())
+
+
+### export it
+save(bka_filtered,
+     file = paste0("data_repo/germany/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_filtered_mergerCases.Rdata"))
+
+write.xlsx(bka_filtered,
+           file = paste0("data_repo/germany/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_filtered_mergerCases.xlsx"))
+
+write.csv(bka_filtered,
+          file = paste0("data_repo/germany/3_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_filtered_mergerCases.csv"))
