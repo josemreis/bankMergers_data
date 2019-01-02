@@ -22,7 +22,7 @@ if(!dir.exists("data_repo")){
   dir.create("data_repo")
 }
 
-# germany repo
+# DG Comp repo
 if(!dir.exists("data_repo/DGcomp")){
   dir.create("data_repo/DGcomp")
 }

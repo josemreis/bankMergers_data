@@ -150,10 +150,8 @@ bka_data$decision_txt <- map2_chr(bka_data$decision_url, bka_data$case_id, funct
   
 })
 
-
-### remove all the ocr pages
+## remove all the ocr pages
 file.remove(list.files()[str_detect(list.files(), regex("\\.png", ignore_case = TRUE))])
-
 
 ### export it
 save(bka_data,
@@ -165,7 +163,7 @@ write.xlsx(bka_data,
 write.csv(bka_data,
                  file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.csv"))
 
-### Save each decision as a .txt file
+#### Save each decision as a .txt file
 ## decision_repo
 if(!dir.exists("data_repo/germany/decision_repo")){
   
@@ -173,7 +171,7 @@ if(!dir.exists("data_repo/germany/decision_repo")){
   
 }
 
-## write them and save them
+### write them and save them
 map2(bka_data$case_id, bka_data$decision_txt, function(id, txt){
   
   print(paste0("Writing case: ", id)) 
@@ -182,7 +180,7 @@ map2(bka_data$case_id, bka_data$decision_txt, function(id, txt){
   })
 
 
-#### Subset the ank related cases-----------------------------------------------
+#### Subset the bank related cases-----------------------------------------------
 
 ### just regex matching using the product market variable
 bka_filtered <- bka_data %>%
