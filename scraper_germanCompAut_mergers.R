@@ -153,6 +153,10 @@ bka_data$decision_txt <- map2_chr(bka_data$decision_url, bka_data$case_id, funct
 ## remove all the ocr pages
 file.remove(list.files()[str_detect(list.files(), regex("\\.png", ignore_case = TRUE))])
 
+### remove some hidden html entities 
+bka_data  <- bka_data %>%
+  mutate_all(funs(iconv(., from = "UTF-8", to = "ASCII", sub = "")))
+
 ### export it
 save(bka_data,
      file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.Rdata"))
@@ -184,7 +188,7 @@ map2(bka_data$case_id, bka_data$decision_txt, function(id, txt){
 
 ### just regex matching using the product market variable
 bka_filtered <- bka_data %>%
-  filter(str_detect(product_market, regex("bank|geld|finanz|kredit" , ignore_case = TRUE)) | str_detect(parties, regex("bank|geld|finanz|kredit" , ignore_case = TRUE))) %>%
+  filter(str_detect(product_market, regex("bank|geld|finanz|kredit|Girokonten|kasse" , ignore_case = TRUE)) | str_detect(parties, regex("bank|geld|finanz|kredit|Girokonten|kasse" , ignore_case = TRUE))) %>%
   mutate(hc_finished = NA,
          relevant = NA) %>%
   select(hc_finished, everything())
