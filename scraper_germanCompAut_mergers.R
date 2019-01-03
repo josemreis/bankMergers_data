@@ -193,7 +193,7 @@ bka_filtered <- bka_data %>%
   filter(str_detect(product_market, regex("bank|geld|finanz|kredit|Girokonten|kasse" , ignore_case = TRUE)) | str_detect(parties, regex("bank|geld|finanz|kredit|Girokonten|kasse" , ignore_case = TRUE))) %>%
   mutate(hc_finished = NA,
          relevant = NA) %>%
-  select(hc_finished, everything())
+  select(hc_finished, everything()) 
 
 
 ### export it

@@ -33,16 +33,22 @@ if(!dir.exists("data_repo/DGcomp")){
 #### Strategy: We extracted a list of all mergers at the DG comp with the NACE "K" (financial services). We will load that data. Extract the case id, and add it to the following url "http://ec.europa.eu/competition/elojade/isef/case_details.cfm?proc_code=2_M_[numerical part of the id]"
 
 
-### load the id's and prepare them for the url
-dgcomp_merger <- openxlsx::read.xlsx("data_repo/DGcomp/interm_data/allMerger_NACE_K_financialActivities.xlsx")
+### load the id's and prepare them for the url. Its 7352 cases. Keep only the cases relative to banking matters, using the relevant NACE Codes as regex "K\\.64(\\s+|\\.1\\s+|\\.9\\s+|\\.2|\\.19\\s+|\\.20\\s+|\\.91\\s+|\\.99\\s+)|K\\.66(\\s+|\\.1\\s+||\\.3)" as well as those without nace code for hand-coding.
+dgcomp_merger <- read.csv("data_repo/DGcomp/interm_data/allMergers.csv") %>%
+  set_names(names(.) %>%
+              str_to_lower() %>%
+              str_replace_all("ï\\.+", "")) %>%
+  filter(str_detect(nace_code, "K\\.64(\\s+|\\.1\\s+|\\.9\\s+|\\.2|\\.19\\s+|\\.20\\s+|\\.91\\s+|\\.99\\s+)|K\\.66(\\s+|\\.1\\s+||\\.3)") | nchar(nace_code) < 1)
 
-case_ids <- str_extract_all(dg_merger$CASE_CODE, "(?<=M\\.).*") %>%
+case_ids <- str_extract_all(dgcomp_merger$case_code, "(?<=M\\.).*") %>%
   str_trim()
 
 case_pages <- paste0("http://ec.europa.eu/competition/elojade/isef/case_details.cfm?proc_code=2_M_", case_ids)
 
 
-DGComp_cases <- map_df(case_pages, function(page){
+DGComp_cases <- map2_df(case_pages, case_ids, function(page, id){
+  
+  cat(paste0("scraping case: ", id, "\r\n\r\n"))
   
   ### scrape the case table
   case_details_table <- page %>% 
@@ -64,8 +70,10 @@ DGComp_cases <- map_df(case_pages, function(page){
              html_text() %>%
              str_replace_all(., "[[:cntrl:]]", "") %>%
              str_trim() %>%
-             paste(., collapse = "/")) %>%
-    select(parties, everything())
+             paste(., collapse = "/"),
+           case_page = page,
+           case_id = id) %>%
+    select(case_id, parties, everything())
   
   ### scrape the decision_url
   decision_url <- try(page %>%
@@ -98,32 +106,10 @@ DGComp_cases <- map_df(case_pages, function(page){
   
 })
 
-### add the case page
-DGComp_cases$case_page <- case_pages
 
-### add the case id, and rearrange
-DGComp_cases$case_id <- dg_merger$CASE_CODE
-
+### Not published cases...
 DGComp_cases <- DGComp_cases %>%
-  select(case_id, everything())
-
-### Fill in the missing cases
-## open all missing decision which were not Withdrawn and decided
-map(DGComp_cases$case_page[str_detect(DGComp_cases$decisions, regex("Withdrawn|none", ignore_case = TRUE)) == FALSE & is.na(DGComp_cases$decision_url)], function(page){
-  browseURL(page) 
-  Sys.sleep(3)})
-
-## fill them in
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.9056"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.8857"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.8905"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.9216"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.9127"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.1061"] <- "not found"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.1618"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.137"] <- "not published"
-DGComp_cases$decision_url[DGComp_cases$case_id == "M.7492"] <- "not published"
-
+  mutate(decision_url = replace(decision_url, which(is.na(decision_url)), "not published"))
 
 DGComp_data <- DGComp_cases
 
@@ -203,8 +189,7 @@ decision_txt <- map2_chr(DGComp_data$decision_url, DGComp_data$case_id, function
         
         
       } else {
-        
-        ##Parse each one individually, and then paste them together.
+        ## Parse each one individually, and then paste them together.
         
         # container var
         container <- rep(NA, length(splitted_dec))
@@ -303,7 +288,11 @@ DGComp_data <- DGComp_data %>%
 
 ### Second method of filtering, we extract all decisions which mention germany or which are in german.
 DGComp_filtered <- DGComp_data %>% 
-  filter((str_detect(decision_txt, regex("german|deutsch", ignore_case = TRUE)) | (str_detect(decision_txt, "no decision") == FALSE & decision_lang == "de")))
+  filter((str_detect(decision_txt, regex("german|deutsch", ignore_case = TRUE)) & str_detect(decision_txt, regex("bank", ignore_case = TRUE))) | (str_detect(decision_txt, "no decision") == FALSE & decision_lang == "de")) %>%
+  mutate(hc_finished = NA,
+         relevant = NA,
+         case_id = paste0("M.", case_id)) %>%
+  select(hc_finished, everything())
 
 ## export
 save(DGComp_filtered,
