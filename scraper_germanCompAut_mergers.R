@@ -155,13 +155,15 @@ file.remove(list.files()[str_detect(list.files(), regex("\\.png", ignore_case = 
 
 ### remove some hidden html entities 
 bka_data  <- bka_data %>%
-  mutate_all(funs(iconv(., from = "UTF-8", to = "ASCII", sub = "")))
+  mutate(parties = iconv(parties, from = "UTF-8", to = "ASCII", sub = ""),
+         product_market = iconv(product_market, from = "UTF-8", to = "ASCII", sub = ""),
+         decision = iconv(decision, from = "UTF-8", to = "ASCII", sub = ""))
 
 ### export it
 save(bka_data,
      file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.Rdata"))
 
-write.xlsx(bka_data,
+xlsx::write.xlsx(bka_data,
            file = paste0("data_repo/germany/2_", str_extract(Sys.time(), "^.*?(?=\\s)"), "_","germany_merger_cases.xlsx"))
 
 write.csv(bka_data,
